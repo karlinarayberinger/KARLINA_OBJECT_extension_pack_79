@@ -99,3 +99,22 @@ The final linked report is a much larger field guide to an August 15 journal pag
 Near the end of p1’s sequence, the file points back to itself and then to journal_karbytes_23september2026_p2.txt. The self-reference creates a literal loop in this small index. The p2 entry records a later correction to mismatches between visible hyperlink text and anchor destinations in the social media posts material associated with the apparently finalized KARLINA_OBJECT_extension_pack_78. It says karbytes reopened that micro-directory for the correction and then deemed it apparently finalized again. As karbytes subsequently clarified, the 23 September changes in extension_pack_78 affected four specified files; its generated checksums, size approximations, and M_DISC ZIP catalog were not updated after those changes. That clarification is later context supplied by karbytes, not an explanation contained in the p1 link list.
 
 Taken together, the references make p1 an index to an unusually dense period of documentation. It places an image of physical preservation beside a recording of drumming; transcribed speech beside videos that are unavailable in one journal; conversations about how media was examined beside reports that expose both the results and limits of that examination; and a disc-folder permission fix beside accounts of identity, place, hiatus, and publication schedules. The entry itself does not argue for a single interpretation of these materials. Its ordering gathers them into one inspectable cluster while leaving the connections to be made by the reader. The strongest reading supported by the files is that 23 September was a period of both consolidation and continued interpretation: karbytes was preserving and organizing records, testing how accurately those records could be described, and marking the boundary between a finished extension pack and material still being gathered in the next one.
+
+karbytes:
+
+For each hyperlink which appears in the following web page
+
+(in the order those hyperlinks appear from the top to the bottom of that web page):
+
+(a) If the resource pointed to by the URL is a video file, then do the following:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness.
+
+(b) Otherwise:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+End if.
+End for.
+
+web_page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/journal_karbytes_23september2026_p2.txt
