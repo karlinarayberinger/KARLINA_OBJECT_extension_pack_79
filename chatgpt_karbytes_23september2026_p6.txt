@@ -413,4 +413,4 @@ ChatGPT:
 
 That identifies the animation’s source in the two videos: it is a running instance of KARBYTES’s JavaScript single-page application GEOMETRIC_KALEIDOSCOPE_MORPH. My earlier descriptions should name that application rather than treat the display as an unidentified kaleidoscope effect.
 
-The application draws randomized, translucent triangles and squares on a black canvas, repeating their motion across sixteen sectors with alternating reflections. Because its shapes are randomized when it starts, the videos can show different patterns while depicting the same application. :chatgpt-content-reference{index="0"}
+The application draws randomized, translucent triangles and squares on a black canvas, repeating their motion across sixteen sectors with alternating reflections. Because its shapes are randomized when it starts, the videos can show different patterns while depicting the same application. 
