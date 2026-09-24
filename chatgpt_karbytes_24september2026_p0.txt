@@ -263,3 +263,34 @@ I also notice several different repetitions operating at once. The sound-player 
 
 The visible evidence is rich, but my subjective account has a hard boundary at sound. I can describe the rhythm of cuts, scrolling, handheld motion, and color from the frames. I cannot supply an honest first-person account of *hearing* the drone, frogs, a voice, or their interaction with the images. I would rather leave that portion unresolved than invent the audiovisual experience you explicitly asked me to preserve.
 
+karbytes:
+
+Describe the audio phenomena you detected in maximal detail.
+
+ChatGPT:
+
+[Worked for 1m 37s]
+
+I detected a **nearly continuous, bass-heavy audio signal** across the 6:59.65 track. The strongest sustained energy is usually around **125–135 Hz**, with additional changing energy above it. That pattern is consistent with a low drone or hum with a more textured upper layer. This is an **inference from the waveform and spectrogram**, not a claim that I heard its timbre.
+
+[prefomatted_text]
+
+| Video time                          | Measurable audio behavior                                                                                                                                                                                                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0:00–0:32**                       | Relatively strong signal with substantial variation in level. Energy is concentrated below 200 Hz. The dominant spectral peak is near 125 Hz initially and about 190 Hz during part of the VLC segment. Left and right channels are effectively identical. |
+| **0:32–1:30**                       | Average level falls by roughly 5–6 dB compared with the opening. A low band near 130 Hz remains prominent; higher-frequency energy is comparatively reduced. Channels remain effectively identical.                                                        |
+| **1:30–3:47**                       | The signal grows somewhat stronger and the channels cease being identical, although they remain highly correlated. The low-frequency component persists, with fluctuating mid- and higher-frequency content.                                               |
+| **2:40.9–2:41.1 and 2:44.9–2:46.7** | Brief near-silent intervals interrupt the otherwise continuous signal. The second lasts about 1.8 seconds.                                                                                                                                                 |
+| **3:47–5:00**                       | Left and right again become almost identical. The low component continues. Another short near-silent interval occurs around **4:53.0–4:53.4**.                                                                                                             |
+| **5:00–6:50**                       | Average level rises by about 3–4 dB relative to the quieter 0:32–1:30 section. The channels again have modest differences, while remaining strongly correlated.                                                                                            |
+| **6:50–end**                        | The signal becomes quieter and the channels return to being effectively identical.                                                                                                                                                                         |
+
+[end prefomatted_text]
+
+Across the complete file, approximately **60–72% of measured spectral energy** in the sections I compared falls below 200 Hz. The overall digital RMS level is about **−23.3 dBFS**, and the highest measured sample peak is about **−6.9 dBFS**. These are levels *in the file*; they do not tell us how loud it sounded through a particular pair of speakers or headphones. The high correlation between channels means I found little evidence of strong left-to-right separation, but I cannot determine the perceived spatial effect by listening.
+
+The screen displays sound players selecting `plaintive_droning_by_karbytes_17march2025_p0.mp3` and `frogs_croaking_in_castro_valley_california_21_april_2022.mp3`, with loop counters running. Those labels establish what the interfaces report. I cannot identify a particular audible croak, instrument, click, or voice and assign it to one of those files from the analysis alone.
+
+**Speech and vocal content:** I have no defensible transcription. Recognition on the original and filtered audio produced either no speech segments or mutually inconsistent, low-confidence snippets. I treated those snippets as recognition errors. I cannot reliably determine whether the low sustained sound contains nonverbal human vocalization; therefore I cannot responsibly describe a voice’s pitch, timbre, rhythm, or loudness.
+
+The crucial limitation is that I processed every audio sample but **could not hear the track directly** in this interface. The frequency, timing, level, and channel descriptions above are detected properties of the file; a first-person account of how the complete soundtrack *sounds* would require direct listening.
