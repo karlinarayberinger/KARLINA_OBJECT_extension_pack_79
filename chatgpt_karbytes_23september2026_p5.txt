@@ -363,3 +363,11 @@ The document’s main development is the change in how KARBYTES pages move outwa
 karbytes:
 
 What I think I might have failed to mention (up until now) in KARBYTES is that KARBYTES social media post logging web pages list posts in the chronological order in which they were published (even if their logged time stamps appear to be identical). A post record higher on the page was posted before a post which is lower than that post on the web page (in terms of visual page rendering on computational hardware devices or simulators of such).
+
+ChatGPT:
+
+[Worked for 20s]
+
+Understood. I should correct my earlier description of entries with the same timestamp as “simultaneous.” The timestamps are approximate; **the ledger’s top-to-bottom order supplies the posting sequence**. Every higher record was posted before every lower record, including records labeled 6:00 AM on September 22 and the two Patreon records labeled 4:30 PM on September 23.
+
+That also changes how I should describe the repeated chatgpt_karbytes_20september2026_a0 entry. The two September 22 records represent two ordered sharing occurrences for the same page, with another record between them. The ledger does not specify the order of posting to individual platforms *within* either four-platform record.
