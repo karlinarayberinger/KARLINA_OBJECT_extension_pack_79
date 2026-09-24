@@ -422,3 +422,11 @@ A runtime instance of the aforementioned application was used to make the follow
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p1_[abridged_02july2026].gif
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_06july2026/]
+
+ChatGPT:
+
+[Worked for 1m 20s]
+
+That adds a useful distinction to the earlier video descriptions. The GIF in journal_karbytes_06july2026 captures a browser displaying a runtime instance of GEOMETRIC_KALEIDOSCOPE_MORPH; it is a recording of the application’s output, rather than the live application itself. The journal page embeds it as an image. 
+
+I checked the GIF: it is 400 × 225 pixels, contains 210 frames spanning about 14 seconds, has no audio track, and is set to loop indefinitely. In the WordPress page, the browser repeats those recorded frames automatically. The live JavaScript application instead keeps rendering new frames.
