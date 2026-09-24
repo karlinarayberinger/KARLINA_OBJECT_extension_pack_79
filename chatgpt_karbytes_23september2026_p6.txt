@@ -400,3 +400,9 @@ These screenshots preserve whatever was visible in their captured interfaces, in
 The published text attributes to `p0` a spoken discussion of remaining phone recording space, M-DISC capacity, update frequency, embodiment status, and being in the Burrow; to `p1`, discussion of multiple disc copies, moving a package to a vault, attention and resource use, and philosophical speculation; and to `p2`, a metaphor comparing KARBYTES update clusters with galaxies and black holes. Those are **claims in a published transcription**, not speech I independently detected or verified from the absent videos.
 
 The relationship supported by the accessible files is concrete but limited: the screen recording documents activity across KARBYTES pages and an animated program; the handheld video and two adjacent photographs show the Burrow workstation and that program; the other images document screenshots, an assembled graphic, and outdoor scenes. File metadata and pixels do not independently establish the broader personal, metaphysical, or archival claims made in surrounding text.
+
+karbytes:
+
+It should also be noted that the kaleidoscope animation depicted in two of the videos you analyzed in this conversation is a runtime instance of the (JavaScript powered) single web page application featured in the following web page of KARBYTES: 
+
+https://karbytesforlifeblog.wordpress.com/geometric_kaleidoscope_morph/
