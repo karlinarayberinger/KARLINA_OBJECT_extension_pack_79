@@ -339,3 +339,11 @@ Across both sections, the page names eleven distinct MP4 files: seven in the pri
 The WordPress page turns each written media reference into a direct link, but it does not embed players, transcriptions, technical specifications, reviews, or commentary on individual videos. The main section’s “Best of” label states a selection, and the bonus heading states a distinction between the OBS-titled recordings and drum tracks. Neither heading establishes what a listener would hear from the eleven files without opening and examining them. Likewise, the landscape photograph gives the page a vivid visual setting but does not demonstrate that any listed recording contains that scene or was made there.
 
 The document’s specificity lies in its inventory and order. It preserves eleven exact file identities, groups them into seven selected originals and four drum-only bonuses, locates them in four numbered extension packs, and places that arrangement under a September 18 journal date. Its brevity leaves the reasons for selection, the relation to the August 31 reference, and the audiovisual character of each recording open. Read on its own terms, it is a compact listening and viewing index within KARBYTES, framed by an earlier Big Green Thing photograph and made navigable through the archive’s raw media files.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22september2026_a0/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
