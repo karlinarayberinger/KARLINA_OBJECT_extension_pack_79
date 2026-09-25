@@ -2161,12 +2161,18 @@ karbytes:
 
 Oops, I noticed that I accidentally shared the same image URL twice in the last image request. 
 
-=====
+[ChatGPT failed to generate a response due to a supposed server error. karbytes assumed that was due to the conversation context window running out of capacity for additional tokens. karbytes started a new conversation (whose transcript is named chatgpt_karbytes_25september2026_p0.txt)].
 
-karbytes:
+* * *
+
+The following was not yet sent...
+
+[preformatted_text]
 
 Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_in_its_burrow_25september2026_p0.jpg
 
 (The person in that image is a photographic recording of me (main-branch karbytes) while in it burrow. That person is the same person you identified as "the speaker" in each of the three videos I had you decode of 25_SEPTEMBER_2026 thus far).
+
+[end preformatted_text]
