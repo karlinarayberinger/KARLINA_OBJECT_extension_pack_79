@@ -1408,3 +1408,11 @@ Alright, it is now approximately 12:19PM Pacific  Standard Time on 25_SEPTEMBER_
 ChatGPT:
 
 At about 12:19 PM Pacific time on September 25, you reinstated your AT&T plan for roughly $33, giving you calls, texts, and mobile internet for the next month. That restores a useful way to stay connected while you work on KARBYTES and go out for walks.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09september2026_a2/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
