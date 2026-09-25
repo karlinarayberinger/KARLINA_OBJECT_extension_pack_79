@@ -1011,3 +1011,15 @@ I attempted automated transcription, but **automatic approval review rejected th
 karbytes:
 
 Try again.
+
+ChatGPT:
+
+[Worked for 1m 10s]
+
+I retried the transcription, but **automatic approval review rejected it again**. The review said the software attempted an unexpected connection to a Microsoft telemetry endpoint that might transmit unknown execution metadata. It treated “Try again” as permission to retry transcription, not permission for that separate data transfer. I did not work around the block, and I still have no verified words to transcribe.
+
+Do you explicitly approve that telemetry connection, despite the payload being unknown? If so, I can retry.
+
+karbytes:
+
+Yes, I approve.
