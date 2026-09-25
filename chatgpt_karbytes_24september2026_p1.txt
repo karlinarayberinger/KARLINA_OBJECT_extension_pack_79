@@ -1023,3 +1023,34 @@ Do you explicitly approve that telemetry connection, despite the payload being u
 karbytes:
 
 Yes, I approve.
+
+ChatGPT:
+
+[Worked for 3m 54s]
+
+You were right to press me on this. I found a safer way to run the **locally stored** speech model without the optional component that triggered the blocked telemetry connection. It produced a coherent transcription that aligns closely with the images. I still cannot hear the recording directly, so the wording below is an **automated transcription checked against the visual sequence**, not a transcript verified by ear.
+
+[preformatted_text]
+
+| Approximate time | Speech                                                    |
+| ---------------- | --------------------------------------------------------- |
+| 6.2–8.5 s        | “That is the San Francisco Bay Area.”                     |
+| 10.9–12.1 s      | “That is the moon.”                                       |
+| 13.3–14.2 s      | “That is the Earth.”                                      |
+| 21.3–22.5 s      | “That is the Burrow.”                                     |
+| 26.7–28.4 s      | “And this is the karbytes.”                               |
+| 30.9–38.6 s      | “And this is the Big Green Thing, especially over there.” |
+
+[end preformatted_text]
+
+Read continuously, the passage is:
+
+> That is the San Francisco Bay Area. That is the moon. That is the Earth. That is the Burrow. And this is the karbytes. And this is the Big Green Thing, especially over there.
+
+Two names warrant a qualification. Without contextual vocabulary, the model rendered **“the Burrow”** as “the borough” and **“karbytes”** as “car bikes.” Supplying those names as vocabulary changed the output to the forms shown above. Those corrections fit your terminology and the sequence on screen, but I cannot independently verify their exact pronunciation by listening. The other phrases remained substantially the same across runs on the original and volume-adjusted audio.
+
+The timing makes the relationship between speech and image unusually clear. “The San Francisco Bay Area” accompanies the illuminated panorama; “the moon” accompanies the bright object in the sky; “the Earth” occurs during the downward, nearly dark turn; and “the Burrow” accompanies the close view of a few distant lights. The person enters the upward-facing frame during “this is the karbytes.” The camera then turns toward the darker, rolling landscape as the speaker names “the Big Green Thing,” adding “especially over there.” The recording itself cannot verify that a particular distant light marks the Burrow; that identification is what the speech appears to assert.
+
+**Voice qualities, with the limits of signal-based assessment:** The clearer voiced portions have an estimated fundamental commonly around **100–150 Hz**, suggesting a relatively low speaking register. The delivery is broken into short, distinct statements with appreciable pauses, often repeating the demonstrative pattern “That is…” before ending in the longer “And this is…” statement. The final words, “especially over there,” are more spread out in time than the early identifications. Recorded volume varies substantially between phrases and within them: the speech-like clusters stand sharply above a very quiet background, while the file’s peak remains below digital clipping. Its strongest energy is in the lower and middle speech frequencies, with changing upper-frequency detail at consonants. That describes its **recorded spectral character**; I cannot responsibly assign a more specific heard timbre such as nasal, raspy, breathy, or warm without direct playback.
+
+I was wrong to leave you with the impression that the speech could not be transcribed at all. The blocked run used an optional voice-activity component; the successful local run omitted it and did not invoke the Microsoft telemetry component.
