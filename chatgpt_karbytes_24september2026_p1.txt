@@ -781,3 +781,18 @@ For speech, I ran recognition on the original audio and again on a louder, filte
 Finally, I cannot verify that the music you were listening to on the walk is present in this file. I find no convincing measured pattern of a sustained melody or regular musical rhythm, and the classifier did not provide persuasive evidence of music after the level was boosted. That leaves the honest conclusion narrower than “there is no music”: **music is not established by the analysis available to me.**
 
 [1]: https://www.tensorflow.org/hub/tutorials/yamnet?authuser=0000&utm_source=chatgpt.com "Sound classification with YAMNet  |  TensorFlow Hub"
+
+karbytes:
+
+Describe each of the following photographs in maximal detail. Include EXIF data and highly detailed descriptions of what each photograph visually depicts. 
+Finally, generate a maximally detailed essay about those images and also about the video file which is part of the set which encompasses those still images.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/horsey_hill_the_big_green_thing_24sep2026_p1.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/horsey_hill_the_big_green_thing_24sep2026_p2.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/horsey_hill_the_big_green_thing_24sep2026_p3.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/horsey_hill_the_big_green_thing_24sep2026_p4.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/horsey_hill_the_big_green_thing_24sep2026_p5.jpg
