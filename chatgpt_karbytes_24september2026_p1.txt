@@ -898,3 +898,17 @@ You set the effort to Maximum, and now it shows Light. I can’t see the setting
 OpenAI’s documentation says you can change reasoning effort with the control beneath the composer or `/reasoning` for the current chat. Select Max again before the next request. If it switches back to Light on its own, `/feedback` lets you report the behavior with logs. I can’t change that control from inside this conversation. ([ChatGPT Learn][1])
 
 [1]: https://learn.chatgpt.com/docs/models?translationFallback=ja-JP&utm_source=chatgpt.com "Models"
+
+karbytes:
+
+I set it back to Maximum as soon as I noticed it was set to Light by itself.
+
+ChatGPT:
+
+Got it—you’ve set it back to Maximum. I still can’t determine when it changed to Light or which earlier responses were affected. I’ll continue treating your requests for maximal detail literally, and I’ll be clear about anything I couldn’t directly verify.
+
+karbytes:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness. Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/karbytes_thinking_24september2026_p0.mp4
