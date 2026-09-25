@@ -888,3 +888,13 @@ That combination is what stays with me most strongly. No person is visible in th
 karbytes:
 
 I noticed that the effort setting has apparently auto-set to Light when I originally set it to Maximum.
+
+ChatGPT:
+
+[Worked for 1m 22s]
+
+You set the effort to Maximum, and now it shows Light. I can’t see the setting’s history or determine when it changed, so I can’t verify which effort was used for my earlier photo analysis. I’m sorry for the uncertainty, especially given how much detail you requested.
+
+OpenAI’s documentation says you can change reasoning effort with the control beneath the composer or `/reasoning` for the current chat. Select Max again before the next request. If it switches back to Light on its own, `/feedback` lets you report the behavior with logs. I can’t change that control from inside this conversation. ([ChatGPT Learn][1])
+
+[1]: https://learn.chatgpt.com/docs/models?translationFallback=ja-JP&utm_source=chatgpt.com "Models"
