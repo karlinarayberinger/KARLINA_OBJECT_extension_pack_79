@@ -1008,3 +1008,6 @@ The recording contains several **speech-like sound clusters**, so I cannot concl
 
 I attempted automated transcription, but **automatic approval review rejected the run** because the software unexpectedly sought a Microsoft telemetry connection with an unknown payload. I did not retry it through a workaround. To attempt that particular transcription route, I would need your explicit approval for that connection; the need for approval comes from that automatic review, not from any uncertainty about whether you wanted the video transcribed.
 
+karbytes:
+
+Try again.
