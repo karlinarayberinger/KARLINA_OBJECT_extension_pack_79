@@ -983,3 +983,7 @@ The final movement toward the darker hills feels quieter visually than the openi
 [end preformatted_text]
 
 An MP4 ordinarily carries container and stream metadata rather than the camera EXIF fields familiar from JPEG photographs. In the available metadata I found **no reliable GPS coordinates, camera make or model, lens specification, focal length, ISO, shutter speed, or aperture**. The embedded creation time is a file tag; by itself it cannot prove the precise moment every pictured event occurred.
+
+karbytes:
+
+I noticed that you didn't apparently transcribe the video nor aspects of the voice such as pitch, timbre, volume, and rhythm.
