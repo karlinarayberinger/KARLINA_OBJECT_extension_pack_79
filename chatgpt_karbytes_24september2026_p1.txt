@@ -986,4 +986,4 @@ An MP4 ordinarily carries container and stream metadata rather than the camera E
 
 karbytes:
 
-I noticed that you didn't apparently transcribe the video nor aspects of the voice such as pitch, timbre, volume, and rhythm.
+I noticed that you didn't apparently transcribe the video nor describe aspects of the voice such as pitch, timbre, volume, and rhythm.
