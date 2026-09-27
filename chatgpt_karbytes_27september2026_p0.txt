@@ -19,3 +19,15 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
 
 Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 5m 52s]
+
+I compared the [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_78/) with the repository’s complete [GitHub `main` file tree](https://api.github.com/repos/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/git/trees/main?recursive=1).
+
+- **Raw GitHub files:** The directory has 384 distinct full-URL links, one for each of the repository’s 384 files. Every displayed URL matches its hyperlink target and an existing file path. I found no missing, duplicate, or misdirected raw-file links.
+
+- **`(*)` links:** All 33 point to addresses consistent with their adjacent HTML files. The 31 ordinary web destinations loaded and showed the expected pages. The two `.onion` addresses also match the addresses in their adjacent source files, but I could not verify whether those hidden services are currently reachable.
+
+**One related discrepancy:** The repository’s [saved HTML copy](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html) of the [published Wayback precision-batches extension 1 page](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) is older. It says it was updated on 21 September; the published page says 26 September and has seven additional links, `sub-index_page_245.html` through `sub-index_page_251.html`. The `(*)` link reaches the correct published page; its repository copy is simply out of sync.
