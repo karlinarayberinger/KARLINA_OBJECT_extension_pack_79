@@ -57,3 +57,7 @@ Generate a maximally detailed (plain-text only, zero-url) essay summarizing the 
 https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_78/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the plain-text chatgpt_karbytes and plain-text journal_karbytes files in KARLINA_OBJECT_extension_pack_78.
