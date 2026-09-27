@@ -109,3 +109,11 @@ The page’s colors reinforce that distinction visually. Among the 126 raw-file 
 The directory also has a small explanatory layer outside its 126-file inventory. It links to the repository’s main page, the associated Karbytes Code Continues page, the Wayback Machine’s save form, and reference pages for concepts such as hyperlinks, GitHub, the Wayback Machine, the Internet Archive, and URLs. Those links help explain the document’s method; they are not additional extension-pack-79 files. The opening Wayback form image likewise comes from an earlier extension pack.
 
 Taken as a whole, the document is an archival control page. It brings together a week’s conversation and journal records, a large run of named videos, related photographs and screenshots, website source pages, published-page counterparts, status and social-post records, disc manifests, and small maintenance tools. Its design makes each raw repository file individually addressable for Wayback capture while retaining a visible connection between certain HTML sources and their published versions. The page states that it was last updated on September 27, 2026, and that its displayed content is licensed as public-domain intellectual property. Its detail lies in the inventory and link structure: it identifies what is present and how the pieces are connected, while leaving the contents of the linked files to those files themselves.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the plain-text chatgpt_karbytes and plain-text journal_karbytes files in KARLINA_OBJECT_extension_pack_79.
+
+Generate maximally detailed and maximally open-ended subjective commentary about each of those plain-text files individually and as a whole collection.
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
