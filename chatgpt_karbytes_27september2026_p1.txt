@@ -19,3 +19,23 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
 
 Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 6m 44s]
+
+I checked the live [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_79/) against the repository’s [complete `main` file tree](https://api.github.com/repos/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/git/trees/main?recursive=1) at approximately **3:26 a.m. PDT on September 27, 2026**.
+
+[preformatted_text]
+
+| Check | Result |
+|---|---|
+| Repository files and directory raw-file links | **126 each**. Every file has one full-URL link; there are no missing, extra, or duplicate links. |
+| Raw-file targets | All 126 URLs name the correct repository file, their visible URLs match their targets, and all returned HTTP 200 to a HEAD request. |
+| Parenthesized asterisk links | **18 total.** The 12 WordPress and 4 GitHub Pages destinations returned HTTP 200 and identified the expected pages. The 2 onion addresses match their corresponding source files and have valid Tor v3 checksums; I could not verify that those servers are reachable. |
+
+[end preformatted_text]
+
+**One minor discrepancy:** The page says its files are listed in repository order, but two groups differ from the GitHub tree order. It places `print_folder_checksums.py` and `print_folder_contents.py` before the three `obs_studio_recording_karbytes_...` files, and places the Wayback precision-batches `index.html` before `extension_0.html` and `extension_1.html`. GitHub lists those groups in the reverse order. All five links still target the correct files.
+
+I found **no confirmed incorrect hyperlink**. The only unresolved check is live access to the two onion destinations.
