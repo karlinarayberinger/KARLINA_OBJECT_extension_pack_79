@@ -47,3 +47,29 @@ What I would like you to do now (just to be extra thorough with the interim audi
 On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 251 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+ChatGPT:
+
+[Worked for 2m 27s]
+
+I checked [sub-index pages 245–251](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) against the [extension-pack-79 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_79/) at approximately **3:37 a.m. PDT on September 27, 2026**.
+
+**All 144 links specified in the previous audit are present exactly once:** 126 raw GitHub file links and 18 `(*)` destinations. Their targets match the micro-directory exactly; their order differs, as permitted.
+
+[preformatted_text]
+
+| Sub-index | Raw-file links | `(*)` destinations | Other links |
+|---|---:|---:|---:|
+| [245](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_245.html) | 21 | 0 | 1 |
+| [246](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_246.html) | 12 | 9 | 0 |
+| [247](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_247.html) | 18 | 3 | 0 |
+| [248](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_248.html) | 17 | 3 | 0 |
+| [249](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_249.html) | 20 | 1 | 0 |
+| [250](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_250.html) | 22 | 0 | 0 |
+| [251](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_251.html) | 16 | 2 | 0 |
+
+[end preformatted_text]
+
+**Display discrepancy:** On [page 246](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_246.html), the visible text for the Wayback precision-batches index ends in `...precision_batches`, while its `href` ends in `...precision_batches/`. The destination is correct, but the displayed text does not exactly reproduce its URL. Every other sub-index link displays its target URL exactly.
+
+Page 245 also includes one additional link back to the micro-directory. No specified link is missing or duplicated.
