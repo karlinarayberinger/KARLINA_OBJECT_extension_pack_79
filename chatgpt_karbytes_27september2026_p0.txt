@@ -31,3 +31,11 @@ I compared the [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_g
 - **`(*)` links:** All 33 point to addresses consistent with their adjacent HTML files. The 31 ordinary web destinations loaded and showed the expected pages. The two `.onion` addresses also match the addresses in their adjacent source files, but I could not verify whether those hidden services are currently reachable.
 
 **One related discrepancy:** The repository’s [saved HTML copy](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html) of the [published Wayback precision-batches extension 1 page](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) is older. It says it was updated on 21 September; the published page says 26 September and has seven additional links, `sub-index_page_245.html` through `sub-index_page_251.html`. The `(*)` link reaches the correct published page; its repository copy is simply out of sync.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim (or retrospective) auditing of the KARLINA_OBJECT_extension_pack_78 micro-directory) is the following…
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 226 to 244 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_78) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
