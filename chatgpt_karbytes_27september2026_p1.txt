@@ -39,3 +39,11 @@ I checked the live [micro-directory](https://karbytesforlifeblog.wordpress.com/r
 **One minor discrepancy:** The page says its files are listed in repository order, but two groups differ from the GitHub tree order. It places `print_folder_checksums.py` and `print_folder_contents.py` before the three `obs_studio_recording_karbytes_...` files, and places the Wayback precision-batches `index.html` before `extension_0.html` and `extension_1.html`. GitHub lists those groups in the reverse order. All five links still target the correct files.
 
 I found **no confirmed incorrect hyperlink**. The only unresolved check is live access to the two onion destinations.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_79 micro-directory) is the following…
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 251 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
