@@ -1211,7 +1211,11 @@ karbytes:
 
 Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
 
-https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_20september2026_a1/https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_20september2026_a0/
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_20september2026_a1/
+
+[the above url was accidentally included]
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_20september2026_a0/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
 
