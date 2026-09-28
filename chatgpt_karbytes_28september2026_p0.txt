@@ -16,6 +16,8 @@ relevant_web_page_2: https://karbytesforlifeblog.wordpress.com/journal_karbytes_
 
 relevant_web_page_3: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_in_the_big_green_thing/
 
+relevant_web_page_4: https://karbytesforlifeblog.wordpress.com/journal_karbytes_30july2026/
+
 * * *
 
 karbytes:
@@ -373,3 +375,11 @@ At the level of the fiction’s world-making, stuckness is more complicated. The
 At the archival level, the page itself demonstrates another kind of persistence. A version declared definitive on August 14 remains prominently pictured after being displaced on August 24. Earlier prose is struck through rather than deleted. The page lets several temporal states of the myth remain present together, while marking which one now controls the reading. In this respect its editing method resembles its subject: an older Karbytes Derivative remains visible within the work even after karbytes has changed the terms of the story.
 
 The five pictures, ten related-page references, active amendment, and preserved revisions make this a compact but layered document. Its strongest current claim is precise: the definitive summer-stuck derivative is prone, belly pressed to the floor, head and chest raised on support, upper body straining through a toroidal aperture, and lower body more massively swollen and engulfed than the prominent upright image shows. Everything beyond that immediate geometry—the self-birthed universe, void magic, hidden spectators, and endless struggle—belongs to the mythic world the page builds around the figure. The page’s visible corrections show karbytes continuing to author that world while allowing its earlier forms to remain legible.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_30july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
