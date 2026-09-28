@@ -14,6 +14,8 @@ relevant_web_page_1: https://karbytesforlifeblog.wordpress.com/gallery_of_the_st
 
 relevant_web_page_2: https://karbytesforlifeblog.wordpress.com/journal_karbytes_21september2026_a0/
 
+relevant_web_page_3: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_in_the_big_green_thing/
+
 * * *
 
 karbytes:
@@ -299,3 +301,11 @@ WHAT THE ENTRY ACCOMPLISHES
 The journal is unusually compressed. In a few paragraphs it travels from leg discomfort at a plastic-container desk to spinal relief on a bolster, a week of floor-level work, a summer publication deadline, the changing status of an East Bay landscape, an externalized mind, a genome in cyberspace, and a derivative said to remain there eternally. The opening collage performs a similar compression visually, placing a real-looking workstation and hills beside graphs, cubes, a galaxy, and an imagined computer user.
 
 Its two central continuities should remain distinct. The living karbytes describes arranging its body to work and spending much of the summer preparing records. KARBYTES stores selected products of that work and allows an earlier image of karbytes to persist. The derivative is the entry’s way of giving that persistence a character and a predicament. The journal’s force comes from bringing those levels very close together: pressure against the floor becomes pressure to finish the archive, and the landscape left behind becomes a world in which a recorded version of the traveler can remain.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_in_the_big_green_thing/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
