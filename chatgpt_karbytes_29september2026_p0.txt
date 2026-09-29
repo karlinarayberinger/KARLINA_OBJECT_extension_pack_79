@@ -307,3 +307,7 @@ An MP4 generally carries container and stream metadata rather than photographic 
 [end preformatted_text]
 
 The creation timestamp is an embedded file tag; it does not by itself prove the exact moment of filming. I found no embedded GPS coordinates, camera make or model, lens settings, exposure data, or other conventional photo EXIF fields.
+
+karbytes:
+
+I'm pretty sure that I already had you examine these videos in an older conversation (approximately two days ago). 
