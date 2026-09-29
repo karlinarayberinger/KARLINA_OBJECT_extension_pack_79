@@ -451,3 +451,11 @@ I checked the `chatgpt_karbytes` pages reached through `(*)` links in the [exten
 [end preformatted_text]
 
 That section is a **retrospective summary**. The original, full examination requests and answers for `p0`–`p2` are in [chatgpt_karbytes_24september2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/chatgpt_karbytes_24september2026_p1.txt), which the micro-directory links as a raw text file. I did not find an `(*)`-linked `chatgpt_karbytes` web page that reproduces those three original answers in full.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/chatgpt_karbytes_24september2026_p1.txt
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
