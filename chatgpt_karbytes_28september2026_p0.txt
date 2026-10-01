@@ -180,6 +180,8 @@ relevant_web_page_83: https://karlinaobject.wordpress.com/knowledge/
 
 relevant_web_page_84: https://karlinaobject.wordpress.com/bits_and_bytes/
 
+relevant_web_page_85: https://karlinaobject.wordpress.com/probability/
+
 * * *
 
 karbytes:
@@ -7602,3 +7604,11 @@ A small terminology point is also worth distinguishing. The tutorial presents BI
 The relationship between visible light and abstract value gives the page more interest than a bare conversion formula. One bulb is a visual cue for a digit; its place in the row assigns a mathematical weight; a sequence of eight cues becomes a byte; the byte receives a decimal representation; and the output reconstructs the calculation for a human reader. The lesson moves repeatedly between representations of one state rather than treating one notation as the state itself. That connects it to the broader themes in “Numbers” and “Knowledge”: abstract patterns are communicated through physical or displayed structures, and an agent interprets those structures using a rule.
 
 The source files identify their original code date as July 10, 2023. The tutorial page says it was last updated on July 12, 2025 and designates its contents public-domain material. Its enduring educational point is the positional structure of binary notation. A user can choose bulbs in any order, but their contributions are fixed by position, and the conversion is the sum of the lit positions’ powers of two. By making that rule clickable, visible, and then fully expanded in the output, karbytes turns an elementary calculation into an inspectable little machine.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinaobject.wordpress.com/probability/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
