@@ -6756,3 +6756,15 @@ Partly. I can synchronize the audio samples with the video’s 400 frames and me
 - Frame 351, at 14.00–14.04 seconds, rises to about −20.0 dBFS.
 
 I can also calculate which frequencies are strongest in each interval. **I cannot reliably call those frequencies the pitch of a specific cry or effect**: music, vocals, and effects overlap in the mixed track, and I cannot hear them directly here. The alignment tells us what the audio signal does while a frame is shown; it does not, by itself, identify which visible action made a sound.
+
+karbytes:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. 
+
+If there was any spoken content that you detected, then provide your own transcription of that detected speech. 
+
+If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness. 
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/pikachus_vacation_1998_charizard_head_stuck_scene_p1.mp4
