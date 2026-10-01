@@ -29,3 +29,11 @@ ChatGPT:
 [Worked for 35m 26s]
 
 The essay contains approximately 23,000 words in plain paragraphs, with no URLs.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
