@@ -6716,3 +6716,7 @@ What makes the final image especially effective is that Charizard is visibly act
 The ending also matters. A sixteen-second excerpt could have included the freeing of Charizard, but this one stops while it is still caught and moves the view away. It leaves the viewer with the disproportion between the large, capable creature and the small ring that has stopped it.
 
 The MP4 is 4,523,210 bytes, exactly 16.000 seconds long, and contains 400 video frames at 25 frames per second. Its picture is 854 by 480 pixels, encoded as H.264; the audio is AAC stereo at 48 kHz. The container identifies FFmpeg and libx264 encoding. I found no still-photo EXIF fields, embedded camera or lens information, GPS coordinates, capture timestamp, or caption stream. The filename identifies the excerpt as a “Pikachu’s Vacation” scene, but the container metadata alone does not verify an original 1998 recording date.
+
+karbytes:
+
+Describe the audio.
