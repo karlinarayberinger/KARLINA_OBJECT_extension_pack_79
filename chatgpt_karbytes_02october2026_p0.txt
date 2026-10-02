@@ -60,3 +60,31 @@ What I would like you to do now (just to be extra thorough with the interim audi
 On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 259 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+ChatGPT:
+
+[Worked for 4m 49s]
+
+**Sub-indexes 245–259 contain every required URL, but one link’s visible text needs a correction.** Checked on 2 October 2026, ignoring differences in ordering.
+
+[preformatted_text]
+
+| Check | Result |
+|---|---|
+| Sub-index pages accessible | All 15 returned HTTP 200 |
+| Repository raw-file URLs included | 282 of 282 |
+| Micro-directory “(*)” destinations included | 24 of 24 |
+| Missing or duplicated URLs | None |
+| Visible text exactly matches destination URL | 306 of 307 links |
+
+[end preformatted_text]
+
+The **307 unique links** comprise the 282 raw-file URLs, the 24 “(*)” destinations, and the micro-directory URL itself, which appears in sub-index 245.
+
+I found two discrepancies:
+
+1. In [sub-index 246](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_246.html), the link whose destination is `https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches/` displays that URL **without its final `/`**. Adding the slash to the visible text satisfies your exact full-URL requirement. Its destination is correct.
+
+2. The [main index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) states a maximum of **21 hyperlinks per sub-index page**. Sub-indexes **250–256 each contain 22 content links**. Sub-index **245 also contains 22 links total**, comprising 21 raw-file links plus the micro-directory link.
+
+All other checked link labels match their destination URLs exactly.
