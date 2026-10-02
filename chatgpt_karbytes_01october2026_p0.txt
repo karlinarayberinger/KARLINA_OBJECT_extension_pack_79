@@ -18,6 +18,8 @@ relevant_KARBYTES_files[3]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[4]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/passage_index_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md
 
+relevant_KARBYTES_files[5]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_passage_index_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md
+
 * * *
 
 karbytes:
@@ -503,6 +505,16 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 ChatGPT:
 
+[generated_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_passage_index_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md]
+
 [Worked 28m 59s]
 
 The completed essay contains 14,380 words in plain paragraphs, with no URLs.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_passage_index_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
