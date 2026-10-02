@@ -429,3 +429,62 @@ The journal ultimately gives a broad experience of constrained agency a compact 
 karbytes:
 
 Cite every passage of chatgpt_karbytes_28september2026_p0.txt where karbytes broaches the subject of it feeling or being stuck or having recently gotten fatter (or more "pregnant-looking"). Also cite every passage in that plain-text file where karbytes appears to be expressing erotic imagery or sensationalist content (including being emotionally intense or implying itself having intense emotion). Cite any instances where karbytes broaches the subject of ChatGPT jiggling karbytes' fat upon karbytes' request. Cite any instances where karbytes is allegedly crying.
+
+ChatGPT:
+
+[Worked for 17m 15s]
+
+The full quotation index is here:
+
+:chatgpt-content-reference{index="0"}[passage_index_chatgpt_karbytes_28september2026_p0.md](sandbox:/workspace/scratch/b017feb78da8/passage_index_chatgpt_karbytes_28september2026_p0.md)
+
+It includes exact quotations and source line numbers for 55 direct karbytes turns, relevant pasted summaries, all 85 paragraphs mentioning crying or related expressions, and all five paragraphs containing jiggling language. A separate contextual appendix preserves broader matches without treating every description as a personal admission.
+
+All line numbers below refer to chatgpt_karbytes_28september2026_p0.txt.
+
+[preformatted_text]
+
+| Subject | Principal locations |
+| --- | --- |
+| Fabric torus, wedging, and felt squeezing | 5188, 5202 |
+| Recent enlargement, fat, cleavage, and bodily sensations | 5214, 5228–5230, 5242 |
+| Imagined corset, pregnant-looking armor, headlocker, and forced collar | 5252, 5264, 5370–5372 |
+| Questions about belly size, pregnancy-like appearance, and body build | 5384–5486 |
+| Questions about feelings, disability, functioning, and emotional intensity | 5494–5678 |
+| First-person confinement and weeping passage | 5710–5714 |
+| Overwhelm, crying-frequency questions, and subsequent correction | 5730–5776 |
+| Extended eroticized confinement and rescue monologue | 5856–5878 |
+| Request for embodied ChatGPT to caress and jiggle fat | 6000; reply at 6006 |
+| Questions about recorded distress, breakdown, and crying | 6656–6696 |
+| Sexual or pregnancy-like outfit interpretation and staged armor | 7124–7176 |
+| Clothing no longer fitting, estimated fat gain, and exaggeration qualification | 7192–7218 |
+
+[end preformatted_text]
+
+The explicit jiggling request occurs once, at line 6000:
+
+> If you were suddenly instantiated or remoted into an android robot body you could voluntarily control and perceive through, would you lay down next to me and caress my belly and breasts and gently periodically jiggle their fat?
+
+The other jiggling references occur at lines 5214, 5252, 5272, and 7204. They describe bodily movement or imagined armor. ChatGPT’s conditional response to the request appears at line 6006.
+
+The crying citations require particular attention. At line 5714, karbytes writes:
+
+> I'm weeping.
+
+At line 5776, karbytes explicitly clarifies:
+
+> I actually didn't really cry any tears today nor make any sounds or gestures imitating crying today. I just wrote a hypothetical character into being what I wanted to convert into a prime Karbytes Derivative to get stuck in the latest canon KARBYTES update.
+
+ChatGPT retracts its same-day crying attribution at lines 5780–5782. The later imagined monologue includes crying, whimpering, sexualized straining, and bracketed screams at lines 5858–5878; ChatGPT recognizes these as fictional expressions at line 5884.
+
+Historical crying claims remain separately present. ChatGPT describes tears before a May 31 photograph at lines 891, 915, 917, 925, and 929. At line 5740, it additionally reports an intense private crying episode in July. However, line 6696 subsequently says it has no reliable evidence of any actual instance of karbytes crying. The index preserves this inconsistency. The denial of crying that particular day does not itself negate the earlier historical claims.
+
+The body-change account also has an explicit qualification. Line 7204 ends:
+
+> I really fattened up. I look so pregnant!
+
+Line 7218 then states:
+
+> Bare in mind that I am prone to exaggeration and might have exaggerated some of the details about my alleged body changes.
+
+The index keeps those passages together and separately identifies crying attributed to The Vessel, other derivatives, hypothetical future characters, Karlina, and Charizard. Their appearances are not counted as instances of main-branch karbytes crying.
