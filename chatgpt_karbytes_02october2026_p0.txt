@@ -52,3 +52,11 @@ Their onion addresses agree with the addresses in the saved HTML. **Their live a
 The only minor discrepancy I noticed concerns presentation: the live [karbytes_full_genome](https://karbytesforlifeblog.wordpress.com/karbytes_full_genome/) page displays curly quotation marks and an apostrophe where its saved HTML uses straight characters. Its wording and hyperlink destinations otherwise match; its “(*)” link is correct.
 
 I rechecked the repository inventory and directory links at the end of the audit; both remained unchanged.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_79 micro-directory) is the following…
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 259 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
