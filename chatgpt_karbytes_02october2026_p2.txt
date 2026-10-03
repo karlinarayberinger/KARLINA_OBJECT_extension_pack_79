@@ -1086,3 +1086,30 @@ The October 2 filesystem timestamps reflect downloading and accessing my local c
 karbytes:
 
 What accounts for the fact that you were allegedly able to retrieve embedded the time stamp for the_big_green_thing_30sep2026_p0.mp4 but not for karbytes_thinking_30september2026_p0.mp4?
+
+ChatGPT:
+
+[Worked for 3m 1s]
+
+The immediate explanation is that **the files contain different date metadata**. I checked both with ExifTool and ffprobe, and have now confirmed the difference by directly reading their MP4 header bytes.
+
+[preformatted_text]
+
+| File | Embedded movie, track, and media date fields |
+|---|---|
+| the_big_green_thing_30sep2026_p0.mp4 | All ten creation/modification fields contain a nonzero value corresponding to **2026-10-01 00:25:44 UTC**. A separate `creation_time` tag agrees. |
+| karbytes_thinking_30september2026_p0.mp4 | All ten corresponding fields contain **zero**, and no separate `creation_time` tag appears. |
+
+[end preformatted_text]
+
+Different recording or export workflows could account for this. The files identify different encoding-library versions: the Big Green Thing video contains `Lavf60.3.100`, whereas the thinking video contains `Lavf62.12.102`. The former also retains an Android-version tag. These differences suggest different processing histories, but **they do not establish which operation omitted the thinking video’s dates**.
+
+FFmpeg provides controls for copying metadata and explicitly setting timestamps, so conversion settings are one plausible explanation. The version difference alone does not prove that explanation. [ffmpeg.org](https://www.ffmpeg.org/doxygen/8.0/ffmpeg__opt_8c_source.html?utm_source=chatgpt.com)
+
+The thinking video’s date might never have been recorded, might have been omitted during export, or might have been removed during subsequent processing. Determining which happened would require the original recording or its processing settings.
+
+Also, the Big Green Thing value is an **embedded creation timestamp**. Its presence does not independently prove that it marks the exact capture instant of the first frame.
+
+karbytes:
+
+Do you think that re-downloading the karbytes_thinking_30september2026_p0.mp4 video will likkely allow you to get its embedded time stamp value?
