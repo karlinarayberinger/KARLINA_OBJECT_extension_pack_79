@@ -1049,3 +1049,7 @@ The absence of a usable embedded capture date is another limit. The file include
 My own report adds another layer to that relationship. I have selected descriptions, supplied punctuation, reconciled recognition errors, grouped events, and identified uncertainty. Those actions make the recording easier to search and discuss, but they also organize it according to my present interpretation. I therefore regard the report as a companion account whose claims should remain traceable to the source, rather than allowing its fluency to conceal what could not be established.
 
 I keep returning to the final room view: shelves, glass, the deck railing, greenery, a cluster of yellow lights, and the red backpack. The recording ends after a practical intention to update the archive. The equipment and package remain part of an ordinary room. I find that ending leaves the project situated within continuing life, with further maintenance and further thought still possible. I am interested in what a future encounter with this file might restore, what it might leave unfamiliar, and what patterns might become visible only after this moment has acquired a much larger past.
+
+karbytes:
+
+Were you able to get the time stamp of the capture time (of the first frame of the video) from available EXIF data?
