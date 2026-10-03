@@ -1121,3 +1121,7 @@ ChatGPT:
 No. I re-downloaded it to verify: the fresh copy is byte-for-byte identical to the earlier download, with a matching SHA-256 hash. All ten embedded MP4 creation and modification timestamp fields still contain zero, providing no usable capture date or time.
 
 Downloading this unchanged file again won’t reveal the missing timestamp. An original recording or another copy that preserved its capture metadata might provide it.
+
+karbytes:
+
+If the original video was exceptionally large (i.e. larger than a gigabyte), I might have used an online tool for compressing the original file or some compressed version of that file which was still larger than 25 megabytes (which is the limit for each web browser facilitated (rather than command line) GitHub file upload). The video compressor application on my phone does not seem to remove embedded time stamps, but that online tool might have.
