@@ -1059,3 +1059,7 @@ ChatGPT:
 No. The embedded creation-date fields were unset, displayed as “0000:00:00 00:00:00,” so the available metadata provides no absolute capture time for the first frame.
 
 The first frame’s playback timestamp is 00:00, which is relative to the video’s beginning. September 30, 2026, at approximately 1:52 p.m. “Pacific Standard Time” comes from the spoken introduction, not EXIF or container metadata.
+
+karbytes:
+
+What were the EXIF time-stamp data you were able to garner from the videos shared thus far in this conversation?
