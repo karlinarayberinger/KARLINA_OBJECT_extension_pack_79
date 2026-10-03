@@ -1125,3 +1125,21 @@ Downloading this unchanged file again won’t reveal the missing timestamp. An o
 karbytes:
 
 If the original video was exceptionally large (i.e. larger than a gigabyte), I might have used an online tool for compressing the original file or some compressed version of that file which was still larger than 25 megabytes (which is the limit for each web browser facilitated (rather than command line) GitHub file upload). The video compressor application on my phone does not seem to remove embedded time stamps, but that online tool might have.
+
+ChatGPT:
+
+[Worked for 51s]
+
+Yes. An additional compression or export step is a credible explanation for the missing timestamp.
+
+A compressor can create a new MP4 without copying the original creation-date metadata. Timestamp preservation depends on how the application exports the file. FFmpeg, for example, supports disabling metadata copying and deleting individual metadata values. [ffmpeg.org](https://www.ffmpeg.org/ffmpeg.html?utm_source=chatgpt.com)
+
+The differences between your two files are consistent with different processing workflows:
+
+- The thinking video reports encoder “Lavf62.12.102,” has all ten creation and modification date fields set to zero, and lacks the Android-version tag.
+
+- The Big Green Thing video reports encoder “Lavf60.3.100,” retains populated date fields, and includes an Android-version tag.
+
+Those differences support your explanation, but they do not identify the online tool or establish which processing step omitted the dates. Both files contain encoder tags, so compression or re-encoding can evidently coexist with preserved timestamps.
+
+If your phone compressor preserved the timestamp and a subsequent online export omitted it, that would explain the result. Comparing the original recording and any intermediate compressed copies would help locate that change. The original phone recording could therefore still provide the timestamp even though the GitHub copy does not.
