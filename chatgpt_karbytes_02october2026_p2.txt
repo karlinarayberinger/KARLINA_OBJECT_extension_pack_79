@@ -1053,3 +1053,9 @@ I keep returning to the final room view: shelves, glass, the deck railing, green
 karbytes:
 
 Were you able to get the time stamp of the capture time (of the first frame of the video) from available EXIF data?
+
+ChatGPT:
+
+No. The embedded creation-date fields were unset, displayed as “0000:00:00 00:00:00,” so the available metadata provides no absolute capture time for the first frame.
+
+The first frame’s playback timestamp is 00:00, which is relative to the video’s beginning. September 30, 2026, at approximately 1:52 p.m. “Pacific Standard Time” comes from the spoken introduction, not EXIF or container metadata.
