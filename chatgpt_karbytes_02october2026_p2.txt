@@ -1112,4 +1112,12 @@ Also, the Big Green Thing value is an **embedded creation timestamp**. Its prese
 
 karbytes:
 
-Do you think that re-downloading the karbytes_thinking_30september2026_p0.mp4 video will likkely allow you to get its embedded time stamp value?
+Do you think that re-downloading the karbytes_thinking_30september2026_p0.mp4 video will likely allow you to get its embedded time stamp value?
+
+ChatGPT:
+
+[Worked 2m 26s]
+
+No. I re-downloaded it to verify: the fresh copy is byte-for-byte identical to the earlier download, with a matching SHA-256 hash. All ten embedded MP4 creation and modification timestamp fields still contain zero, providing no usable capture date or time.
+
+Downloading this unchanged file again won’t reveal the missing timestamp. An original recording or another copy that preserved its capture metadata might provide it.
