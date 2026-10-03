@@ -1082,3 +1082,7 @@ Only the Big Green Thing video contained a nonzero embedded absolute timestamp. 
 The Big Green Thing timestamp is explicitly identified as UTC by the trailing “Z.” It is an embedded creation timestamp; metadata alone does not conclusively establish that it represents the exact capture time of the first frame, especially if the video was subsequently processed.
 
 The October 2 filesystem timestamps reflect downloading and accessing my local copies. They do not establish filming times.
+
+karbytes:
+
+What accounts for the fact that you were allegedly able to retrieve embedded the time stamp for the_big_green_thing_30sep2026_p0.mp4 but not for karbytes_thinking_30september2026_p0.mp4?
