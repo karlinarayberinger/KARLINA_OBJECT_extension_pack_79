@@ -1063,3 +1063,22 @@ The first frame’s playback timestamp is 00:00, which is relative to the video�
 karbytes:
 
 What were the EXIF time-stamp data you were able to garner from the videos shared thus far in this conversation?
+
+ChatGPT:
+
+[Worked for 1m 41s]
+
+Only the Big Green Thing video contained a nonzero embedded absolute timestamp. These are MP4/QuickTime metadata fields read with ExifTool.
+
+[preformatted_text]
+
+| Video | Embedded timestamp data | Los Angeles local time |
+|---|---|---|
+| the_big_green_thing_30sep2026_p0.mp4 | CreationTime: `2026:10:01 00:25:44.000000Z`. Movie creation/modification dates and both tracks’ creation/modification and media dates all match `2026:10:01 00:25:44`. | September 30, 2026, at **5:25:44 p.m. PDT** (UTC−07:00). |
+| karbytes_thinking_30september2026_p0.mp4 | Movie creation/modification dates and both tracks’ creation/modification and media dates are unset: `0000:00:00 00:00:00`. | No absolute capture time recoverable from embedded metadata. |
+
+[end preformatted_text]
+
+The Big Green Thing timestamp is explicitly identified as UTC by the trailing “Z.” It is an embedded creation timestamp; metadata alone does not conclusively establish that it represents the exact capture time of the first frame, especially if the video was subsequently processed.
+
+The October 2 filesystem timestamps reflect downloading and accessing my local copies. They do not establish filming times.
