@@ -56,6 +56,8 @@ relevant_KARBYTES_files[22]: https://karbytesforlifeblog.wordpress.com/karbytes_
 
 relevant_KARBYTES_files[23]: https://karlinaobject.wordpress.com/public_domain/
 
+relevant_KARBYTES_files[24]: https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/
+
 * * *
 
 karbytes
@@ -3933,3 +3935,11 @@ The closing statement applies PUBLIC_DOMAIN status to the page’s own content. 
 The page ultimately makes continuity of information compatible with a reduced emphasis on exclusive control. It remains interested in the original author, the exact contents of a file, the intended final draft, and the routes through which a resource can be found. Those interests are maintained through identification, organization, direct access, and archiving. Other people’s ability to copy, modify, sell, or re-present the material is treated as part of its continuing life in the world.
 
 Its strongest practical commitment is therefore to the continued existence of accessible informational embodiments. The author’s body and active maintenance have finite conditions; storage and transmission depend on functioning hardware; and neither permanence nor global uniqueness is demonstrated by declaration alone. Within those limits, karbytes chooses repeated publication and preservation as ways to let a finite body of files remain available to additional readers, users, systems, and future contexts. The author’s intended version retains a documented place among those possibilities, while the permission to produce further instances remains deliberately broad.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
