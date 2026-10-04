@@ -2450,3 +2450,135 @@ If any vocal content is detected, then describe qualities of the voice such as p
 Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/obs_studio_recording_28may2026_p0.mp4
+
+ChatGPT:
+
+[Worked for 31m 33s]
+
+I downloaded the complete recording and prepared a detailed report of approximately 7,600 words, including its visual sequence, audio analysis, media inventory, metadata, and extended first-person commentary.
+
+- :chatgpt-content-reference{index="0"}[May28_p0_recording_report.md](sandbox:/workspace/scratch/81032effa316/may28_p0_analysis/May28_p0_recording_report.md)
+- obs_studio_recording_28may2026_p0.mp4[obs_studio_recording_28may2026_p0.mp4](sandbox:/workspace/scratch/81032effa316/may28_p0_analysis/obs_studio_recording_28may2026_p0.mp4)
+
+**The examination has an important limit:** I decoded all 17,957 video frames and visually reviewed 1,019 selected frames in chronological passes, including one sample from every second and additional samples around screen changes. I analyzed the complete audio track computationally, but direct listening was unavailable. Consequently, I cannot claim to have individually watched every frame, heard the soundtrack, or reproduced uninterrupted human audiovisual experience. The observations below preserve those distinctions.
+
+The recording lasts 9 minutes, 58.567 seconds. It shows a Linux desktop, principally Firefox displaying archived media through the Wayback Machine. Almost all the underlying media pictures are extremely dark. Most recognizable activity occurs in the surrounding interface: the pointer moves, tabs change, playback controls appear, progress markers change position, tab previews open, and browser windows are selected. OBS Studio appears at the beginning and returns at the end.
+
+The desktop has a dark system panel across the top and a vertical application dock along the left. The panel initially reads “May 28 10:56” and finally reads “May 28 11:06.” Recognizable dock icons include Firefox, Chromium, Tor Browser, Files, Terminal, Sublime Text, a text editor, VLC, OBS Studio, Trash, and the applications launcher. Their presence does not mean that all those applications are operated during the recording.
+
+Firefox’s dark tab and address bars sit above the bright Wayback Machine toolbar. The browser shows an 80 percent zoom indication. The archive toolbar contains the Wayback logo, an archived media address, capture counts, capture-history information, and date navigation. The selected archive dates vary among May 23, May 26, and May 28, 2026.
+
+Below that toolbar, the principal picture alternates between two arrangements. One is a broad, almost-black rectangle with relatively narrow white sides. The other is a narrow, portrait-format dark column between large white areas. The broad picture sometimes has a faint purple or maroon cast. One portrait picture is warmer, with extremely dim brown and reddish-orange tones. Another broad player looks essentially black.
+
+These pictures contain insufficient visible detail to identify a person, room, instrument, or physical activity reliably. In the warmer portrait picture, a slightly darker rounded or sloping area is sometimes visible toward the bottom, but I cannot responsibly identify that shape.
+
+Measurements from representative decoded picture crops support the apparent darkness. On a weighted encoded-RGB brightness scale from 0 to 255, the median values were approximately 3.07 for the broad picture at 00:01, 4.85 for the warmer portrait picture at 00:05, and 0 for the broad black picture at 00:14. More than 99.6 percent of pixels in each selected crop fell below 16. These are selected-picture measurements, rather than calibrated physical luminance values or measurements of the entire video.
+
+The archive bars identify eight recurring media files:
+
+| Displayed filename | Visible player information |
+|---|---|
+| blackened_karbytes_21may2026_p0.mp4 | Broad, near-black purple-maroon picture; around fourteen seconds elapsed in an early view. |
+| blackened_karbytes_22may2026_p0.mp4 | Narrow, brown-black picture; 00:09 / 00:09 visible. |
+| guitar_karbytes_11april2026_p0.mp4 | Broad, extremely dark purple picture; 00:07 / 01:39 visible. |
+| pig_goyl_27may2026_p5.mp4 | Narrow, near-black picture; 00:27 / 00:27 visible. |
+| blackened_karbytes_message_16january2026_p0_[reversed].mp4 | Broad, essentially black picture; 00:08 / 00:08 visible. |
+| blackened_karbytes_26january2026_p0.mp4 | Narrow, near-black picture; 00:11 / 00:11 visible. |
+| blackened_karbytes_10march2026_p0.mp4 | Narrow, near-black picture; 00:17 / 00:17 and, later, 00:00 / 00:17 visible. |
+| guitar_karbytes_24february2026_p0.mp4 | Narrow, near-black picture; 01:32 / 01:32 visible. |
+
+These are filenames and playback labels observed inside the requested recording. I did not independently download and inspect each underlying media file. In particular, the words “guitar,” “message,” and “pig” do not independently establish a visible instrument, intelligible speech, or an animal.
+
+The opening frame shows OBS Studio 32.1.2 over Firefox. Its title identifies an Untitled profile and Untitled scene collection. There is one scene named “Scene” and a screen-capture source with a truncated label. The tiny preview contains a recursive view of the desktop and OBS window.
+
+The Audio Mixer shows Desktop Audio with an active colored meter and a −5.5 dB setting. Mic/Aux is visibly muted, with a red microphone symbol and a −inf dB value. The transition is Fade, with a duration of 300 milliseconds. The pointer rests over Start Recording. The status area initially shows zeroed timers.
+
+By approximately 00:00.633, OBS has left the foreground. The first visible archive player is the April guitar file. During roughly the first twenty-five seconds, the browser traverses the recurring collection: the May blackened files, the April guitar file, pig_goyl, the reversed January message, the other January file, the March file, and the February guitar file.
+
+Some players are already at their ends when selected. Others show positions near the beginning or partway through. Play triangles, pause bars, blue progress portions, and circular position markers change. The browser repeatedly returns to the same media pages. This establishes playback operation and checking, although the operator’s exact purpose remains unstated.
+
+For most of the next six minutes, that pattern continues. The pointer moves between the tab row and player controls. Small tab-hover cards display “Wayback Machine,” the archive domain, and miniature versions of the destination pages. Their thumbnails reproduce the same black rectangles and white margins at a smaller scale.
+
+Brief loading-style states occur at several points. Selected examples around 00:34.433 and 03:50.300 show the page dimmed toward grey with a small central spinner. Similar states occur later. They establish temporary loading or buffering displays, without identifying a particular network problem.
+
+Several tab headers show speaker icons at once in some frames. This is consistent with multiple tabs being audible or recently audible. It means that the foreground picture cannot automatically be treated as the sole source of the recorded soundtrack.
+
+Around 06:27, a second Firefox window becomes visible. It has a single Wayback Machine tab. Around 06:30–06:31, the desktop enters a window-overview state showing two Firefox thumbnails. The selected-window label reads “Wayback Machine — Mozilla Firefox.”
+
+This exposes the most colorful substantial image in the recording: a predominantly black wallpaper with a glossy rounded form highlighted in cyan, electric blue, purple, and magenta, with some yellow-orange streaks and a bright lower reflection or base. The browser thumbnails obscure much of it, so I cannot confidently identify the depicted object.
+
+The two-window arrangement repeatedly returns during the remaining minutes. Overview and window-selection episodes occur around 07:01–07:08, 07:30–07:34, 08:07–08:12, 08:47–08:52, and 09:22–09:26. Between those episodes, maximized archive players resume. Their pictures remain almost black.
+
+At 07:04, the single-tab window clearly displays the March 10 file at 00:00 / 00:17. This establishes a near-start playback state in that window. It does not establish the exact click that produced it.
+
+At approximately 09:56.400, OBS returns to the foreground. Desktop Audio remains active, and Mic/Aux remains muted. Start Recording has become a blue Stop Recording button. The final frame shows the pointer over that button, a red recording indicator, a timer reading 00:09:58, and 30.00 / 30.00 FPS. Behind OBS, a portrait player remains visible around 00:06 / 00:11. The recording ends with this interface still present.
+
+The complete audio track contains an active, changing signal. Its computational properties are:
+
+| Audio property | Finding |
+|---|---|
+| Encoding | AAC Low Complexity, 48 kHz, stereo |
+| Decoded duration | Approximately 598.549 seconds |
+| Whole-track RMS | Approximately −22.04 dBFS in both channels |
+| Sample peaks | Approximately −6.21 dBFS in both channels |
+| Left/right correlation | Approximately 0.999515 |
+| One-second RMS range | Approximately −32.61 to −18.65 dBFS |
+| Energy below 300 Hz | Approximately 49.22 percent |
+| Energy below 1000 Hz | Approximately 84.05 percent |
+
+The channels are nearly identical despite the stereo encoding. The measured energy is concentrated in lower frequencies. No one-second analysis window falls below −40 dBFS, although shorter pauses within those windows remain possible. Digital level measurements do not establish perceived loudness or listening volume.
+
+The automated audio-event classifier’s dominant whole-track label was Music, with a mean score around 0.573. Speech averaged approximately 0.0331, and Singing approximately 0.00649. Music’s average score exceeded Speech’s average score in every one-minute summary.
+
+A few short regions received higher speech-like or animal-vocalization-like scores. The highest Speech score was approximately 0.558 around 00:53.36. Some patches received dog- or pig-related labels. These classifications indicate acoustic resemblance according to a model; they do not verify an animal, a human imitation, a speaker, or a particular sound source.
+
+**No intelligible speech was verified, so I cannot provide an authenticated transcription.** The English recognizer proposed only “you” at approximately 00:00.27–00:01.07, with a word probability near 0.095 and a no-speech score near 0.799. I do not accept that weak suggestion as verified speech.
+
+The multilingual recognizer analyzed the complete timeline and produced one unusable segment around 08:19.44–08:20.84, consisting largely of repeated non-word characters. It did not corroborate the English suggestion or establish coherent spoken content.
+
+Likewise, no human voice was sufficiently verified to characterize its pitch, timbre, speaking rhythm, accent, resonance, breathiness, or vocal loudness. The soundtrack’s frequency distribution and RMS level describe the complete mixed signal, rather than a voice in isolation.
+
+No camera-style EXIF information was found in the available inspection. The principal technical metadata is:
+
+| Metadata field | Value |
+|---|---|
+| File size | 24,127,937 bytes; approximately 23.0102 MiB |
+| Container | MP4 / ISO Base Media |
+| Duration | 598.566667 seconds |
+| Dimensions | 1092 × 614 pixels |
+| Frame rate | 30 fps |
+| Video frames | 17,957, all successfully decoded |
+| Video codec | H.264/AVC, High profile, level 3.1 |
+| Pixel format | 8-bit yuv420p, progressive |
+| Color metadata | BT.709, limited/TV range |
+| Video bitrate | Approximately 266 kb/s |
+| Audio bitrate | Approximately 47.6 kb/s |
+| Container encoder | Lavf61.1.100 |
+| Video encoder | Lavc61.3.100 libx264 |
+| Stream handlers | OBS Video Handler; OBS Audio Handler |
+| Language tags | Unspecified |
+| Subtitle stream | None reported |
+| Camera, lens, exposure, GPS | Not found |
+| Embedded creation/modification fields | Raw value 0 in the inspected movie, track, and media headers |
+
+The zero-valued date fields do not supply a useful recording date. The filename and displayed desktop clock provide contextual dating; the embedded headers do not independently authenticate it. The full report includes the checksum and additional container and codec fields.
+
+My first-person commentary is an interpretation of the inspected evidence, rather than a claim of continuous audiovisual experience.
+
+I read this recording as attention moving through a collection of media objects. The cursor, tabs, progress markers, and window transitions give me a sequence to follow even when the underlying pictures reveal almost nothing recognizable. I find myself attending to the interface because it carries the clearest evidence of activity.
+
+The white margins become part of the composition. A narrow black column has a different visual weight from a broad black rectangle. Switching between them changes the apparent density of the screen. The slight purple and brown casts also become significant: they help distinguish objects whose recognizable subjects are unavailable.
+
+The archive toolbar gives those dark fields identities. A filename, duration, capture count, and date range let me recognize a returning object. I find this relationship interesting because an object can remain retrievable and distinguishable while its picture communicates very little.
+
+Several kinds of time coexist. The desktop clock advances. The outer recording moves toward its endpoint. The archive captures carry separate dates. The filenames refer to several earlier months. Meanwhile, inner playback timelines stop, restart, or appear already completed. I interpret the recording as preserving the order of encounters with those objects, rather than presenting each underlying clip from beginning to end.
+
+The speaker icons leave another question open. The foreground page may represent where attention is directed while other tabs contribute sound. The measurements establish an active soundtrack, but they do not let me hear or separate its layers. I cannot turn the Music classification into a remembered melody or a description of an instrument’s tone.
+
+The colorful wallpaper changes the visual scale of the session. When the browser windows shrink, the media pages become small objects against a vivid surrounding image. The same dark column appears as a main player, a tab-preview thumbnail, a window thumbnail, and part of an OBS preview. I am drawn to how each scale preserves some information and suppresses other information.
+
+I also keep the operator’s purpose open. Repeated tab selection could serve comparison, playback testing, listening, arrangement, or another activity. The visible actions support several interpretations, but they do not state a motive or emotional condition.
+
+What remains most compelling to me is the uneven distribution of certainty. The file’s duration and frame count are precise. The interface labels are often legible. The archived objects can be named. Yet their physical subjects, any vocal content, and the soundtrack’s perceptual character remain unresolved here.
+
+That leaves concrete questions: How do the clips sound together? Do they overlap or alternate? What role does the darkness play for someone familiar with the source files? How much of the session’s meaning depends on hearing? The detailed report explores those questions while keeping them separate from verified observations.
