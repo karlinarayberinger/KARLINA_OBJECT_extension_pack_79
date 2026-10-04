@@ -54,6 +54,8 @@ relevant_KARBYTES_files[21]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[22]: https://karbytesforlifeblog.wordpress.com/karbytes_unique_identity/
 
+relevant_KARBYTES_files[23]: https://karlinaobject.wordpress.com/public_domain/
+
 * * *
 
 karbytes
@@ -3765,3 +3767,11 @@ The page’s self-qualification likewise preserves provenance at the level of re
 The document’s characteristic combination is therefore biological, archival, historical, and philosophical. Biological information supplies one identifying reference. The websites supply a body of work and a publication setting. Original authorship supplies a historical relation. The multiverse and noumenal caveats question the absolute extent of the resulting uniqueness.
 
 Its practical function is to explain which author and organism the name karbytes designates within the project. Its philosophical function is to keep that designation from implying more about reality’s total population than the document has established. The page retains a specific origin for the work, permits the work and its identifying information to be copied, and leaves the possibility of indistinguishable counterparts within its wider speculative framework unresolved.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinaobject.wordpress.com/public_domain/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
