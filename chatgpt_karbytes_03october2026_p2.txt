@@ -14,6 +14,8 @@ relevant_KARBYTES_files[1]: https://raw.githubusercontent.com/karlinarayberinger
 
 relevant_KARBYTES_files[2]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_14september2026_p0.mp4
 
+relevant_KARBYTES_files[3]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md
+
 * * *
 
 karbytes:
@@ -713,6 +715,8 @@ Carefully examine and describe the resource in maximal detail followed by your o
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_14september2026_p0.mp4
 
 ChatGPT:
+
+[generated_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/summary_chatgpt_karbytes_28september2026_p0_[generated_by_chatgpt_01oct2026].md]
 
 [Worked for 20m 15s]
 
