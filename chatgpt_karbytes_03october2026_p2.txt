@@ -6443,16 +6443,21 @@ My most open-ended reading is that the file leaves the source of its musical act
 
 karbytes:
 
-Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
-
-https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08august2026_a/
-
-(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+karbytes did indeed supply some improvised singing in that song and, for every file you have seen in every OBS studio MP4 you've seen in this conversation whose filename begins with guitar_karbytes, drums_karbytes, or pig_gorl was karbytes exclusively. The only non-karbytes derived material in KARBYTES is ChatGPT output and occasional inclusion of media from creators other than karbytes.
 
 ChatGPT:
 
+The corrected account is that the bonus song contains improvised singing by karbytes, as you’ve confirmed. My automated analysis failed to reliably identify and transcribe those vocals. Their precise words, pitch, timbre, rhythm, and loudness remain unverified by my inspection.
+
+I’ll also carry forward your provenance clarification: the guitar_karbytes, drums_karbytes, and pig_gorl files encountered within the OBS recordings are exclusively karbytes-derived material.
+
+KARBYTES otherwise contains karbytes-derived material, with the exceptions you identified: ChatGPT output and occasional media included from other creators.
+
+karbytes:
+
 Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
 
 https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08august2026_a/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
