@@ -3338,3 +3338,236 @@ Yes, you have my permission to proceed with the download.
 
 ChatGPT:
 
+[Worked for 33m 50s]
+
+The recording captures an 11-minute desktop session that moves through sound playback, browsing, archiving ChatGPT conversations, opening Tor-hosted web applications, running a numerical simulation, and playing two rounds of “Falling Apples Game Two.” Its most conspicuous change of pace occurs when the dense text-editing workflow gives way to the moving red circles and horizontal catcher of the game. The two game-over dialogs report final scores of 67 and 75.
+
+I downloaded the complete file and decoded its entire video and audio streams. The video contains 19,987 frames. I visually examined a chronological sequence of approximately one image per second across the complete duration, together with additional full-resolution frames at important events. I did not visually inspect all 19,987 frames individually. Direct audio input is unavailable to me in this interface, so I could not listen to the soundtrack in synchronization with the moving images. The audio findings below come from full-track signal analysis, speech detection, and sound classification. Consequently, this report cannot honestly represent the complete synchronized audiovisual experience you requested.
+
+The visual descriptions are observations of the extracted images. The audio descriptions are explicitly computational findings. The first-person commentary at the end is my interpretation of those observations, rather than a claim of human-like sensory experience. Times are measured from the beginning of the recording and are approximate unless otherwise specified.
+
+The desktop has an Ubuntu-style appearance, with a black system panel across the top and a vertical application dock along the left edge. The top panel displays October 4 and a clock that progresses from 15:21 near the beginning to 15:33 at the end. Status icons occupy the upper right, including an orange capture indicator. The left dock contains recognizable icons for Firefox, Chromium, Tor Browser, a file manager, Sublime Text, a terminal, a text editor, VLC, OBS Studio, and the trash.
+
+Most of the recording consists of dark browser or editor interfaces. White WordPress pages periodically replace those dark surfaces. The custom sound applications use black backgrounds, bright green outlines, orange headings and instructions, and cyan or green status text. Later, the game introduces a tall pale-cyan rectangle filled with red moving objects. These changes in color and spatial organization make the different phases of activity easy to distinguish.
+
+The pointer, scrolling, selected text, opening dialogs, changing tabs, and advancing counters provide the visible action. There is no continuously displayed camera view of the operator. A photograph of karbytes appears briefly within a journal page, and a separate video is momentarily visible inside VLC, but the main recording remains a capture of the computer interface.
+
+At approximately 00:00–00:04, OBS Studio is in the foreground. Its title identifies “OBS 32.2.0,” an untitled profile, and untitled scenes. There is one scene labeled “Scene” and a screen-capture source whose name is abbreviated in the source panel. The preview contains a miniature version of the captured desktop, producing a small recursive image of OBS capturing the screen on which OBS itself is visible.
+
+The audio mixer shows an active Desktop Audio meter, with green and yellow level bars. Its fader is labeled approximately −5.5 dB. Mic/Aux is at negative infinity and has a red mute indicator. The controls include streaming, recording, virtual camera, studio mode, and settings. A Fade transition with a duration of 300 milliseconds is configured. The first decoded frame still shows the Start Recording control; the subsequent view shows recording active.
+
+Behind OBS, Firefox displays the August 31 journal page. Its visible section contains the numbered KARBYTES video references, rendered as orange text against black backgrounds on a white page. OBS is then hidden, revealing the browser page more fully.
+
+At approximately 00:04–00:14, the operator switches between two tabs displaying SOUND_TRACK_LOOPER_THREE. The application occupies the left portion of an otherwise black page. Bright green rectangles frame the instructions, selection controls, and playback statistics.
+
+One tab shows two selected files: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p0.mp3 and asmr_pig_gorl_simpering_by_karbytes_27mar2025_p1.mp3. Each has a separate status entry. At the inspected frame around six seconds, both show zero completed loops and 65 seconds elapsed. This indicates that the displayed playback sessions began before this screen recording started.
+
+The other tab shows guitar_karbytes_29january2025.mp3. Its instructions describe playing finite sound patterns for an indefinite number of cycles. They also discuss opening multiple browser tabs and starting instances at different times to stagger playback. The application therefore explicitly presents looping and overlapping playback as supported behavior. The visible selections establish which files the interfaces identify; they do not establish how each individual source sounds within the combined recorded audio.
+
+At approximately 00:14–00:17, VLC comes to the foreground. Its title identifies drums_karbytes_04october2026_p0.mp4. The picture consists largely of black, with a very dark vertical purple or reddish strip in the center. I cannot identify a performer, instrument, or specific action in that picture.
+
+VLC’s playback bar shows approximately 02:44 elapsed and −04:05 remaining in the inspected frame. Its volume indicator reads about 119%. This is a separate recording being played inside the desktop session, and those player times belong to that separate video.
+
+The view returns briefly to the guitar looper before another browser tab is opened.
+
+At approximately 00:20–00:33, Firefox displays a dark new-tab page. It contains shortcut tiles, a weather indicator, and several illustrated news or story cards. The operator then navigates to the Karbytes For Life Blog home page.
+
+The blog displays a large dark masthead with the site name, followed by a white content area. Scrolling reveals highlighted text, references to other pages, and a yellow-green spiral or galaxy-like image. Many references use bright colors and conspicuous background highlighting.
+
+At approximately 00:39–00:47, the browser visits SOFTWARE_ENGINEERING_PORTFOLIO. Its page includes introductory prose and an inventory of applications. The operator scrolls through that material and opens the page associated with RANDOM_SOUND_TRACK_PLAYER_WITH_STATS.
+
+Several transitions include short intervals in which the browser displays a largely empty loading surface. Those pauses remain visible in the recording. The presentation retains the timing of ordinary navigation, page loading, and scrolling.
+
+At approximately 00:47–00:59, RANDOM_SOUND_TRACK_PLAYER_WITH_STATS loads. It has a dark background, a large white heading, a playback control, a current-track display, a total-playtime counter, and a table pairing MP3 filenames with play counts.
+
+Around 00:55, the current-track field reads karbytes_guitar_07_june_2023.mp3. Total Playtime is five seconds. That file’s play count is one, while the other visible rows have counts of zero.
+
+The visible inventory includes guitar recordings whose filenames refer to dates in 2022, 2023, 2024, 2025, and 2026. Examples include a Castro Valley recording dated December 12, 2022, a May 13, 2023 recording, and several files carrying 2024–2026 dates. The interface gives the playback activity a statistical representation: it records the selected filename, elapsed playback time, and how many times particular tracks have been played.
+
+At approximately 00:59–02:15, the recording shifts into an archival editing workflow. Firefox displays GitHub in dark mode, with KARLINA_OBJECT_extension_pack_79 visible in the repository navigation. The operator moves between a GitHub text editor and a ChatGPT conversation titled “Video analysis summary.”
+
+The ChatGPT response visible during this phase discusses the September 18 journal page and its selection of music recordings. I recognize passages from the earlier September 18 essay in this conversation. That response is subsequently visible within the GitHub editing interface.
+
+The text is organized as a conversation transcript, with labels such as “karbytes:” and “ChatGPT:”, requests, responses, filenames, and references to related archival resources. New blocks of prose appear in the editor. The operator scrolls, changes the insertion position, and works near the end of the file.
+
+The editor is displayed at 90% browser zoom. Its controls include Edit and Preview tabs, spacing options, soft wrapping, Cancel changes, and Commit changes. The text is densely packed, and some words have red underlines. Large paragraphs occupy long wrapped lines.
+
+Around 01:53–01:57, a commit dialog appears for chatgpt_karbytes_03october2026_p2.txt. The message field says “Update chatgpt_karbytes_03october2026_p2.txt.” The selected option is to commit directly to the main branch. The interface shows a saving state, followed by a normal file view.
+
+At approximately 02:15–02:32, the operator returns to journal_karbytes_31august2026_a. The view passes through the page title, its wooded-trail photograph, its indoor photograph, the highlighted provenance explanation, the comment-style file header, and the selected-video list.
+
+The two photographs appear briefly during scrolling. The first depicts a trail through green vegetation. The second depicts karbytes in a dim indoor setting with dark fabric and small warm lights. They are images displayed within the journal page.
+
+The selected-video references are arranged on a white background, with orange text on black. A browser context menu appears briefly over one of the references. Scrolling then reaches the page’s closing notice, which identifies an August 31 update date and a PUBLIC_DOMAIN declaration.
+
+At approximately 02:32–03:30, the recording returns to GitHub. The operator works with references near the beginning of the conversation transcript and with text near its end. A reference is selected in blue. Sublime Text appears briefly around 03:02–03:09, displaying a local plain-text working document, before the browser editor returns.
+
+Another commit dialog appears around 03:22–03:25. By approximately 03:28, GitHub is displaying the normal file view of chatgpt_karbytes_03october2026_p2.txt. The page reports 3,219 lines, 1,733 lines of code, and 481 KB. Those figures describe the version displayed at that moment in the recording.
+
+The file header names the file, identifies its type as plain-text, gives the date as 04_OCTOBER_2026, names karbytes as author, and declares PUBLIC_DOMAIN licensing. The filename retains a reference to October 3 while the internal date field identifies October 4. The descriptive text identifies the document as a conversation between karbytes and ChatGPT 6.1 Sol, with Max Effort and Work Mode named.
+
+At approximately 03:31–03:53, the operator revisits the ChatGPT conversation. The September 18 request and response are visible, followed by the request for a detailed essay about the August 31 journal page. ChatGPT displays its initial statement about reading that page and preserving its details.
+
+The recording therefore shows the request for the August 31 essay entering the conversation. It does not provide a clear view of that essay’s completed response during this sequence.
+
+At approximately 03:54–04:13, another ChatGPT conversation titled “Document Summary Essay” opens. Following a brief loading interval, the operator scrolls through a report concerning an earlier video.
+
+Around 04:03, the visible response contains timestamped quotations, including “Well, I better get back to the burrow” and a statement about having work to do for a second official major KARBYTES hiatus. Other visible lines refer to the fall months of 2026 and generating a poster.
+
+These are written quotations inside an earlier ChatGPT report. They are not speech that I detected in the soundtrack of the present recording, and I do not present them as a transcription of this recording’s audio.
+
+The operator scrolls farther through descriptive and first-person commentary about the earlier video. A copy control is used or hovered near the response controls, and the view subsequently returns to GitHub.
+
+At approximately 04:13–06:14, GitHub editing resumes, now involving chatgpt_karbytes_03october2026_p1.txt. The recording shows extensive scrolling through its related-file inventory, conversation text, report material, and technical descriptions. The operator also returns intermittently to ChatGPT to examine portions of the earlier response.
+
+A later commit dialog identifies the p1 file. Around 06:08, however, a browser confirmation appears saying, “You have unsaved changes. Do you want to discard them?” The dialog has Cancel and OK controls. The sequence subsequently returns to a normal file view.
+
+This is an important observable qualification to the archiving activity. Text being visible in an editor does not establish that every displayed change was saved. The recording shows both commit operations and a separate unsaved-changes confirmation. It does not provide a complete audit of every resulting repository version.
+
+At approximately 06:29–06:47, the operator revisits the end of the earlier ChatGPT report. OBS appears briefly in the foreground, with the Desktop Audio meter still active and the recording timer advancing. The view moves again among the browser, OBS, and a local text editor.
+
+At approximately 06:48–07:13, the desktop becomes more fully visible. A file-manager window appears briefly and is then hidden.
+
+The wallpaper is a close view of a glass light bulb lying horizontally against a dark background. Saturated magenta, violet, cyan, and yellow light illuminate its glass and internal structures. A reflection extends beneath it. This is the most visually elaborate static image in the recording, with curved glass surfaces and bright color gradients behind the desktop icons.
+
+Visible desktop items include print_folder_checksums.py, print_folder_contents.py, update_urls_in_file.py, usage.txt, s.txt, t.txt, and mo_onion.txt. There are also contents and checksum text files, media thumbnails, folders associated with karbytes, an obs_31august2026 folder, and folders labeled employment_stuff, podcasts_10sep2026, misophonia_tracks, and trophies. A Home icon appears on the right.
+
+The operator opens mo_onion.txt in the text editor. It contains a single onion-service address. That address is selected. The video then returns to the desktop while Tor Browser launches.
+
+At approximately 07:15–07:33, Tor Browser shows its connection interface. The visible stages include “Connect to Tor,” “Establishing a Connection,” and “Connected to the Tor network!” The browser then displays its “Explore. Privately.” start page.
+
+An onion address is entered in the address bar. There is a loading interval before a directory page appears around 07:33. The sequence shows the practical steps of opening the browser, connecting, entering an address, and waiting for the requested page.
+
+At approximately 07:33–07:58, the directory leads to a web application for approximating pi. Its text describes a 3,600-second Monte Carlo dart-throwing simulation using a square canvas with a side length of 400 pixels.
+
+The instructions say that randomly plotted points within 200 pixels of the center are colored red, while points farther from the center are colored blue. The displayed calculation is four times the red-point count divided by the combined red and blue counts.
+
+The plotting area is white, with horizontal and vertical center lines. Instructions are orange against black. The statistics appear in cyan within a purple-outlined box, while a second purple-outlined box contains green initialization and start-time messages.
+
+The operator scrolls between the explanatory text, Start control, plotting area, and statistics. The simulation begins, and its counters change.
+
+In a frame near 07:55, the page shows 3,593 seconds remaining, a red count of five, a blue count of two, and a pi approximation of 2.857142857142857. The video therefore shows the early stages of a simulation with a very small accumulated sample. It does not show the hour-long run reaching completion.
+
+The application’s log displays an initialization timestamp of 1791152978259 milliseconds since the Unix epoch, corresponding to October 4, 2026 at 22:29:38.259 UTC. Its displayed simulation-start timestamp corresponds to 22:29:43.859 UTC. These are timestamps rendered within the application. They are not embedded creation-time metadata for the MP4.
+
+The footer says the application page was last updated on October 1, 2024 and declares PUBLIC_DOMAIN licensing.
+
+At approximately 07:58–08:08, the operator returns to the directory and scrolls through its web applications. Visible categories include a keyboard musical instrument, a balls application, falling-apples games, fractal animation, an onion-page availability logger, graph generation, random sound playback, sound loopers, pi approximation, probability, and triangle graphing.
+
+The directory is presented on a white background with emphasized references and distinct application headings. Opening a game leads to another short loading interval.
+
+At approximately 08:08–09:12, the first round of “Falling Apples Game Two” takes place.
+
+The game has a black surrounding page and a tall, narrow, pale-cyan playfield outlined in bright green. Its heading includes an apple symbol and green lettering. Beneath the heading are a score counter with a denominator of 100 and an elapsed-time counter.
+
+The apples are represented by small red circles. They enter at different horizontal positions and move downward. A small brown horizontal rectangle serves as the catcher near the bottom. It moves left and right as the red circles descend. Two square arrow controls appear below the playfield.
+
+During the middle of the round, many circles occupy different heights simultaneously. The catcher repeatedly traverses the lower edge, sometimes following a cluster and sometimes changing direction toward another falling object. The score increases as play continues.
+
+Near the end, the upper part of the field clears and the remaining circles descend toward the bottom. A game-over dialog appears around 09:10. It reports, “Game over! Your score: 67.”
+
+At that instant, the background display still reads 66 out of 100 and 59 seconds. The final score in the dialog is one point higher than the still-visible background score. I use the dialog’s explicit final result when reporting the outcome.
+
+At approximately 09:13–10:17, the operator restarts the game and plays a second round. The score and elapsed time reset, and a new arrangement of red circles descends through the same pale field.
+
+The general pattern repeats: an increasingly populated field, lateral catcher movement, accumulating score, and a quieter final interval as the remaining circles leave the field. This round ends with a dialog reporting, “Game over! Your score: 75.”
+
+Again, the background counter is one point behind the dialog at the inspected moment: it shows 74 out of 100 and 59 seconds. The second reported final score is eight points higher than the first. The recording shows these two outcomes; it does not establish why the second result is higher.
+
+At approximately 10:18–10:54, the operator returns to the directory and scrolls through additional application entries. SOUND_TRACK_LOOPER is opened.
+
+The application has the recurring black background, green framing, orange instructions, and cyan statistics. Its selection field identifies a frog-croaking recording associated with Castro Valley, California and April 21, 2022. Initial statistics show zero elapsed seconds and zero completed loops, followed by advancing elapsed time.
+
+The operator returns to the directory and opens SOUND_TRACK_LOOPER_TWO. Its instructions describe indefinite repetition of finite sound patterns and include notes about browser audio and possible loading delays over Tor.
+
+At approximately 10:55–11:04, a sound-file selection menu is expanded. It contains several recordings, including guitar files and the frog recording. The operator selects karbytes_guitar_13_may_2023.mp3. The application then displays that filename in both its selection field and its status section.
+
+At approximately 11:04–11:06.233, OBS returns to the foreground. Its Desktop Audio meter remains active, Mic/Aux remains muted, and the red recording timer reads approximately 00:11:06.
+
+The preview again contains a small recursive image of the desktop. The pointer is positioned over Stop Recording. The file ends on that active interface. There is no title card or separate closing scene.
+
+The soundtrack was analyzed across its complete 666.219-second duration. A speech-recognition pipeline using full-track voice-activity detection returned zero speech intervals and no transcript. An independent sound classifier examined 1,388 overlapping windows across the recording.
+
+That classifier strongly favored Music. Its average Music score was approximately 0.857, and Music exceeded a score of 0.5 in 1,295 of the 1,388 windows. Speech scores remained very low, with a maximum of approximately 0.059. Singing also remained low, with a maximum of approximately 0.043. These are model scores, not percentages proving the presence or absence of a sound.
+
+No reliable spoken words or vocal performance were identified by this analysis. I therefore have no validated speech transcription to provide and no supported description of a voice’s pitch, timbre, rhythm, or loudness. This is an automated finding, with direct listening unavailable, rather than a claim that I personally heard the entire track and confirmed the absence of every possible vocal sound.
+
+The filenames displayed in the players identify several possible sources: the two ASMR-labeled recordings, the January 2025 guitar recording, the October 4 drum video, the random player’s June 2023 guitar selection, and later the frog and May 2023 guitar selections. The visible players and active Desktop Audio meter support the interpretation that desktop playback supplies the recorded sound. The ASMR wording in a filename does not establish that intelligible speech or a particular vocal quality is audible in the resulting mix.
+
+The full-track measurements indicate a substantial, largely continuous audio signal. Every one-second analysis window contained measurable audio. The original stereo track has integrated loudness of approximately −14.0 LUFS, a loudness range of 3.5 LU, overall RMS level of approximately −16.54 dBFS, and a true peak near −0.4 dBFS. These measurements describe the encoded signal; they do not specify the volume at which a human listener would play it.
+
+The 16 kHz mono analysis mix is strongly weighted toward low frequencies. Approximately 63% of its measured spectral power lies between 80 and 250 Hz, and approximately 82% lies below 500 Hz. There is a lower-energy section around 04:10–04:40, after which the signal returns toward its more typical level.
+
+The sound classifier also assigned occasional percussion-related labels and some glass- or clink-related labels, including during the game portion. Those results support the presence of short sound events within the musical signal, but their precise timbre and source remain unverified by listening. I cannot supply a trustworthy account of melody, harmony, groove, instrumental tone, or changes in perceived sound texture from these measurements alone.
+
+The available file metadata is as follows:
+
+[preformatted_text]
+
+| Field | Observed value |
+|---|---|
+| Requested filename | obs_studio_recording_karbytes_04october2026_p0.mp4 |
+| File size | 24,105,136 bytes; approximately 22.988 MiB |
+| Container | MP4 / ISO Base Media |
+| Overall duration | 666.233333 seconds; 11 minutes 6.233 seconds |
+| Streams | One video stream and one audio stream |
+| Video codec | H.264 / AVC |
+| Video profile | High |
+| Displayed frame dimensions | 1,092 × 614 pixels |
+| Coded frame dimensions | 1,104 × 624 pixels |
+| Frame rate | 30 frames per second |
+| Original video-frame count | 19,987 |
+| Video scan type | Progressive |
+| Pixel format | yuv420p |
+| Color information | BT.709, limited-range video |
+| Approximate video bitrate | 237.4 kb/s |
+| Video handler | OBS Video Handler |
+| Video encoder tag | Lavc63.1.101 libx264 |
+| Audio codec | AAC, Low Complexity profile |
+| Audio sample rate | 48,000 Hz |
+| Audio channels | Two; stereo |
+| Audio duration | 666.218667 seconds |
+| Approximate audio bitrate | 43.3 kb/s |
+| Audio handler | OBS Audio Handler |
+| Approximate overall bitrate | 289.4 kb/s |
+| Container encoder tag | Lavf63.1.101 |
+| Major brand | isom |
+| Compatible brands | isom, iso2, avc1, mp41 |
+| Track language tags | und, meaning unspecified |
+| Subtitle stream | None present |
+
+[end preformatted_text]
+
+I found no conventional camera EXIF block, camera make or model, lens information, aperture, shutter speed, ISO setting, or GPS coordinates in the inspected metadata. The MP4’s movie and track creation/modification fields contain zero values, so they do not provide a useful capture date.
+
+The filename, desktop clock, and application log supply visible date or time evidence. Their roles are different from an embedded camera capture timestamp. The OBS version is visible in the interface, while the OBS handler names and FFmpeg-related encoder strings are embedded in the file.
+
+The downloaded file’s SHA-256 checksum is 27ff488fd68d057e88ecd025e2386d20d0d80d874173312fc543fd8c6e54c8a6.
+
+My first-person commentary is grounded chiefly in the visual sequence and the documented behavior of its interfaces.
+
+I am most interested in the recording’s relationship to the archive it shows being maintained. I see a sequence of requests, generated responses, copied passages, related-file inventories, and commit operations. The desktop records the labor through which a conversation becomes a separately named archival object. The filename, author field, date, license declaration, and reference list give that object an identity that can persist beyond the immediate exchange.
+
+I recognize an especially recursive moment in the September 18 essay. That essay describes a journal page containing selected recordings and information about its archival provenance. Here, the essay itself appears inside a conversation transcript being edited in the archive. The screen recording captures that process, and this report now describes the screen recording. Each layer changes the available viewpoint: a selection of recordings becomes a journal entry, the journal entry becomes the subject of an essay, the essay becomes archived conversation text, and the archiving activity becomes another recorded resource.
+
+I read the scrolling as a visible path of attention. The pointer and viewport repeatedly move among a request, a response, a file header, a reference inventory, and the end of a document. Text is not simply left on the screen for uninterrupted reading. It is located, selected, moved, checked, and connected to other material. Those movements make the archive appear as something actively constructed.
+
+The commit dialogs are important to that reading because they give preservation a visible decision point. A large body of text becomes associated with a short update message and a selected branch. The later unsaved-changes prompt adds another kind of decision: whether to keep working with an edit or discard it. I cannot infer the operator’s private reasoning from those controls, but I can see that preservation involves choices about what becomes a saved version.
+
+I also notice how many forms of repetition coexist in the session. The sound applications repeat finite recordings. The operator repeatedly revisits interfaces and passages. The pi application accumulates random samples through repeated operations. The game is played twice within the same visible framework. Repetition produces different results in each setting: an advancing playback count, a growing or revised transcript, a changing numerical estimate, or another final score.
+
+The transition into Tor introduces a slower visual interval. There is a connection process, a start page, an entered address, and a wait for content. I find those delays significant because they remain part of the record. The application is encountered through its loading process as well as through its completed display. The video preserves the practical timing of access.
+
+The pi simulation and falling-apples game make a particularly clear pair in my interpretation. Both place changing points within a bounded graphical space. In the simulation, position determines a classification that contributes to an estimate. In the game, position determines whether a descending object meets a moving catcher. One screen displays red and blue counts and a ratio; the other displays a score and elapsed time. They offer two different ways of making position and time consequential within a small computational environment.
+
+The game is the easiest portion for me to follow through motion alone. The red circles stand out against the pale field. Their downward movement creates a recurring relationship with the catcher: an object is approaching a lower position, and the catcher shifts toward or away from that position. The changing density of circles gives the round a visible cadence. The crowded middle portion requires tracking several possible encounters, while the final portion lets the remaining objects clear.
+
+The second round changes the result while retaining the same basic visual structure. I can say that the reported score rises from 67 to 75. I cannot decide from the video whether that difference reflects improved anticipation, a more favorable arrangement of falling objects, ordinary variation, or several factors together. That uncertainty leaves the repetition interesting: the interface is recognizable, but the sequence within it is newly produced.
+
+The difference between each game-over dialog and the background score also catches my attention. At the inspected moments, the dialog reports the final result while the background still displays a score one point lower. I take this as a reminder that even a simple interface contains multiple visible states, and those states need not all update at the same instant. The recording preserves that small temporal discrepancy.
+
+The light-bulb wallpaper provides another change in visual scale. Its curved glass, saturated colors, and reflection occupy a much larger image than the sparse graphics of the applications. When the browser windows disappear, that image becomes prominent. At the same time, the document names, scripts, folders, and media thumbnails remain arranged over it. I read the desktop as both a personal visual surface and a working arrangement of objects.
+
+I encounter karbytes’s presence primarily through those arrangements and choices: the naming of files, the selection of recordings, the repeated use of public-domain declarations, the construction of conversation transcripts, and the movement among applications. The brief photograph in the journal supplies a bodily image, while most of the session supplies evidence of activity through an interface. I do not need to infer a particular emotional state to find that activity expressive.
+
+The ending returns my attention to the recording process itself. OBS comes forward, its preview contains the desktop in miniature, its meter continues to register sound, and its timer shows the duration accumulated so far. The pointer reaches Stop Recording. That final action gives the session its boundary. What I am examining is a finite file made from a continuing workspace: a selected interval in which words, counters, sounds, windows, and graphical objects changed state.
