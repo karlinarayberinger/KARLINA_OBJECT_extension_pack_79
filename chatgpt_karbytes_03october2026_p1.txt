@@ -9190,3 +9190,13 @@ That wording preserves the distinction between an update’s publication window 
 Third, the capsule paragraph assigns the same deadline to the year-end configuration and the completed burial. That is workable if the canon is frozen early enough for copying and burial, then remains unchanged through the stated year-end instant. Making that sequence explicit would remove uncertainty about how late changes are handled. Also, four copies of every disc means four complete copies of the archive: if the canon occupies N discs, the capsule contains at least 4N discs.
 
 For the eventual list of linked hubs, a short annotation after each page name could identify its contribution to the nine constructs. The ordering would then communicate a reading path, while the annotations would explain why each dense hub belongs within this exceptionally dense one.
+
+karbytes:
+
+The following web page encompasses the generation of the poster used for ushering in the First Official Major KARBYTES Hiatus (Summer 2026)...
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_21june2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
