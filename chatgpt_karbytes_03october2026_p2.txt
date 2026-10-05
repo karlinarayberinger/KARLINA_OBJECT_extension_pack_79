@@ -3958,7 +3958,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 ChatGPT:
 
-[Worked for 16m 2s]
+[Worked for 20m 6s]
 
 I downloaded the complete file, obs_studio_recording_16july2026_p1.mp4. It contains 3 minutes 16.667 seconds of video: 5,900 frames at 30 frames per second. The recording documents activity on a computer desktop, including playback of earlier screen recordings, examination of images, a brief view of a cup of green tea, a short wooded-path video, and repeated browser responsiveness warnings.
 
@@ -4162,15 +4162,21 @@ I did not establish reliable spoken content or another reliable human vocalizati
 
 For completeness, the automatic speech checks produced these unverified hypotheses:
 
+[preformatted_text]
+
 | Analysis | Position | Machine-generated text | Assessment |
 |---|---:|---|---|
 | Speech-filtered whole-track pass and short opening excerpts | Approximately 00:00–00:00.8 | “Thanks for watching!” | Unverified; the first word had extremely low recognition confidence. |
 | Whole-track pass without speech filtering | 00:00–00:00.44 | “So” | Extremely low word confidence; inconsistent with the other opening hypothesis. |
 | Whole-track pass without speech filtering | 02:58.58–02:59.98 | “Oh” | Extremely low word confidence and a high no-speech score. |
 
+[end preformatted_text]
+
 These entries are diagnostic outputs, not a transcript. The independent sound classifier’s speech scores were also weak: an average around 0.006 and a maximum around 0.082. Singing scores were similarly low. The combination of weak vocal evidence, low recognition confidence, and inconsistent wording makes it inappropriate to present the generated phrases as established speech. It also does not prove that every possible faint vocal sound is absent.
 
 No camera EXIF data was found in the inspected MP4 structure or exposed metadata. The file does contain container and stream metadata:
+
+[preformatted_text]
 
 | Property | Extracted value |
 |---|---|
@@ -4217,6 +4223,8 @@ No camera EXIF data was found in the inspected MP4 structure or exposed metadata
 | Compatible brands | isom, iso2, avc1, mp41 |
 | Separate subtitle stream | None found |
 | Embedded cover image | None found |
+
+[end preformatted_text]
 
 Both streams have nominal starting times of zero. The declared audio duration is approximately 16.7 milliseconds shorter than the video duration. That is a timing observation, not evidence of a perceptible synchronization problem.
 
