@@ -60,6 +60,8 @@ relevant_KARBYTES_files[24]: https://raw.githubusercontent.com/karlinarayberinge
 
 relevant_KARBYTES_files[25]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_06july2026/
 
+relevant_KARBYTES_files[26]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_02july2026/
+
 * * *
 
 karbytes:
@@ -5693,3 +5695,11 @@ The page also emphasizes continuity among forms of publication. A plain-text sou
 A further temporal relationship runs through the entry. Older recordings appear within a later list; an abridgment carries its own date; a July 6 screenshot displays a video named for June 19; and the July 6 list identifies itself as a sequel to a July 2 publication. The page brings recording, revision, viewing, selection, and publication into proximity through these distinct date labels.
 
 The closing update statement preserves one more such label: the date on which the web page says it was last updated. Together with the file header and selection heading, it situates the document’s presented state on July 6, 2026. The entry leaves future selections open, while preserving the nine resources and three accompanying visuals gathered into this particular dated publication.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_02july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
