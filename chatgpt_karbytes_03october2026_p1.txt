@@ -78,6 +78,8 @@ relevant_KARBYTES_files[33]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[34]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27september2026_a1/
 
+relevant_KARBYTES_files[35]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_k/
+
 * * *
 
 karbytes
@@ -6910,3 +6912,11 @@ The document’s achievement is to make several kinds of accountability visible 
 The page leaves KARBYTES both comparatively well organized and still developing. The specified directory destinations have reportedly been accounted for at the audit’s moment, while the collection contains an unfinished request and repeated plans for future work. Closure belongs to particular versions and tasks rather than to the author’s entire life.
 
 What persists through the document is a relationship among making, witnessing, checking, and continuing. Karbytes seeks a record that can endure beyond its immediate circumstances, yet those circumstances continually shape the record. The files preserve work already done while exposing the labor required to make that work reliable. Their most durable contribution is the effort to state precisely what is present, what was experienced, what was inferred, what was corrected, and what remains available for another encounter.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_k/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
