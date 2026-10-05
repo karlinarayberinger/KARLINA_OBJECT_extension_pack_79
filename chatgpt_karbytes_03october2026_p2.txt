@@ -4680,3 +4680,601 @@ If any vocal content is detected, then describe qualities of the voice such as p
 Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4
+
+ChatGPT:
+
+[Worked for 21m 11s]
+
+I downloaded the file successfully. It is a 2-minute, 24.811-second recording of a Linux desktop, showing a browser-based random sound player, file browsing, OBS Studio, VLC playback, a software portfolio page, and a browser-based sound looper. Its most substantial visual activities are opening a locally stored drum recording, seeking through it, inspecting OBS’s recording interface, and browsing a long menu of sound files before starting an Agrimonia track.
+
+I need to distinguish the examination I completed from the synchronized human-style viewing experience you requested. I reviewed every normally decoded video frame in playback order through chronological contact sheets, examined 289 larger timed images, and inspected selected frames at the file’s native resolution. I also inspected three additional coded tail frames exposed when the MP4’s edit list was ignored. I analyzed the entire audio track computationally, including its signal levels, sound classifications, and speech-recognition results. This interface did not give me direct auditory perception or synchronized audiovisual playback, so I cannot honestly describe this as having listened to the recording while watching it in real time. The visual account below comes from inspected images; the audio account comes from full-track analysis. My first-person commentary is an interpretation of that evidence.
+
+No reliable intelligible speech was established. I therefore have no defensible spoken-content transcription or verified vocal qualities to report.
+
+The recording’s visual environment is a dark Linux desktop with an Ubuntu-style application dock down the left edge. The dock remains visible through most of the recording, even when VLC or Chromium occupies almost all the remaining screen. Recognizable icons include Firefox, Chromium, Tor Browser, Files, a terminal, Sublime Text, a text editor, VLC, OBS Studio, Trash, and the applications launcher. Some applications have small running indicators beside them. Files has a green badge displaying “1.”
+
+The desktop wallpaper, visible when the application windows leave space around their edges, contains luminous cyan, blue, purple, and magenta forms against black. Its upper portion resembles an abstract curved dome or sweeping arc; the lower portion contains broad turquoise and blue bands that suggest reflections. This is a wallpaper image, rather than a physical environment being photographed during the recording.
+
+Gray folder icons with green upper edges are arranged across the desktop. Readable labels include “karbytes2026_3,” “karbytes_kernel [17may2026],” “trophies,” and “Home.” Other labels are partly concealed by windows. The “trophies” folder and Home icon appear on the right side. The desktop’s top bar carries a centered date and clock, application and recording indicators, and small system-status icons.
+
+The clock initially reads “May 18 06:53.” It advances to 06:54 during the first portion of the recording and to 06:55 later. No timezone is visible beside that clock. The filename identifies May 18, 2026, while the file’s embedded creation timestamps identify a July 2 export or processing event. Those dates describe different parts of the recording’s history.
+
+At 00:00, Chromium displays a dark web application with the large white heading:
+
+`RANDOM_SOUND_TRACK_PLAYER_WITH_STATS`
+
+The page uses a nearly black background, charcoal panels, white sans-serif text, and a table divided by fine gray horizontal rules. A wide panel near the top identifies the currently playing file. Beneath it, another panel reports accumulated playback time and lists MP3 filenames beside their play counts.
+
+The very first inspected frame shows:
+
+`Now playing: karbytes_guitar_07_june_2023.mp3`
+
+Its total-playtime value is approximately 95 seconds. That frame also contains a partly translucent dark rectangular patch over the left-central part of the table, with pale horizontal strips and overlapping text. It looks like a briefly incomplete or mixed display state. Its contents are not readable enough to identify it confidently as a particular menu or dialog.
+
+By approximately 00:00.2, that patch has cleared, the browser address field is selected with a bright green highlight, and the page presents a different state:
+
+`Now playing: guitar_karbytes_24february2026_p0.mp3`
+
+The total-playtime value is now 159 seconds. The visible table gives a play count of 1 to that February recording and to the June 2023 recording. Most other visible entries have a count of 0. The change between these initial frames is directly visible; the recording does not establish why the opening frame briefly contains the earlier state.
+
+Readable filenames in this player include:
+
+- `guitar_karbytes_24february2026_p0.mp3`
+
+- `karbytes_guitar_13_may_2023.mp3`
+
+- `karbytes_guitar_07_june_2023.mp3`
+
+- `karbytes_guitar_castro_valley_california_12_december_2022.mp3`
+
+- `karbytes_guitar_16_october_2023.mp3`
+
+- `guitar_karbytes_20august2024.mp3`
+
+- `guitar_karbytes_14april2025.mp3`
+
+- `guitar_karbytes_13july2024.mp3`
+
+- `guitar_karbytes_25january2026_p0.mp3`
+
+- `guitar_karbytes_14june2025.mp3`
+
+- `guitar_karbytes_05june2025.mp3`
+
+These are visible archive labels. Their presence in the table does not mean every listed file plays during this excerpt.
+
+Several browser tabs are open. Their truncated titles refer to the Karbytes blog, software engineering, and random sound players. Some tabs display speaker icons. The bookmarks bar contains shortened labels referring to the blog, an archive-related destination, and sound-track resources.
+
+At approximately 00:00.93, the Files application comes to the foreground. It is showing Home’s Downloads directory in a dark list view. Its left sidebar includes Recent, Starred, Home, Documents, Downloads, Music, Pictures, Videos, Trash, and Other Locations. The main list has Name, Size, and Modified columns, with star outlines near the right edge of the rows.
+
+The selected item is:
+
+`guitar_karbytes_25april2026_p0.mp4`
+
+Its displayed size is 23.6 MB, and its modification column reads “Today 6:49.” The blue selection strip spans most of the row. A small selection-status message at the lower right repeats the filename and size.
+
+Other readable Downloads entries include:
+
+[preformatted_text]
+
+| Visible filename | Displayed size | Displayed modification time |
+|---|---:|---|
+| `guitar_karbytes_multi_track_02may2026_p1.mp4` | 22.5 MB | Today 6:49 |
+| `karbytes_basement_54-main.zip` | 31.1 MB | Today 5:53 |
+| `karbytes_in_onion_server_room_16may2026_p0.jpg` | 2.9 MB | Today 0:55 |
+| `karbytes_is_stuck[enhanced_version_head_locker_p0].png` | 2.0 MB | Yesterday 18:24 |
+| `karbytes_is_stuck[enhanced_version_head_locker_p1].png` | 2.2 MB | Yesterday 18:25 |
+| `karbytes_is_stuck[enhanced_version_head_locker_p2].png` | 2.1 MB | Yesterday 18:54 |
+| `karbytes_is_stuck[enhanced_version_side_view_p0].png` | 2.0 MB | Yesterday 11:15 |
+
+[end preformatted_text]
+
+The images are represented by small thumbnails or image icons. They are not opened at a size that would support a reliable description of their depicted contents. The names alone do not establish what is happening inside those images.
+
+OBS Studio is partly visible behind Files. Its lower status strip, some controls, and parts of the desktop wallpaper remain exposed. The layered windows make the screen look busy even though the foreground operation is simply file browsing.
+
+At approximately 00:04.1, OBS Studio comes fully to the foreground. Its title bar reads:
+
+`OBS 32.1.2 - Profile: Untitled - Scenes: Untitled`
+
+The window occupies a substantial central-left rectangle rather than the entire desktop. Its interface contains Scenes, Sources, Audio Mixer, Scene Transitions, and Controls panels.
+
+There is one visible scene, named “Scene.” The source label begins “Screen Ca…” and is truncated by the panel width. Eye and lock icons appear beside it. Above the panels, the preview shows a tiny version of the captured desktop. Where OBS itself is part of that desktop, the preview produces a small recursive image of the recording interface inside the recording interface.
+
+The preview-scale control shows approximately 7%. The text “No source selected” appears below the preview area.
+
+The Audio Mixer contains “Desktop Audio” and “Mic/Aux.” Desktop Audio is set to 0.0 dB, and its meter changes repeatedly through green, yellow, and red portions of the scale. Mic/Aux displays negative infinity and a red muted-speaker indicator. This visibly supports desktop-audio capture with that microphone input muted at the examined moments. It does not independently establish the origin of every sound already contained in the desktop audio.
+
+The transition is “Fade,” with a duration of 300 ms. The Controls panel includes Start Streaming, Stop Recording, Start Virtual Camera, Studio Mode, and Settings. Stop Recording is highlighted blue, and a red recording indicator is present in the bottom status strip.
+
+The recording timer is already around 12 minutes. At approximately 00:04.1 of this excerpt, OBS shows about 12:01. Later views show approximately 12:32 and 12:47. This fits the embedded editing information indicating that the downloaded file is an excerpt from a longer source. An earlier, partly exposed status strip briefly shows a different timer state; I would not use that isolated display to infer an additional edit or a change in playback speed.
+
+OBS’s bottom strip reports 30.00 / 30.00 FPS. CPU values vary between inspected moments, including approximately 23.3%, 17.2%, and 21.8%. The recording appears to be active while ordinary desktop activity continues.
+
+At approximately 00:05.93, Files returns to the foreground and opens the desktop folder named “trophies.” The contents briefly appear incomplete while the window updates, then settle into a list of video files.
+
+The readable entries are:
+
+[preformatted_text]
+
+| Visible filename | Displayed size | Displayed modification time |
+|---|---:|---|
+| `obs_studio_recording_18may2026_p0.mp4` | 24.2 MB | Today 0:25 |
+| `drums_karbytes_17may2026_p0.mp4` | 22.7 MB | Yesterday 22:49 |
+| `under_moonlight_sadness_behind_this_tears_1998.mp4` | 9.3 MB | Yesterday 21:28 |
+| `excess_of_cruelty_the_reaper_of_the_harvest_1997.mp4` | 4.4 MB | Yesterday 20:40 |
+| `madonna_ray_of_light_1998.mp4` | 21.1 MB | Yesterday 20:16 |
+| `obs_studio_recording_17may2026_p2.mp4` | 24.1 MB | Yesterday 10:52 |
+| `server_factory_ambiance_13may2026_p0.mp4` | 20.6 MB | Yesterday 10:33 |
+| `obs_studio_recording_17may2026_p1.mp4` | 25.3 MB | Yesterday 3:13 |
+
+[end preformatted_text]
+
+The pointer moves over rows, producing gray hover outlines. The drum recording becomes selected with a blue strip. OBS remains visible behind the file browser, and the desktop’s “trophies” icon is also highlighted.
+
+At approximately 00:14.4, VLC comes to the foreground. For a brief transitional interval its title refers to the previously loaded April 25 guitar recording. It then changes to:
+
+`drums_karbytes_17may2026_p0.mp4 - VLC media player`
+
+By approximately 00:15.1, the newly loaded drum recording is clearly the active media. VLC reports a total duration of 05:55. Its position is initially 00:00, and a large white filename overlay appears near the lower center of the video area:
+
+`drums_karbytes_17may2026_p0.mp4`
+
+The VLC image is extremely dark. Most of the video rectangle is almost black, with faint burgundy, violet, and reddish variation. There are broad, indistinct regions and some block-like changes, but I cannot resolve a person, a drum kit, a room layout, or a particular object. The title identifies the file as a drum recording; the image does not give me a recognizable view of a drummer.
+
+The video region is bordered by VLC’s interface. Across the top are Media, Playback, Audio, Video, Subtitle, Tools, View, and Help. Along the bottom are playback controls, a blue progress strip, the current-position display, the total duration, and a green volume wedge. The left desktop dock and top system bar remain visible.
+
+The large filename overlay persists briefly, then fades. Around 00:17 of the screen recording, VLC’s position already reads approximately 00:57, showing that playback has been advanced into the loaded file. The progress handle has moved forward accordingly. VLC’s displayed volume is approximately 102%.
+
+For much of the next interval, the image stays very dark while the playback clock and progress strip advance. At 00:30 of the screen recording, VLC shows approximately 01:09 of its 05:55 media. The pointer moves over the title area and across the dark video region. The visible activity consists principally of pointer movement, changing counters, faint picture variation, and the progress bar.
+
+At approximately 00:31.97, OBS is brought forward over VLC. Its panels and controls reappear in the same general arrangement. VLC remains playing underneath: the exposed lower strip shows approximately 01:11, and its blue progress indicator continues to advance.
+
+OBS’s Desktop Audio meter remains active. Mic/Aux remains muted at negative infinity in the inspected views. The tiny preview alternates between a mostly dark VLC view and a recursive desktop view as the captured screen state updates. The Stop Recording button remains present. No stop action is visible.
+
+OBS stays in the foreground for roughly 20 seconds. At 00:50, its recording timer reads about 12:47, while VLC’s exposed playback position is approximately 01:29. The pointer rests within OBS’s lower-central panel area for part of this period.
+
+At approximately 00:52.73, OBS leaves the foreground, revealing VLC again. The loaded drum recording remains nearly black, with the same faint purple-red tonal structure. Its position is approximately 01:32.
+
+Around 01:05.3 of the screen recording, VLC displays large white seek-status overlays in the upper-right portion of the video area. Successive frames show:
+
+`01:38 / 05:55`
+
+then:
+
+`01:26 / 05:55`
+
+then:
+
+`01:17 / 05:55`
+
+These rapid changes accompany a backward seek. The lower progress strip also moves backward, although the overlay and the bottom position display do not always update in precisely the same frame. VLC’s volume now reads approximately 125%.
+
+Around 01:07.5, the pointer is positioned farther along the progress bar and a small hover tooltip shows approximately 03:02. By the next examined larger frame, VLC’s current position itself reads 03:02. It then advances to around 03:04.
+
+Around 01:10.5, another seek moves playback back to approximately 01:13. A tooltip near the progress bar shows that time, and the lower-left position display also changes to 01:13. By approximately 01:12, the loaded recording is at about 01:14.
+
+The sequence therefore includes several distinct navigation actions: an early forward jump from the beginning to roughly a minute into the drum recording, a backward adjustment around 01:05 of the screen recording, a forward jump to approximately 03:02, and a return to approximately 01:13. These are changes within the media being played in VLC. The screen recording itself continues in chronological order.
+
+At approximately 01:12.33, Chromium returns to the foreground. During its window animation, part of VLC’s lower strip is briefly visible behind it. The random sound player returns with the same large heading and table layout.
+
+Its current-track panel now reads:
+
+`Now playing: guitar_karbytes_29january2025.mp3`
+
+The total-playtime counter is approximately 231 seconds, increasing to 233 in a later view. The visible table still gives a count of 1 to the February 2026 file and the June 2023 file, with many other visible rows at 0.
+
+The progression from roughly 159 seconds near the start to roughly 231 seconds here is consistent with this player’s counter advancing while other applications occupied the foreground. It does not, by itself, establish the exact acoustic contribution of that tab to the captured soundtrack.
+
+Around 01:15.6, a brief pale page state appears during browser activity. By approximately 01:15.97, Chromium displays a software portfolio page associated with the Karbytes blog.
+
+The page header reads:
+
+`KARBYTES_FOR_LIFE_BLOG`
+
+A smaller tagline beneath it reads:
+
+`A Cyberspace Journey`
+
+The header uses a charcoal background, white text, and a small square emblem near the upper left. A Menu button sits toward the upper right. A WordPress administration strip is visible above the site header, including controls such as Customize, New, Edit Page, and Reader, together with an account greeting. The recording shows that interface; it does not show an editing operation being performed.
+
+A very large title fills much of the page:
+
+`SOFTWARE_ENGINEERING_PORTFOLIO`
+
+It wraps across two lines, with the final portion of “PORTFOLIO” on the second line. Beneath the dark title area is a white article region with a smaller version of the same heading and an introductory paragraph.
+
+Parts of that paragraph are highlighted yellow, with individual linked phrases using darker or green highlighting. The readable text describes software applications developed exclusively by karbytes and featured elsewhere in the current website or in an older website. The paragraph continues beyond the bottom edge of the visible area. I examined only the portion shown inside the recording.
+
+At approximately 01:17.17, another random-player tab is shown. Its current file is:
+
+`guitar_karbytes_05june2025.mp3`
+
+Its total-playtime counter is approximately 199 seconds. This is a distinct displayed state from the player that showed the January recording and a counter above 230 seconds.
+
+A tab-hover card appears near the top of the browser. It explicitly says:
+
+`This tab is playing audio`
+
+That is stronger evidence of active browser audio than a filename alone. It still does not identify every component of the exported stereo mix.
+
+At approximately 01:18.3, the portfolio page returns.
+
+Around 01:22.23, a desktop window overview or selection animation exposes two Chromium windows. Their reduced previews sit over the neon wallpaper: one shows the portfolio page, and the other shows a black page outlined in bright green. Chromium icons appear with the window previews.
+
+At approximately 01:23.53, the other Chromium window is selected. It expands into the foreground. This window contains many more tabs, several with very short truncated labels. Multiple tabs show audio-related speaker indicators.
+
+The foreground web application has a black background, thin lime-green rectangular borders, orange monospace text, and turquoise status text. Its heading reads:
+
+`SOUND_TRACK_LOOPER_THREE`
+
+The main content is concentrated in a relatively narrow column on the left, leaving a large black region to the right. Some controls are wider than the bordered column, extending horizontally across the page. A horizontal scrollbar is visible along the bottom.
+
+The introductory text explains that the application can play one or multiple finite-duration sound patterns for an indefinite number of cycles. An italic paragraph recommends opening multiple browser tabs containing the application and starting the same sound file at different times to stagger playback. A link within that paragraph is highlighted bright green.
+
+This describes the application’s intended behavior. The recording does not establish that every suggested technique is used during the excerpt.
+
+The first looper instance shown is already running. Its selected file is:
+
+`solfeggio_tones_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3`
+
+Its turquoise status panel reports the sound-track filename, “Loops Completed: 0,” and “Seconds Elapsed,” initially around 94 and then advancing. Thus, that particular displayed instance has already been active before it becomes the foreground window. It has not yet registered a completed loop in the visible status.
+
+Around 01:26.3, a briefly blank dark page state appears. By approximately 01:26.5, the looper is shown in an inactive form state.
+
+The same explanatory panel appears at the top. Beneath it, a numbered instruction asks the user to select one or multiple sound files. A long orange-bordered dropdown contains a filename beginning with a 432 Hz label and continuing with phrases about binaural beats, relaxation, sleep music, chakras, and a release date.
+
+Those phrases are part of the file’s name. The recording supplies no evidence that the advertised effects occur.
+
+Below the dropdown are two conspicuous controls:
+
+`add_another_sound_file_menu()`
+
+and:
+
+`start_sound_track_looper()`
+
+The first is orange. The second is bright green. A turquoise italic status message says that the section will be updated with information about selected sound tracks after the start button is clicked.
+
+At approximately 01:28.97, the sound-file dropdown opens. It forms a large orange list over much of the upper browser area. The filenames use black monospace text. A green horizontal highlight moves between entries as the pointer moves and the list scrolls.
+
+This expanded menu remains open for roughly 46 seconds, making it one of the longest sustained visual activities in the file.
+
+The list is extensive and generally alphabetical. Its contents combine personally labeled recordings, environmental recordings, synthetic-voice files, relaxation or tone resources, ASMR-labeled recordings, and named music tracks. The pointer moves between entries, and scrolling reveals different portions of the list.
+
+Readable examples or groups include:
+
+- A 432 Hz binaural-beat and relaxation filename.
+
+- Abridged keyboard recordings.
+
+- An acoustic guitar sample.
+
+- “Altars of Forest” attributed in the filename to Ahriman.
+
+- An Alviso Slough recording.
+
+- An Amplifier track labeled as an original mix.
+
+- ASMR-labeled “whimpering” and “simpering” files.
+
+- Baylands recordings referring to Alviso, San Jose, and Fremont.
+
+- “Blackened” associated with Metallica.
+
+- A “Blacklodge Neutron ShivA” filename.
+
+- Café and café-restaurant sound resources.
+
+- A file labeled `chatgpt_karbytes_voicemode_16march2025.mp3`.
+
+- “Constellation” attributed to Jim Oliver.
+
+- A “deep summer spacetime continuum” recording.
+
+- “Diamond,” labeled as an original mix by Giada.
+
+- `dissection_nights_blood_1995.mp3`.
+
+- Several `drums_karbytes` recordings.
+
+- Two ElevenLabs-related text-to-speech or voice-clone files.
+
+- Guitar recordings dated March, April, June, and January.
+
+- A healing-water resource associated with myNoise.
+
+- An input-audio-source recording.
+
+- Numerous Instagram-related Karbytes files.
+
+- Several plaintive-droning recordings.
+
+- “Protection Racket” associated with Napalm Death.
+
+- A pyramid-meditation resource.
+
+- “Shepardmadness,” associated with myNoise.
+
+- “Sicko Mode,” associated with Drake and Travis Scott.
+
+- A solfeggio-tones resource.
+
+- A “Sun O))) Glory Black” entry.
+
+- “The Animal,” associated with Into Oblivion.
+
+- “The Aquatic Garden of Extra-Celestial Delights,” associated with Shpongle.
+
+- “The Conjuring,” associated with Megadeth.
+
+- “The Battle Fought,” associated with Agrimonia.
+
+- A San Jose train recording.
+
+- Several unintentional-ASMR recordings.
+
+Many filenames contain additional dates, download-method labels, or attribution text. The list functions as a sound archive in which names carry considerable descriptive information.
+
+The highlighted row changes repeatedly. Early highlighted options include an ASMR-labeled file; later views highlight “Dissection Nights Blood,” a guitar recording, and entries farther down the alphabet. Scrolling moves both downward and back upward through portions of the list.
+
+While the menu is being browsed, the underlying form’s start button and inactive status remain visible. Merely highlighting an item does not demonstrate that it starts playing. In particular, the appearance of filenames referring to speech synthesis, ASMR, or voice mode does not establish that vocal content from those files enters this recording’s soundtrack.
+
+Around 02:15, the menu closes and the selected file changes to:
+
+`the_battle_fought_by_agrimonia_released_2013_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3`
+
+The start action follows. By approximately 02:16, the turquoise status panel repeats that filename and reports:
+
+`Loops Completed: 0`
+
+`Seconds Elapsed: 0`
+
+The interface then advances its elapsed counter. At approximately 02:20, it shows:
+
+`Seconds Elapsed: 4`
+
+The loop count remains 0. The visible portion therefore establishes the start of this selected file in the browser looper, but does not show completion of a full cycle.
+
+At approximately 02:21.23, VLC returns to the foreground. It is still loaded with `drums_karbytes_17may2026_p0.mp4`. Its playback position is approximately 02:23 of 05:55, and its volume remains around 125%.
+
+The displayed video remains almost black, with faint purplish and reddish variation. The pointer moves over the dark field. VLC’s position advances to approximately 02:25 and then 02:27.
+
+The recording ends in this state. There is no closing title card, visible OBS stop action, or visual fade to a separate end screen. VLC’s pause-shaped control indicates ongoing playback at the end. The three additional coded tail frames show the same final VLC state, with no new scene.
+
+The audio findings require a different level of certainty from the image descriptions. I processed the complete 144.811-second audio stream, but did not directly hear it.
+
+An audio-event classifier evaluated 302 overlapping windows of approximately 0.975 seconds, spaced 0.48 seconds apart. “Music” was overwhelmingly its strongest broad classification. Its average music score was approximately 0.829, and 279 of the 302 windows exceeded a score of 0.5.
+
+These are classifier scores, not a precise statement that music occupies a particular percentage of playback time. Nevertheless, the result strongly supports music as the dominant audio category throughout this excerpt.
+
+The corresponding speech and singing results were weak:
+
+[preformatted_text]
+
+| Audio category | Mean classifier score | Highest score | Windows above 0.5 |
+|---|---:|---:|---:|
+| Music | 0.8292 | 0.9893 | 279 |
+| Speech | 0.0024 | 0.1627 | 0 |
+| Singing | 0.0147 | 0.0528 | 0 |
+
+[end preformatted_text]
+
+The analysis did not reliably establish a particular instrument or genre. Guitar-related scores were low, despite the several guitar filenames visible on screen. I would therefore distinguish the archive labels from independently verified instrumentation in the exported soundtrack.
+
+The screen provides several plausible audio sources: random-player tabs, an already active looper instance, the VLC drum recording, and the newly started Agrimonia file. Some browser tabs explicitly indicate active audio. These observations support the possibility of overlapping playback. I cannot confidently assign particular portions of the stereo soundtrack to individual applications or files.
+
+Speech recognition was run with and without voice-activity filtering. With filtering enabled, it retained no speech interval and returned no transcription.
+
+Without filtering, the recognizer proposed one short candidate, “Oh,” around 00:30. Its word confidence was approximately 0.9%, and the associated no-speech probability was approximately 91.2%. Those results provide very poor support for treating it as an actual utterance. I reject that candidate as a usable transcription.
+
+My transcription result is therefore: no reliable intelligible spoken content established.
+
+I also cannot give verified vocal pitch, timbre, accent, rhythm, breathiness, rasp, emotional delivery, or loudness. No sufficiently supported vocal event was identified. This finding does not prove that every faint voice-like component is absent; it means the available analysis does not justify describing or transcribing one.
+
+The decoded audio has two distinct channels. They are not simply identical mono signals copied to left and right. Their overall correlation is approximately 0.602. Their average levels are closely matched, while their instantaneous waveforms differ.
+
+The full-track measurements are:
+
+[preformatted_text]
+
+| Measurement | Result |
+|---|---:|
+| Decoded sample rate | 48,000 Hz |
+| Channels | 2, stereo |
+| Samples per channel | 6,950,912 |
+| Analyzed duration | 144.810667 seconds |
+| Overall RMS level | Approximately −10.69 dBFS |
+| Integrated loudness | Approximately −8.3 LUFS |
+| Loudness range | Approximately 3.7 LU |
+| Maximum decoded sample peak | Approximately +6.69 dBFS |
+| Estimated true peak | Approximately +6.7 dBFS |
+| Left-channel RMS | Approximately −10.70 dBFS |
+| Right-channel RMS | Approximately −10.68 dBFS |
+
+[end preformatted_text]
+
+The positive peak readings arise from decoded floating-point samples exceeding the nominal full-scale amplitude. Lossy audio decoding can produce such overshoots. These measurements should not be presented as something I heard, or as definitive proof of audible clipping through a particular playback system.
+
+For the classification and transcription passes, the analysis copy was attenuated before conversion so that those overshoots would not simply be clipped by an integer audio conversion.
+
+No complete one-second analysis block consisted entirely of digital zeros. The lowest measured one-second RMS interval was approximately 00:21–00:22, at −14.30 dBFS. The highest was approximately 02:21–02:22, at −6.43 dBFS. That louder interval coincides broadly with the final return to VLC, but the temporal coincidence does not establish which source caused the increase.
+
+The opening second measured approximately −13.76 dBFS RMS. The final partial second, from 02:24 to the file’s end, measured approximately −7.08 dBFS RMS. Thus, the soundtrack still contains substantial signal at the end. The file does not end with a final interval of digital silence.
+
+These values describe the recorded signal. They do not determine how loud it would sound in a room, through headphones, or on a particular device.
+
+For the requested EXIF information, I found no conventional camera EXIF block or usable camera make, model, lens, exposure, aperture, ISO, focal-length, or GPS fields in the inspected MP4 structures. The file does contain substantial container, stream, timestamp, and editor metadata.
+
+Its principal file and container properties are:
+
+[preformatted_text]
+
+| Property | Value |
+|---|---|
+| Filename | `obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4` |
+| File size | 2,378,492 bytes |
+| Size in binary megabytes | Approximately 2.268 MiB |
+| Container | MP4 |
+| Overall duration | 144.810667 seconds |
+| Overall bitrate | Approximately 131.4 kbit/s |
+| Stream count | 2: one video, one audio |
+| Major brand | `mp42` |
+| Minor version | `0` |
+| Compatible brands | `isom`, `mp42` |
+| Android version tag | `13` |
+| Chapters | None found |
+| Subtitle stream | None found |
+| Attached cover-image stream | None found |
+
+[end preformatted_text]
+
+The file’s SHA-256 checksum is:
+
+`0a65083e9cd62e8b0dba3ddde60e307c52c169dfc81c27e545eeb6c6714aac86`
+
+The video-stream properties are:
+
+[preformatted_text]
+
+| Property | Value |
+|---|---|
+| Codec | H.264 / AVC |
+| Codec tag | `avc1` |
+| Profile | High |
+| Level | 3.1 |
+| Displayed dimensions | 1092 × 614 pixels |
+| Coded dimensions | 1104 × 624 pixels |
+| Sample aspect ratio | 1:1 |
+| Display aspect ratio | 546:307, approximately 16:9 |
+| Pixel format | `yuv420p` |
+| Reported component depth | 8 bits |
+| Scan type | Progressive |
+| Nominal frame rate | 30 frames per second |
+| Reported average frame rate | Approximately 30.0068 frames per second |
+| Video duration | 144.767067 seconds |
+| Video bitrate | Approximately 101.7 kbit/s |
+| Video time base | 1/90,000 second |
+| Color primaries | BT.709 |
+| Transfer characteristic | BT.709 |
+| Color matrix | BT.709 |
+| Color range | Limited / television range |
+| Chroma location | Left |
+| Reference frames | 4 |
+| Reported B-frame depth | 2 |
+| Language tag | `und`, unspecified |
+| Handler | `VideoHandle` |
+
+[end preformatted_text]
+
+The coded dimensions include padding beyond the displayed image dimensions. That is a codec-storage property rather than an additional visible border that a viewer necessarily sees.
+
+The file reports 4,344 stored video frames. Normal decoding, respecting the MP4 edit list, produced 4,341 frames. Decoding while ignoring the edit list produced all 4,344. A full native-frame checksum comparison established that the normal decode is identical to the first 4,341 frames of the longer decode. I reviewed that normal sequence and separately inspected the three additional tail frames. This distinction explains the frame counts without treating the difference as proof of damaged video.
+
+The audio-stream properties are:
+
+[preformatted_text]
+
+| Property | Value |
+|---|---|
+| Codec | AAC |
+| Profile | Low Complexity |
+| Codec tag | `mp4a` |
+| Sample rate | 48,000 Hz |
+| Channel layout | Stereo |
+| Audio duration | 144.810667 seconds |
+| Audio bitrate | Approximately 24.0 kbit/s |
+| Audio time base | 1/48,000 second |
+| Stored AAC frames | 6,788 |
+| Language tag | `und`, unspecified |
+| Handler | `SoundHandle` |
+
+[end preformatted_text]
+
+The decoded audio sample format is floating point. That does not establish the bit depth of an original microphone, desktop-audio capture, or earlier source file. AAC is a lossy compressed representation.
+
+Both stream creation tags contain:
+
+`2026-07-02T22:40:48.000000Z`
+
+The “Z” identifies UTC. Relevant track and media-header timestamps also correspond to that July 2 time. The general movie-header creation field is unset, so it does not provide an additional meaningful original-capture timestamp.
+
+The Android 13 tag and July 2 timestamps are consistent with later mobile processing or export. They do not identify a particular phone model, and they do not mean the desktop activity visible on screen occurred on July 2.
+
+The MP4 also contains a small appended editor-data region. The standard container structures include `ftyp`, `mdat`, and `moov`; a 639-byte `sefd` region follows them. Within that appended data are fields named `Original_Path_Hash_Key` and `VideoEditor_Re_Edit_Data`.
+
+The editor information includes:
+
+[preformatted_text]
+
+| Embedded field | Stored value or interpretation |
+|---|---|
+| `NDE_VERSION` | `1.0` |
+| Original resolution | 1092 × 614 |
+| Original `videoDuration` | `1209877` |
+| Export resolution | 1092 × 614 |
+| Export `CF` | `0` |
+| Export `DR` | `0` |
+| Export `BD` | `8` |
+| `FLAG_TRIM_EXIST` | `true` |
+| `trimDuration` | `[719163, 863974]` |
+
+[end preformatted_text]
+
+The duration values are strongly consistent with milliseconds: subtracting the two trim values gives 144,811 milliseconds, matching this file’s duration to its rounded millisecond.
+
+Under that interpretation, the metadata describes:
+
+- A source duration of 20 minutes, 9.877 seconds.
+
+- A trim beginning at source time 11 minutes, 59.163 seconds.
+
+- A trim ending at source time 14 minutes, 23.974 seconds.
+
+- An excerpt lasting 2 minutes, 24.811 seconds.
+
+This is particularly useful provenance information. It explains why OBS’s recording timer is already around 12 minutes when the downloaded excerpt begins.
+
+An `ORIGINAL_FILE_PATH` field is also present, but its value is an opaque encoded string rather than a readable directory path. The associated hash field does not allow me to reconstruct the original storage location. I would not assign undocumented meanings to `CF` and `DR` merely from their abbreviations.
+
+The filename’s “abridged_02july2026” label, the July 2 stream timestamps, the trim flag, and the matching trim interval collectively support the interpretation that this is a later-exported excerpt of a longer May 18 desktop recording. They do not independently authenticate every historical claim embedded in the filenames.
+
+My first-person interpretation begins with the way the recording makes software interaction itself the visible subject. I notice the operator’s activity through windows coming forward, rows being selected, progress handles moving, tabs changing, and counters advancing. A person is operating the system, but their face, hands, posture, and physical surroundings do not appear in a recognizable form. The pointer supplies the clearest visible trace of action.
+
+I find the repeated “karbytes” naming especially prominent. It appears in application titles, file names, archived recordings, and the blog’s identity. The repetition gives the recording a strong sense of belonging to a deliberately maintained personal digital environment. Each filename connects an item to dates, versions, locations, tools, or prior activity. The desktop is visibly organized around accumulated material.
+
+I read those long filenames as a form of compact annotation. Some identify an instrument and recording date. Others identify an artist, release year, download method, or customization event. The naming system brings a surprising amount of context into ordinary file lists and dropdown menus. Even when a media item is not opened, its name contributes to the recording’s informational density.
+
+That density also shapes the composition. The random-player table, Files lists, and orange sound menu contain many closely spaced lines. My attention is directed toward reading and tracking changes in status. The recording rewards close examination of small interface details more than it offers a large, easily recognizable central scene.
+
+The VLC passages introduce a different visual pace. Their nearly black image removes most of the readable content from the center of the screen. During those intervals, the small playback clock, volume value, pointer, and progress bar become disproportionately important. I can establish that playback is occurring and that the operator seeks through it, while remaining unable to identify the physical scene inside the loaded recording.
+
+I do not interpret that darkness as evidence of a particular room, emotional state, or hidden action. The visible information is too limited. What interests me is the resulting concentration of attention: a normally secondary control strip becomes the main source of observable change.
+
+The recording also puts several kinds of time beside one another. The system clock supplies a calendar date and minute. OBS supplies elapsed capture time. VLC supplies position within a separate recording. The random player supplies accumulated playback seconds. The looper supplies elapsed seconds and completed cycles. Filenames supply earlier dates, and the embedded metadata supplies a later export date.
+
+I see those clocks as different descriptions of the same working environment. They make it possible to tell that playback and recording continue while attention shifts elsewhere. They also explain why a two-minute excerpt can contain an OBS counter above twelve minutes and filenames reaching years into the past.
+
+The seek actions are revealing because they visibly depart from passive playback. The operator moves quickly between different points in the drum file: around a minute, backward through a short range, forward to three minutes, then back again. I can describe that pattern as navigation or auditioning. I cannot tell whether the purpose is to find a particular passage, compare sections, adjust a listening combination, or simply explore.
+
+The random player presents another mode of choosing. Its “Now playing” label and play-count table turn playback into a process that can be monitored. I find the counters suggestive of attention to what has played and how often. That is an interpretation of the interface’s role, rather than a claim about the operator’s private intention.
+
+The looper makes its timing behavior more explicit. Its instructions discuss indefinite repetition and staggered instances across browser tabs. The visible status panels show that some playback has already begun before the relevant window is foregrounded. I therefore read the desktop as potentially containing ongoing processes whose activity is only partly represented by whichever window happens to be on top.
+
+The extended dropdown browsing is the most sustained act of selection in the excerpt. The green highlight travels among many possibilities, while the underlying status remains inactive. I notice the distinction between an option being considered and an option being started. The final Agrimonia choice becomes an observable playback action only when the form changes and the elapsed counter begins.
+
+The orange menu has a striking visual effect. It temporarily covers much of the dark browser with a dense field of warm color and black text. The green highlight cuts across that field as a narrow band. After the menu closes, the page returns to its relatively sparse black composition, lime borders, and turquoise status text. The change is substantial even though it is produced by an ordinary dropdown control.
+
+I also notice the contrast in naming detail within the same environment. OBS uses generic labels such as “Untitled” and “Scene,” while many media filenames contain elaborate descriptions. The capture apparatus is minimally named, whereas the materials it captures are extensively annotated. That difference suggests a workflow in which preserving and identifying media matters more visibly than naming the recording configuration.
+
+The brief portfolio-page visit connects the sound tools to a broader presentation of software work. Its visible text describes applications developed by karbytes. I read the sequence as showing tools in use within the same environment where their creator’s portfolio is available. The excerpt does not explain the relationship aloud or linger on the portfolio long enough to turn it into a formal demonstration.
+
+The OBS preview adds a small self-referential element. The recording software displays a miniature version of the screen that includes the recording software. I find that detail useful because it keeps the act of capture visible. The file documents both desktop activity and, at moments, the interface responsible for documenting it.
+
+The word “trophies” is another evocative detail, though its meaning remains open. As a folder name, it suggests a collection given some special status by its organizer. The visible contents include personal recordings, other screen captures, ambiance, and named music videos. I can observe the collection and its label without deciding whether the word is celebratory, ironic, practical, or simply habitual.
+
+I find the coexistence of personal recordings and downloaded material central to the archive’s character. The menu places guitar and drum recordings near environmental sounds, synthetic voices, tone resources, and established music tracks. The system brings these diverse items into common selection and playback interfaces. It gives them a shared operational role while retaining their separate names and histories.
+
+The excerpt’s ending leaves those operations in progress. The newly started browser track has only a few elapsed seconds recorded in its status, and VLC is again advancing through the drum file. Nothing visible resolves the activity into a final presentation or conclusion. I read the ending as a boundary imposed on the excerpt while the desktop session continues.
+
+Finally, the embedded trim information changes how I interpret that boundary. The file preserves roughly the twelfth through fourteenth minutes of a longer recording. Its beginning and ending therefore frame an interval of ongoing activity whose surrounding context is unavailable here. I remain curious about how the earlier session reached this state, which audio sources were already active, why the particular files were chosen, and how the work continued afterward. The inspected evidence leaves those questions open.
