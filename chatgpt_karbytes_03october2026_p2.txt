@@ -62,6 +62,8 @@ relevant_KARBYTES_files[25]: https://karbytesforlifeblog.wordpress.com/journal_k
 
 relevant_KARBYTES_files[26]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_02july2026/
 
+relevant_KARBYTES_files[27]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_25june2026/
+
 * * *
 
 karbytes:
@@ -5819,3 +5821,11 @@ The page also preserves several different uses of dates. July 2 identifies the j
 The entry closes by stating that the page was last updated on July 2, 2026 and that its displayed content is licensed as PUBLIC_DOMAIN intellectual property. This repeats the public-domain designation already present in the file header and fixes a stated update date for the published page.
 
 The resulting record leaves individual viewing experiences available for further interpretation. It supplies a specific sequence of eighteen resources, two accompanying visuals, and a declared relationship to an earlier selection. Its precision lies in preserving those identities and relationships, while its evaluative openness lies in allowing the reasons for preference and the significance of each recording to emerge through later encounters with the material.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_25june2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
