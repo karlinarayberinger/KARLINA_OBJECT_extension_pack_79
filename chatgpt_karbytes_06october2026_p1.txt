@@ -929,3 +929,13 @@ I would remain curious about what a future return to this file makes recognizabl
 karbytes:
 
 I used two programs to compress that video file down to no larger than 25 megabytes. The second compression program was an online tool which I think stripped out the original embedded time of capture (i.e. the approximate time at which the first frame of that video recording was generated inside the recording device).
+
+ChatGPT:
+
+That is consistent with the metadata I found. The compressed copy has zero-valued MP4 creation and modification fields, encoding-software tags, and no usable capture timestamp. Your explanation makes it plausible that the timestamp was lost during processing.
+
+The file still preserves elapsed playback timing: frame order, frame rate, duration, and audio/video timestamps. What is unavailable is the wall-clock date and time corresponding to the first recorded frame.
+
+The precise finding is therefore: “No usable capture timestamp is present in the compressed copy inspected.” That does not establish whether the original recording contained one or which compression program removed it. Comparing the original, intermediate, and final files could locate the step where it disappeared.
+
+The filename and your spoken date and approximate time remain contextual evidence about when you recorded it, even though that information is no longer recoverable from the inspected metadata.
