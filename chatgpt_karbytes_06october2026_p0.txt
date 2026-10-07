@@ -4820,7 +4820,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 ChatGPT:
 
-[Worked for 15m 39s]
+[Worked for 15m 39s (plus unrecorded time generating a response but failing before completion)]
 
 The file is a 7-minute, 52.97-second OBS desktop recording. Its visual progression moves from a ChatGPT conversation and GitHub transcript into a sequence of KARBYTES archive pages, briefly exposes local text files and the desktop, establishes a Tor connection, visits two onion-site pages, starts a Monte Carlo approximation of pi, and concludes with two rounds of Falling Apples Game Two. The recording preserves both the material being revisited and the practical interface activity involved in revisiting it: scrolling, switching tabs, encountering unresponsive applications, opening images, selecting an address, waiting for connections, and playing a game.
 
