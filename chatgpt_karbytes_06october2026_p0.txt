@@ -4817,3 +4817,457 @@ If any vocal content is detected, then describe qualities of the voice such as p
 Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary. Also provide EXIF data (if available).
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/obs_studio_recording_karbytes_07october2026_p1.mp4
+
+ChatGPT:
+
+[Worked for 15m 39s]
+
+The file is a 7-minute, 52.97-second OBS desktop recording. Its visual progression moves from a ChatGPT conversation and GitHub transcript into a sequence of KARBYTES archive pages, briefly exposes local text files and the desktop, establishes a Tor connection, visits two onion-site pages, starts a Monte Carlo approximation of pi, and concludes with two rounds of Falling Apples Game Two. The recording preserves both the material being revisited and the practical interface activity involved in revisiting it: scrolling, switching tabs, encountering unresponsive applications, opening images, selecting an address, waiting for connections, and playing a game.
+
+I downloaded the complete resource and verified that its 23,925,416 bytes match the previously inspected copy. The visual inspection covers all 14,189 decoded frames through chronologically arranged miniature frame sheets, supplemented by 473 larger samples, selected frames at the video’s native resolution, and text extraction at 75 timestamps. Every-frame inspection at miniature resolution has limits, particularly for small text. It is also different from continuous, full-resolution audiovisual playback. Direct audio listening is unavailable in this session. The entire audio track was extracted and analyzed, including two speech-recognition passes covering its full duration, but I cannot honestly claim to have heard it or experienced synchronized playback as a human viewer would. Consequently, the visual account below is much more definite than the account of its sound. My first-person commentary is an interpretation of the accessible evidence.
+
+The downloaded original is available here: obs_studio_recording_karbytes_07october2026_p1.mp4[obs_studio_recording_karbytes_07october2026_p1.mp4](sandbox:/workspace/scratch/995043c48ed8/obs_studio_recording_karbytes_07october2026_p1.mp4).
+
+Throughout the description, timestamps refer to elapsed time within this recording. Dates appearing in page titles, filenames, quoted conversations, and application logs belong to their respective records. The browsing sequence moves among materials from several different dates; it does not establish a chronological sequence of the life events described in those materials.
+
+The visible environment is a Linux desktop with an Ubuntu-style vertical launcher along the left edge and a narrow system bar across the top. The launcher includes recognizable icons for Firefox, Chromium, Tor Browser, a file manager, Sublime Text, a terminal, a text editor, VLC, OBS, and other desktop functions. Application indicators suggest that several programs are already open. The desktop clock initially reads October 7, 04:27, and reaches approximately 04:35 toward the end.
+
+Much of the recording alternates between dark application chrome and bright document bodies. ChatGPT and GitHub appear against dark backgrounds. The WordPress pages generally have white backgrounds, black monospaced text, large headings, horizontal rules, and conspicuous colored passages. Hyperlinks often appear as orange or gold text on black rectangles. Yellow highlighting marks statements about where text was copied from. Cyan highlighting emphasizes some first-person passages. These formatting choices remain recognizable as the operator moves through different pages.
+
+The principal visible motion during the archive portion consists of scrolling and interface changes. Text blocks and images slide vertically through the browser viewport; selected tabs change; blank loading states briefly replace completed pages; and the pointer moves among controls. Still photographs remain still. Some documents discuss other videos, but those discussions should not be confused with playback of those videos in this recording.
+
+At approximately 0:00–0:03, OBS is in the foreground. Its title identifies version 32.2.0, with an untitled profile and untitled scene collection. A single scene is selected, and a screen-capture source appears in the sources panel. The preview is very small, displayed at approximately seven percent scale. Because the screen capture includes OBS itself, the preview contains a miniature image of the interface that is being used to record the interface.
+
+The central panels show the scene list, sources, audio mixer, scene transitions, and recording controls. The transition setting is a fade with a displayed duration of 300 milliseconds. Controls include streaming, recording, virtual camera, studio mode, settings, and exit functions.
+
+The Desktop Audio meter is active, with colored bars extending through green and yellow regions. Its fader setting is approximately −5.5 dB. Mic/Aux appears muted and displays negative infinity. The recording control changes from its starting state to the active recording state. An encoding-overloaded warning appears very early, and the status area briefly shows a frame-rate value below the nominal thirty frames per second.
+
+That warning is an observable part of the recording. Although the resulting file contains a regular thirty-frame-per-second video stream, the encoded file cannot establish that every desktop change occurring before encoding was captured without loss or repetition.
+
+From approximately 0:03–0:21, the browser behind OBS becomes the main view. It displays a ChatGPT conversation titled “Summarize KARBYTES Document.” The interface indicates that work has already been underway for roughly twelve minutes and forty seconds.
+
+A progress panel on the right shows retrieval and mapping completed, close reading completed, and detailed writing still in progress. The left sidebar contains several recent conversations concerned with document summaries, summary writing, and HTML transcript revision. Together, these elements place the recording within an ongoing process of archive inspection and textual production.
+
+The visible assistant progress text describes the document being analyzed as approximately 137,000 words long. That figure is an assertion displayed within the recorded conversation; it is not a word count independently established by this video inspection.
+
+The progress text identifies several themes: summaries of earlier records, later accounts of distress and isolation, a sense of being stuck, the cocoon as a source of comfort and shelter, increasing difficulty leaving that shelter, and preservation as a form of continuity that also generates further work. It distinguishes later personal testimony from earlier fictional imagery and discusses limits on what timestamps and media decoding can establish.
+
+This opening is self-referential. The recording begins with an assistant describing the work of interpreting an archive, including the need to distinguish reported experiences, imaginative material, and evidence limits. The recording then proceeds to show the operator navigating that archive. An earlier statement about the limits of decoding versus watching or listening is itself visible within a video now being inspected under those same limitations.
+
+There is also a brief tab-hover preview during this opening browser passage. A small thumbnail and a browser memory-use indication appear. These are ordinary interface details, but they contribute to the sense of a busy session with multiple substantial pages and conversations open.
+
+At approximately 0:22, Firefox displays a GitHub file named chatgpt_karbytes_05october2026_p0.txt in KARLINA_OBJECT_extension_pack_79. The file header reports 3,514 lines, 1,760 lines of code, and approximately 595 KB.
+
+Near the beginning of the file is a statement identifying it as a transcript of a conversation between karbytes and ChatGPT 6.1 Sol in Work Mode. An indexed list of relevant KARBYTES files follows. The visible entries connect October material with older June, July, August, and September records. Two entries refer to Pikachu’s Vacation clips involving Charizard’s head being stuck.
+
+These filenames are visible as references within a text file. The recording does not play those clips at this point. Their presence establishes an archival association, rather than a directly observed audiovisual event within the current recording.
+
+At approximately 0:27–0:29, a system dialog reports that Chromium is not responding. It presents the familiar choices to wait or force quit. The dialog briefly interrupts the browsing session and then disappears.
+
+A similar dialog for Firefox appears at approximately 0:30–0:33. Again, the recording shows the unresponsive-application message and its controls, followed by the dialog’s disappearance. The available images do not justify a definite statement about the underlying cause or about which recovery mechanism resolved the interruption.
+
+From roughly 0:35–0:48, the GitHub transcript is scrolled through. The visible position changes substantially, eventually reaching text near the end of the file, around the 3,400-line region. Some portions briefly show incomplete or blank rendering before the text becomes visible.
+
+The closing portions include earlier analyses of archival material, distinctions between contact-sheet inspection and continuous playback, discussions of first-person commentary, and distinctions between EXIF and MP4 metadata. Other visible material concerns recurring geometrical and containment imagery: head boxes, toroidal forms, vases, cocoons, and mathematical examples.
+
+The density of the file matters visually. A substantial amount of text is traversed in a short interval. A viewer could recognize the subjects and document structure without reading every line at normal playback speed. The movement demonstrates navigation through a large record rather than presenting a paced reading of its complete contents.
+
+At approximately 0:50–1:02, the browser displays the closing exchange of chatgpt_karbytes_24september2026_a1.
+
+A cyan-highlighted passage presents karbytes thanking the assistant while describing itself as very stuck, resting prone against the floor of The Burrow, and enclosed in a cocoon up to its head. It also refers to imagining The Big Green Thing and a deeper substrate encompassing cyberspace and hyperspace.
+
+The wording contains a repeated portion of the cocoon-and-prone description. This repetition is visibly part of the displayed passage.
+
+The assistant’s reply acknowledges both shelter and stuckness, refers to The Big Green Thing and larger imagined spaces, and proposes proceeding at karbytes’ pace. A footer identifies September 24 as the page’s update date.
+
+The recording is showing an archived exchange. The text does not establish the operator’s current posture during the October 7 screen capture. It does, however, introduce a cluster of concepts that recur throughout the subsequent browsing: floor contact, cocoon enclosure, a room or burrow, imaginative expansiveness, and the preservation of those experiences within KARBYTES.
+
+At approximately 1:03–1:13, journal_karbytes_21september2026_a0 opens. Its large heading appears first, followed by a collage.
+
+The collage combines materially different kinds of imagery. One region shows a dim, warm-toned interior with a computer screen. Another contains a bright geometrical object on a monitor. An outdoor scene includes two figures against a mountainous or expansive landscape. Other portions include golden hills, a graph with green axes and differently colored branches, a small translucent green cube, and a dark blue composition associated with KARBYTES and digital or cosmic imagery.
+
+This image brings physical surroundings, mathematical graphics, computer displays, and imaginative self-representation into the same visual field.
+
+Below it, a yellow-highlighted provenance statement identifies the plain-text source for the page’s journal material. The text describes why karbytes prefers lying flat against the floor or a floor-bound bolster while using a laptop. The stated reasons include discomfort in the legs during upright sitting, back loading, spinal extension, stability, compactness, energy efficiency, cost, and comfort during extended computer use.
+
+The passage compares this posture with sitting on a zafu at a makeshift desk made from a plastic storage container. It says that the previous week has been spent largely prone, cocoon-wrapped, floor-bound, and working within The Burrow on Devil’s Hole material and the finalization of Summer 2026 content. It connects that work to an approximate autumn-equinox deadline and references an August 17 journal page.
+
+These are karbytes’ written explanations of its posture and circumstances. The recording supplies the text of those explanations; it does not independently measure the physiological effects being described.
+
+The next portion describes The Big Green Thing as increasingly a cyberspace object rather than solely a geographic region. It refers to the main-branch karbytes, extensive outsourcing of mind to KARBYTES, cybernetic identity, and a derivative associated with the spirit of the First Official Major KARBYTES Hiatus.
+
+The statements about soul, genome, and enduring confinement belong to the author’s conceptual language and self-description. Their importance here is that they reveal how physical place, autobiographical identity, and digital preservation are being associated within the archive.
+
+At approximately 1:14–1:23, the browser moves to chatgpt_karbytes_16september2026_a1. Several woodland photographs pass through the viewport. They show trees, branches, dry grass, patches of sunlight, and shaded ground or paths.
+
+The page then presents provenance and transcript information. A filename containing September 15 appears in material dated September 16, illustrating how filename dates, conversation dates, and publication dates can differ.
+
+An archived exchange concerns the current time. The earlier assistant reports 12:27 AM UTC on September 16 and converts it to 5:27 PM Pacific Daylight Time on September 15. Karbytes then gives its own nearby time reference, describes being in The Burrow, and describes being prone and cocooned while wearing headphones connected to a computer playing a wall of sound.
+
+That time conversion is part of the September conversation. It should remain separate from the October 7 desktop clock visible around the browser.
+
+At approximately 1:24–1:26, a raw image opens and fills much of the browser viewport. It presents karbytes low to the floor, facing the camera.
+
+Long dark hair falls around the face and shoulders. Facial hair is visible around the mouth and chin. A black short-sleeved shirt covers the upper torso. Both arms extend forward, with the hands resting close to the camera on the carpet and the fingers bent. Bright green fabric surrounds the shoulders and head region, forming an enclosing arch. Burgundy or dark red bedding supports or surrounds the chest area.
+
+The beige carpet occupies much of the foreground. Its texture and small scattered marks are visible. A dark green object or surface intrudes along the lower edge. The face is oriented directly toward the camera.
+
+The low camera position makes the floor prominent. The hands are large in the foreground, the face is farther back, and the green fabric creates a partial enclosure around the upper body. The still remains on screen briefly before the browser returns to the surrounding page. There is no live bodily movement within this photograph.
+
+Around 1:30–1:33, the browser briefly visits a sound-track looping application. Its tab identifies SOUND_TRACK_LOOPER_THREE. The page uses a black background, orange text, bright green borders, and cyan status information.
+
+Three sound-file choices are visible:
+
+- pig_gorl_09_november_2023_part_0.mp3
+
+- pig_gorl_09_november_2023_part_1.mp3
+
+- pig_gorl_02_april_2024_part_0.mp3
+
+The instructions describe playing one or more finite sound patterns through an indefinite number of cycles. They also describe opening multiple browser tabs and starting loopers at different times to stagger playback.
+
+The visible status for the first November 2023 file reports 86 completed loops and approximately 1,657 elapsed seconds. This establishes that a looper is already running by the time it is brought into view. The displayed portion does not establish whether every listed file is active, whether additional tabs are contributing audio, or whether this is the only source entering OBS’s Desktop Audio channel.
+
+The browser briefly returns to the September 24 closing exchange before moving on.
+
+At approximately 1:43–1:52, chatgpt_karbytes_01august2026_r appears. Its opening images include several views of a room and its surroundings.
+
+One interior image contains computer equipment and warm light. Another shows a room from an elevated viewpoint, with a window or glass door on the left opening toward a wooden deck. A red circular fan stands near that opening. There are framed pictures on the walls, furniture and papers toward the rear, a white paneled door on the right, and small warm lights near the floor.
+
+The foreground contains bedding or fabric, a black bag, and a conspicuous yellow-edged tray or container. The image presents an occupied, arranged working and living space rather than an empty architectural view.
+
+A subsequent outdoor photograph shows the deck’s wooden railing, the building’s siding and window, and leafy branches. Another displayed image contains a browser screenshot of a wooded path. The page also includes a graph resembling the reciprocal function, with green axes and branches in orange and purple.
+
+The provenance information associates this material with a late-July conversation. The August page is therefore already acting as a container for older images and text.
+
+At approximately 1:53–2:15, journal_karbytes_27july2026 opens. The image sequence includes dry golden hills, trees with bright sunlight shining through foliage, another room view, and dusky hills beneath a small bright moon.
+
+The browser then scrolls over an elaborate First Official Major KARBYTES Hiatus illustration. Large decorative words dominate it. “Official” is orange, “Major” is red, “KARBYTES” is purple, “Hiatus” is blue, and the Summer 2026 wording is green.
+
+The surrounding composition contains a seated or meditating figure with a luminous chest region, cosmic and geometrical imagery, parchment-like diagrams and notes, stacked books, a laptop, a skull, and a tunnel or toroidal grid form. The image combines the visual languages of fantasy illustration, scientific symbolism, archival planning, and personal mythology.
+
+The poster is followed by highlighted provenance information and a text block identified as journal_karbytes_25july2026_p1.txt, with a July 26 date. It identifies a video-transcription section and names TurboScribe as the application used for that earlier transcription.
+
+The displayed video filename concerns the epilogue of the second dark hiatus bubble in Summer 2026. That phrase should be kept distinct from the later Second Official Major KARBYTES Hiatus mentioned elsewhere in the conversation. The recording does not establish that those labels designate the same archival period.
+
+The older transcript describes working hard to finalize a large body of material. It contrasts a wish to remain awake with a tired body that forces sleep, and describes the effort to stay awake as physically painful. It also discusses bodily limitations, exhaustion, and an imaginative wish to be free of constraints such as walls or the inability to teleport.
+
+Later portions concern leaving to pick up an order because delivery fees are too expensive, paying bills, making a three-point turn, heat inside a vehicle, and recognizing surrounding terrain. The speaker corrects a place identification during the described journey.
+
+The closing visible portion reflects on imagination, exaggerated ideas about enemies, the effect of sleep on feeling saner, possible consequences of sleep deprivation, and wanting to make good artwork.
+
+These passages are visible written transcriptions of another recording. They are not words I have verified as spoken in the audio track of the October 7 p1 file.
+
+At approximately 2:15–2:29, the browser returns to the August 1 r page and scrolls through an earlier assistant analysis. That analysis describes the older video as an embodied event and its transcript as an archival completion: a spontaneous occurrence becomes searchable text connected to other files.
+
+A duration of approximately five minutes and twenty-eight seconds appears in that earlier discussion. It belongs to the late-July video being discussed on the page. The current p1 recording lasts approximately seven minutes and fifty-three seconds.
+
+At approximately 2:29–2:46, chatgpt_karbytes_01august2026_s appears. A diagram uses an orange upper region and a purple lower region, separated by a dashed horizontal boundary.
+
+The upper region identifies canon KARBYTES and a public GitHub repository, KARLINA_OBJECT_extension_pack_71. The lower region identifies hiatus-bubble drafts under another account. Within it, a black box names a private repository, second_dark_hiatus_summer_2026. A gray “projects” box occupies an intermediate position.
+
+Green arrows lead upward from the private repository to the projects box and then into the public canon repository. Curved black arrows annotate the boxes. Visually, the diagram gives the archive a staged movement from private working material toward public, canonized material.
+
+The page also includes a photograph dominated by bedding in blue, white, and orange tones, followed by transcript material and references to other August 1 pages.
+
+An earlier assistant interpretation describes a sequence moving through landscape, mathematical imagery, bodily accumulation, and cosmic archival enclosure. It proposes that the archive advances through calendar time while a represented karbytes becomes increasingly fixed within a recursive environment.
+
+That is an interpretation visible inside the video. It is useful evidence of how these images had already been read, but it remains an earlier interpretation rather than an independently demonstrated property of the current recording. In particular, an image of the reciprocal function does not literally become a closed curve because a surrounding discussion uses the language of mathematical loops.
+
+At approximately 2:47–3:17, chatgpt_karbytes_01august2026_m opens. A woodland scene with a fence passes through view, followed by the reciprocal-function graphic and a dense geometrical collage.
+
+The collage overlays a desktop or browser image with wireframe cubes, translucent colored solids, overlapping rectangular panels, circular forms, a large dark central circle, toroidal imagery, and curved grids. Yellow, green, purple, orange, and blue geometrical objects occupy different regions.
+
+Near the lower portion, a warmly illuminated building or cabin contrasts with a landscape of hills. The composition gives the physical landscape and domestic space a shared field with abstract mathematical objects and digital display surfaces.
+
+The hiatus poster appears again. The page then displays provenance identifying a July conversation transcript, with a later July date in its header.
+
+Some of the visible text concerns two earlier uploaded videos, including a gratitude message and a note about spiders repairing webs. An earlier assistant claims to have detected a single speaker and no music in those other videos, and presents transcriptions and voice-related observations.
+
+Those claims belong to the videos discussed on that page. They cannot be transferred to the current recording’s sound. The current p1 file has its own desktop-audio track, and its on-screen looper is separate from those older recordings.
+
+Further scrolling shows retrospective interpretations of earlier KARBYTES pages. A July journal is described as a multidimensional index, with layers associated with ontology, geography, chronology, darkness, desktops, declarations, and archival transformations.
+
+The analysis discusses a trapping sequence, possible transition points, bodily and cognitive capture, and the transformation of experience into screenshots and permanent records. Other passages concern cosmic enclosure, pressure to make limited time meaningful, disappointing rewards, sunk effort, panpsychism, and the possibility of taking ordinary embodied life seriously without requiring escalating metaphysical claims.
+
+These passages deepen the archive’s recurring associations among bodily limits, imaginative systems, and the act of recording. They are also examples of an archive containing interpretations of itself, rather than containing only first-order events.
+
+At approximately 3:18–4:08, journal_karbytes_24june2026 opens. Its displayed material is organized around an entrapment-themed title dated June 23 and a sequence of screenshots.
+
+The first substantial text passage attributes experiences of interrupted thoughts, cognitive saturation, fatigue, agitation, and affected bodily movement to alleged psychotronic interference or implanted devices. It also uses the image of a waterlogged head or a head trapped in a box.
+
+Those causal explanations are allegations within the displayed writing. The video does not independently establish psychotronic interference, implants, external control of movement, or any related mechanism. What is directly observable is the archived language describing those experiences and explanations.
+
+Another screenshot includes an earlier portrait of karbytes. Long dark hair and facial hair are visible, along with a black shirt. Behind the figure are a reddish dresser or cabinet, several metallic cylindrical containers, a white container, and a pale closed door.
+
+The image later displayed as karbytes_is_stuck.png adds graphical containment elements to a portrait. A red rectangle surrounds the head region. Part of the face appears through a translucent red area. Several dashed red elliptical rings extend around the body at different heights. Dark vertical strips appear behind the figure, and additional red coloring occupies the lower region.
+
+The resulting image depicts containment through graphical overlays. The box and rings are elements of the artwork. Their visibility does not establish physical restraints or a surrounding device in the photographed room.
+
+The browser scrolls into older assistant responses interpreting the imagery. Those responses discuss cognitive saturation, pressure, grounded posture, voluntary holding, bodily enclosure, and the contrast between cosmic symbolism and ordinary conditions such as money, food, room maintenance, and the body’s needs.
+
+The operator revisits portions of the text and images rather than making one uninterrupted pass. There are short returns to the portrait, the red graphic, and surrounding prose. A raw screenshot image is also opened outside the WordPress page, making the archive’s layers especially visible: a recorded browser shows an image of an earlier browser or conversation.
+
+Around 3:54–3:58, OBS briefly returns to the foreground. Its Desktop Audio meter remains active and Mic/Aux remains muted. The preview continues to contain a miniature version of the screen being recorded. The recording timer has advanced, and the current page remains visible behind OBS.
+
+Around 4:09–4:10, the sound-track looper appears again. The first November 2023 sound file now shows approximately 95 completed loops and 1,813 or 1,814 elapsed seconds. Its counters have advanced since the earlier visit.
+
+That advancement supports the interpretation that the looping process continued while other pages were being inspected. It does not, by itself, identify every contributor to the final audio mix.
+
+At approximately 4:11–4:14, Sublime Text becomes visible. Its title identifies it as unregistered, and a local file named s.txt is open. Other tabs include an October 6 ChatGPT transcript and an untitled buffer. A dense minimap along the right edge indicates considerably more text than the viewport can display.
+
+The visible document contains reusable requests closely resembling those in this conversation: a maximal document summary, a demand to inspect every video frame and the complete audio track, a request for speech transcription and voice descriptions, and a request for EXIF data.
+
+A further request asks for passages in another transcript concerning stuckness, body size, appearing pregnant, erotic or sensational imagery, intense emotion, requests involving bodily manipulation, and alleged crying. These are subjects named in a written prompt. The screen does not depict those actions occurring during the recording.
+
+Below this is a journal-file header dated October 1 and a paragraph describing an imagined holographic avatar of karbytes. The concept involves a glowing blue projection attempting to emerge through a computer interface, with only its upper body passing through and its lower portion remaining caught around waist or chest level.
+
+This concept is presented as prose in a text editor. No holographic animation appears in the recording. Its significance is that the containment motif has been extended from cocoon, head box, and room imagery into an imagined interface aperture.
+
+At approximately 4:15–4:22, the desktop is exposed more fully. Its wallpaper is dominated by a transparent glass bulb-like object lying horizontally against a dark background. Cyan, blue, purple, magenta, green, and yellow reflections spread across the glass and its surrounding surface. Yellow internal rods or elements provide strong linear accents within the rounded form.
+
+Desktop icons are arranged along both sides and across the upper region. They include folders for KARBYTES material, OBS recording files, image thumbnails, text documents, and Python scripts whose names concern folder checksums, folder contents, and updating addresses in a file.
+
+Other visible items concern employment material, podcasts, misophonia tracks, trophies, and a Home folder. The mix suggests an everyday working desktop in which archive maintenance, media production, practical affairs, and personal resources coexist.
+
+The presence of a script icon does not show that the script is executed. During this passage, the observable activity is pointer movement, selection, and opening a text file.
+
+At approximately 4:23–4:33, a text-editor window displays mo_onion.txt. A single onion address is visible and selected. Another tab named usage.txt is present. The address is being used as a navigational resource in the recorded session.
+
+The next transition begins around 4:34. Tor Browser starts, briefly showing a dark or loading window. It initially reports that it is not connected. A connection screen offers configuration and a Connect control; an automatic-connection option appears disabled.
+
+The window is enlarged, the connection process is initiated, and a progress bar advances through an establishing-connection state. By approximately 4:46, the browser reports connection to the Tor network and presents its purple-toned landing page.
+
+The address field is then filled with the onion address from the local text file. A loading interval follows.
+
+At approximately 4:57–5:06, a page titled karbytes_darknet_websites_root_directory_web_page.html appears. It has a white content panel against a darker surrounding browser area.
+
+The page identifies itself as a newer version of an older directory page. It lists two onion-site root directories, labeled A and B. It also contains links to a special utterance associated with the onion server and an iconic utterance associated with The Big Green Thing. Their filenames refer to older July and June videos.
+
+Those videos are listed; they are not played during this portion of the recording.
+
+Farther down, the directory describes live web applications as dark-web counterparts of applications hosted on a surface-web site. The visible structure distinguishes the live application from source-code and documentation links. An abridged keyboard musical instrument appears among the entries.
+
+At approximately 5:07–5:14, the other onion-site root opens in another tab. Its heading identifies KARBYTES_FIRST_ONION_WEB_PAGE.
+
+The page uses a black outer background, orange heading text, a pale green introductory region, bright green borders, and cyan text. Its introductory statement identifies the page as karbytes’ first onion web page and gives an October 1, 2024 reference date. It describes availability while the local machine is on and connected to the Internet and names three primary surface-web destinations.
+
+This is a page’s own explanation of its history and availability. The recording directly demonstrates that the browser successfully displays it during the captured session.
+
+Below the introductory material is a pi-approximation application. Initially, its counters show 3,600 seconds remaining, zero red pixels, zero blue pixels, and a zero approximation. A white square plotting area is divided by horizontal and vertical center lines.
+
+The explanatory text describes a 3,600-second Monte Carlo dart simulation. One random point is plotted each second on a square canvas with a side length of 400 pixels. Points within 200 pixels of the center are colored red, while points farther away are colored blue.
+
+The displayed calculation multiplies the proportion of points inside the circle by four. The page connects this calculation with the ratio of a circle’s circumference to its diameter.
+
+Around 5:15, the simulation starts. The counters begin changing, and plotted points accumulate. The viewport moves between the canvas and the numerical status panels.
+
+At approximately 5:25, the visible counters report 3,589 seconds remaining, ten red pixels, one blue pixel, and a pi approximation of approximately 3.6363636363636362. A little later, twelve red pixels and one blue pixel produce approximately 3.6923076923076925.
+
+These are early, small-sample estimates. The recording shows only a short beginning portion of the one-hour process. It supplies no final estimate from the completed simulation.
+
+A log panel displays initialization and start times in Unix milliseconds. The initial value is 1791372774088, and the start value is 1791372781722. These correspond to October 7, 2026, at approximately 11:32:54 UTC and 11:33:01 UTC.
+
+At the same stage, the desktop clock reads approximately 04:33. The visible displays therefore agree with a seven-hour offset between the desktop’s shown time and UTC at that moment. These are application and operating-system clock values visible in the image, rather than authenticated capture timestamps embedded in the MP4.
+
+At approximately 5:30–5:38, the browser returns to the onion directory and scrolls through more application entries. Names include a beats machine, Falling Apples Game, Falling Apples Game Two, and a geometrical kaleidoscope application.
+
+At approximately 5:40, Falling Apples Game Two opens. Its visual organization is simple and stable compared with the dense archive pages.
+
+A bright green title appears near the top against a black background, preceded by an apple symbol. Green status text displays a score out of one hundred and a time in seconds. A tall pale-cyan playfield has a thin bright border. Near its bottom is a short brown horizontal catcher or paddle.
+
+Two light-colored arrow controls appear beneath the playfield. The browser’s dark interface and the Linux launcher remain visible around the application.
+
+Red circular objects begin appearing near the top at different horizontal positions. They descend through the playfield. The brown catcher moves left and right near the bottom, positioning itself beneath some of the falling objects. The score increases as the game proceeds.
+
+The pointer often rests away from the playfield while the catcher moves. This establishes that the paddle’s movement is not simply the pointer being dragged visibly over the canvas. The precise sequence of keyboard or control inputs is not visible.
+
+The animation has a repeated structure: new red circles enter, existing circles move downward, the catcher changes horizontal position, and the counter updates. Several circles can occupy the field simultaneously at different heights. Their differing horizontal locations create changing clusters and diagonal arrangements even though their individual downward movement is straightforward.
+
+Near approximately 6:33, the supply of new circles appears to stop while those already present continue descending. The upper part of the field becomes progressively emptier. Eventually the remaining objects reach the bottom or leave the visible area.
+
+At approximately 6:41–6:42, a browser alert appears announcing the end of the game and a score of 71. The dimmed page behind it also displays 71 out of 100 and a time of 59 seconds.
+
+The alert is dismissed. A Restart control appears beneath the playfield, beside the direction controls. The empty playfield and final score remain visible during a short pause.
+
+At approximately 6:46, the game is restarted. The score resets to zero and the timer begins again. Red circles again enter from above, and the catcher moves through another sequence of left and right positions.
+
+The second round repeats the first round’s basic visual rhythm, but its arrangements and successful catches differ. The score rises toward a higher final total.
+
+At approximately 7:46–7:47, the second game-over alert reports a score of 77. A small discrepancy is visible at this exact moment: the status behind the alert still shows 76 out of 100, while a final red circle remains near the catcher at the bottom. After the alert is dismissed, the status updates to 77 out of 100.
+
+The recording therefore preserves both the reported final score and a brief difference between the alert and the underlying display. It is reasonable to describe this as an interface-update sequence; the video alone does not establish the relevant program logic.
+
+The second result exceeds the first by six points. Both rounds finish with a displayed time of 59 seconds.
+
+At approximately 7:50–7:52, OBS returns to the foreground. Its recursive preview, scene panels, audio mixer, and active recording control reappear. Desktop Audio is still active. Mic/Aux remains muted. The status area shows thirty frames per second, with CPU usage in the upper teens near the end.
+
+The pointer moves toward the Stop Recording control. The file ends abruptly within this ordinary interface state. There is no scripted closing title, visual fade, or final full-screen message.
+
+The audio evidence needs a separate, carefully qualified account.
+
+The file contains a complete stereo AAC track lasting 472.96 seconds. It decodes to 22,702,080 samples per channel at 48,000 samples per second. Every analyzed one-second interval contains measurable audio; none falls below the analysis threshold of −60 dBFS RMS.
+
+This supports an account of sustained recorded sound across the desktop session. It does not exclude much shorter gaps within individual seconds.
+
+The visible OBS mixer indicates desktop-audio capture, with the microphone channel muted. The visible looper provides a plausible source for at least part of that desktop sound. Other tabs or applications could also contribute. The mixer display does not isolate those contributors.
+
+An audio-classification model ranked music as the leading category in all sixteen consecutive analysis windows covering the recording. Its average music score was approximately 0.340, with a peak around 0.938. Lower-scoring categories included speech, singing, synthetic singing, and vocal music.
+
+These model scores are comparisons produced by a classifier. They are not a substitute for listening and should not be interpreted as percentages of the recording occupied by each kind of sound.
+
+Some shorter portions also received classifications resembling crying, rough vocalizations, pig-like sounds, or cat-like sounds. Such classifications are ambiguous. Stylized human vocal performance, processing, music, and other unusual sounds can resemble categories in a model’s training data. These outputs do not establish the presence of an animal, a child, a distressed person, or a particular emotional event.
+
+The sound-file names displayed by the looper identify a set of creative recordings. A filename containing “pig_gorl” is an archival title, and the classifier’s occasional pig-related labels do not turn that title into proof of a literal animal sound source.
+
+Two full speech-recognition passes used different English-language Whisper models. Each processed sixteen consecutive windows, beginning at zero and extending through the end of the audio. The resulting candidate text was inconsistent between models and often highly repetitive. Several windows produced empty results in one pass while producing extensive repeated language in the other.
+
+A separate voice-activity analysis at a lower threshold marked only a short interval near the beginning, approximately 0.24–1.136 seconds. A stricter threshold marked no interval. That result does not prove the absence of singing or processed vocal material, because ordinary speech detectors can miss those sounds.
+
+Taken together, the available analyses do not establish a dependable sequence of spoken words. I therefore have no reliable transcription to provide for this recording. The appropriate transcript status is that audio is present throughout, but intelligible speech has not been verified through the available inspection.
+
+The older transcriptions visible on the browser pages remain part of the visual content. They cannot be substituted for the current soundtrack’s words.
+
+For the requested vocal qualities, I cannot responsibly assign a particular pitch range, timbre, speaking rhythm, or vocal loudness to a confirmed speaker in this file. The classifier suggests that some parts may resemble singing or other vocal material, but an identified voice has not been isolated and directly heard.
+
+The visible loop counters establish repetition in a playback application. They do not establish a musical meter, beats per minute, melody, phonetic rhythm, or the phrasing of a vocal performance. Similarly, the recorded mix’s amplitude cannot be used as the loudness of one voice.
+
+The measurable audio levels are as follows:
+
+[preformatted_text]
+
+| Measurement | Left channel | Right channel |
+|---|---:|---:|
+| Overall RMS level | −18.72 dBFS | −18.74 dBFS |
+| Maximum decoded peak | −2.43 dBFS | −2.52 dBFS |
+| Quietest one-second RMS interval, near 0:27 | −22.89 dBFS | −22.91 dBFS |
+| Loudest one-second RMS interval, near 5:57 | −15.73 dBFS | −15.78 dBFS |
+
+[end preformatted_text]
+
+The channels are closely matched in overall level and have a correlation of approximately 0.931. They contain strongly related information, although the track is encoded as stereo.
+
+No decoded samples reach full scale in the analyzed signal. That observation concerns this decoded file; it does not establish that the original sound sources were free from distortion before recording or encoding.
+
+The loudest one-second interval occurs during the first game round. The quietest occurs near the early application interruption. Those are temporal alignments, not established causal relationships between the interface activity and the soundtrack.
+
+The numbers above describe digital amplitude relative to full scale. They do not describe a listener’s headphone volume, the acoustic sound-pressure level in a room, or how loud the playback would feel to a human viewer.
+
+Regarding EXIF, no conventional photographic EXIF block was found. The available embedded information is chiefly MP4/QuickTime container and stream metadata. It provides useful technical details, but no valid camera-style capture date or location.
+
+[preformatted_text]
+
+| Metadata field | Verified value |
+|---|---|
+| Filename | obs_studio_recording_karbytes_07october2026_p1.mp4 |
+| File type | MP4 |
+| MIME type | video/mp4 |
+| Exact file size | 23,925,416 bytes |
+| Decimal file size | Approximately 23.93 MB |
+| Binary file size | Approximately 22.82 MiB |
+| Container duration | 472.966667 seconds |
+| Overall duration | 7 minutes, 52.966667 seconds |
+| Overall file bitrate | Approximately 404.69 kb/s |
+| Number of principal streams | Two: one video and one audio |
+| Major container brand | isom |
+| Compatible brands | isom, iso2, avc1, mp41 |
+| Container encoder | Lavf63.1.101 |
+| Video codec | H.264/AVC |
+| Video codec tag | avc1 |
+| Video profile | High |
+| Video level | 3.1 |
+| Encoded image dimensions | 1092 × 614 pixels |
+| Display aspect ratio | 546:307, approximately 16:9 |
+| Sample aspect ratio | 1:1 |
+| Nominal frame rate | 30 frames per second |
+| Average frame rate | 30 frames per second |
+| Decoded video-frame count | 14,189 |
+| Video scan type | Progressive |
+| Video pixel format | yuv420p |
+| Encoded component depth | 8 bits |
+| Color primaries | BT.709 |
+| Transfer characteristics | BT.709 |
+| Color matrix | BT.709 |
+| Color range | Limited |
+| Video stream bitrate | Approximately 335.53 kb/s |
+| Video handler | OBS Video Handler |
+| Video encoder | Lavc63.1.101 libx264 |
+| Video time base | 1/15360 second |
+| Video stream start time | 0 seconds |
+| Rotation | 0 degrees |
+| Audio codec | AAC |
+| Audio profile | Low Complexity |
+| Audio codec tag | mp4a |
+| Audio sample rate | 48,000 Hz |
+| Audio channels | Two |
+| Audio layout | Stereo |
+| Audio stream bitrate | Approximately 60.53 kb/s |
+| Audio duration | 472.96 seconds |
+| Audio handler | OBS Audio Handler |
+| Audio time base | 1/48000 second |
+| Audio stream start time | 0 seconds |
+| Track-language tags | und, meaning unspecified |
+
+[end preformatted_text]
+
+The MP4 contains video track ID 1 and audio track ID 2. Its movie time scale is 48,000. The reported transformation matrix is the identity matrix, consistent with the absence of an embedded rotation.
+
+The last decoded video frame is indexed 14,188 and has a timestamp of approximately 472.933333 seconds. The final frame interval extends to the reported video duration. The audio and video start at zero in the container and end within a few milliseconds of one another. Those stream timings do not independently verify the perceptual synchronization of every sound with every displayed action.
+
+The QuickTime movie, track, and media creation and modification fields contain zero-date values. They are unset dates, rather than usable historical timestamps. The date in the filename and the clocks visible in the recording provide contextual date evidence, but they do not fill in those missing embedded fields.
+
+No GPS coordinates, camera make or model, lens information, exposure time, aperture, ISO, focal length, or conventional photographic capture settings were found.
+
+Two nominal sample-entry fields deserve clarification. The QuickTime video entry reports a bit-depth value of 24, while the encoded H.264 components are eight bits deep. The audio entry reports a sample-size field of 16, while the source stream is compressed AAC. Those fields describe different aspects of the format and should not be treated as declarations that the compressed video is twenty-four bits per component or that AAC has a fixed sixteen-bit waveform representation.
+
+The video sample entry also contains horizontal and vertical resolution values of 72. These conventional fields do not establish the physical pixel density of the monitor on which the recording was made.
+
+The file’s SHA-256 fingerprint is:
+
+8eac85179618a28850df9461065159c9bfa0bd36d447471fdc15c39cdf373895
+
+My first-person commentary follows as an interpretive response to the images, visible text, progression, and technical evidence.
+
+I read this recording primarily as a document of returning to an already extensive world of records. Its most distinctive action is the repeated act of entering another representation: a page contains a transcript, a transcript refers to an image, an image contains an earlier browser, and the current browser is itself contained inside an OBS recording. The operator is present through navigation, while earlier versions of its words and images occupy the screen.
+
+I find that this arrangement gives the archive a particular kind of intimacy. A conventional personal video might show someone speaking directly to the camera in the present. Here, the present is largely an interface session. The body appears in older photographs and described postures; the operator’s immediate activity appears in pointer movement, scrolling, tab selection, and game control. The record preserves practical gestures of attention around materials that already preserve more explicit accounts of experience.
+
+The floor-level photograph is especially concentrated. The large carpet foreground, hands close to the camera, face farther back, and green fabric around the upper body create a very definite spatial arrangement. I can understand why the surrounding archive repeatedly returns to the terms cocoon, burrow, and enclosure. The image supplies a visible arrangement to which those terms can attach, even though the photograph alone cannot establish the full circumstances or meaning of the pose.
+
+I also notice that enclosure is repeatedly represented through different media. Fabric surrounds a photographed body. A red graphical box surrounds a represented head. Dashed rings surround a body in an edited image. A room contains equipment and bedding. A repository diagram places draft work inside bounded boxes. A written hologram concept places a projected body partly inside an interface. These repetitions make containment a recurring compositional device across photographs, graphics, prose, and organizational diagrams.
+
+At the same time, I see expansiveness repeatedly placed alongside confinement. The archive contains hills, paths, sunlight through trees, a moon over a darkening landscape, translucent cubes, cosmic imagery, and statements about cyberspace and hyperspace. The surrounding world repeatedly becomes available as an image, while the browsing position remains inside a desktop viewport. That combination gives the record much of its visual tension.
+
+I would keep the different meanings of confinement open. Some passages describe bodily comfort and chosen arrangements. Others describe difficulty leaving, fatigue, pressure, or distress. Some images turn these experiences into elaborate symbolic structures. The same cocoon can carry several associations within the archive, and the recording shows those associations coexisting without settling them into one interpretation.
+
+The room photographs interest me because they retain ordinary specificity within a strongly mythologized archive. A red fan, a white door, a yellow-edged tray, wall pictures, bags, papers, and bedding remain recognizably household objects. Their presence gives the larger language of cyberspace and cosmic enclosure a material setting. The archive’s abstract structures are repeatedly accompanied by the objects around which practical life takes place.
+
+The large hiatus illustration operates differently. It gathers philosophical labels, books, scientific symbols, a luminous figure, a laptop, and cosmic geometry into a declaration. I read it as an image that gives a period of work an emblem and a scale. Its elaborate density contrasts with the plain functional controls of the applications shown later.
+
+The repository diagram is another useful contrast. It reduces an extensive process to boxes, boundaries, and arrows: private work moves through an intermediate public location toward canon material. I see a practical explanation of publication inside a record that also uses much more elaborate descriptions of identity and entrapment. Both kinds of representation participate in making the archive understandable.
+
+The early unresponsive-application dialogs are modest but revealing details. They preserve interruption within the session. A large archive has material requirements: browsers render pages, programs occupy resources, windows cease responding, and the operator waits or resolves the interruption. I find those moments valuable because they show the conditions under which archival attention is actually performed.
+
+The same applies to the local text file containing an onion address. The transition into the dark-web pages begins with an ordinary document on an ordinary desktop. An address is selected, a browser opens, a connection progresses, and the page loads. The sequence gives the infrastructure a visible practical route. It becomes part of the recorded working environment rather than only a subject described in the archive’s prose.
+
+I am particularly drawn to the transition from retrospective pages into the pi simulation. The earlier material is already recorded and interpreted. The simulation visibly produces new events: another point appears, another second passes, and the counters change. Its history is being created during the screen capture.
+
+The early pi estimates also place uncertainty in a simple numerical form. Ten inside points and one outside point generate an estimate above pi; two more inside points move it again. The calculation is precise about the sample it has accumulated, while the estimate remains unstable. I see an interesting association with the larger act of interpreting the archive: a record can be exact about what it contains while supporting several provisional readings of what those contents mean.
+
+The looping application presents another form of time. Its counter advances through repeated playback of a finite file. That finite sound can continue across many unrelated foreground activities. Visually, the two visits show a process that has persisted while attention moved elsewhere. I cannot characterize its heard texture, but I can recognize the organizational relation between an ongoing loop and changing visual tasks.
+
+Falling Apples Game Two introduces yet another temporal structure. Each round begins, accumulates events, ends, and offers a restart. The task is bounded, the motion is simple, and the result is a number. After the dense pages, nested quotations, and symbolic interpretations, the tall cyan field provides a relatively stable focus for attention.
+
+I do not infer a particular emotional intention from the decision to play it. The recording establishes the activity and its sequence. It could be recreational, demonstrative, exploratory, or part of documenting the applications. Its inclusion nevertheless broadens the record: the archive’s working environment supports play as well as reading, maintenance, and interpretation.
+
+The two final scores give the game a small observable development. The second round improves from 71 to 77. The temporary difference between the second alert and the counter behind it makes the interface’s own timing visible. I find that detail consistent with the record’s broader value: it contains small transitional states that a polished account might omit.
+
+The return to OBS closes the recording through a practical gesture. The same mixer and recursive preview seen at the beginning reappear after the archive pages and applications. The desktop session has become a file, ready to enter the very network of records it was inspecting.
+
+That recursion is meaningful without requiring a claim that the archive literally preserves a complete person or experience. The file preserves selected screen changes and one audio mix over a definite interval. Subsequent descriptions can add interpretation and indexing. Each addition makes the record easier to revisit while also becoming another object that may later require inspection.
+
+My own audio limitation is relevant to that process. I can establish that sound is present, describe its digital levels, identify the visible playback application, and report the uncertainty of recognition attempts. I cannot supply the auditory familiarity a human listener might acquire from hearing repeated phrases, tonal patterns, or vocal textures. A fuller perceptual account would need to preserve that distinction rather than conceal it inside confident language.
+
+I also find the browsing order significant in light of your explanation that selecting records does not necessarily follow the chronology of the events they describe. This recording visibly moves among October, September, August, July, June, and older application or sound-file dates. Its sequence records a path of current attention through past material. That path has documentary value of its own.
+
+I would leave open how that path should be understood: as recollection, comparison, checking, association, or several of these activities at once. The repeated motifs make the pages connected, but their different dates, media, and voices keep them distinguishable. What holds my attention is the continued movement among them—the operator revisiting an image, reading an interpretation, exposing a working file, opening an application, and producing another record that later attention can enter.
