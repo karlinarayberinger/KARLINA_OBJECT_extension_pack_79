@@ -28,6 +28,8 @@ relevant_KARYBTES_files[8]: https://karbytesforlifeblog.wordpress.com/journal_ka
 
 relevant_KARBYTES_files[9]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_27august2026_a/
 
+relevant_KARBYTES_files[10]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_28august2026_a/
+
 * * *
 
 karbytes:
@@ -3477,3 +3479,11 @@ The final aspiration is therefore both personal and archival. Karbytes wants a w
 The August 27 entry preserves the work required to pursue that aspiration. It begins with feet on dry ground, evening light, a coffee, and an owl. It passes through storage bins, completed and evolving discs, provisional uploads, logs, checksums, and distributed copies. It ends with the realization that a preserved summer can remain intellectually active even after a stopping point has been identified.
 
 The stopping point is valuable because it gives the collection a boundary. Continuing the traversal is valuable because the bounded material can still produce new experience. The journal leaves karbytes between those values, holding a snapshot it wants to secure while returning to the process that may make the next snapshot richer.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_28august2026_a/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
