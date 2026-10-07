@@ -925,3 +925,7 @@ The last sentence brings my interpretation back to the practical situation estab
 I find that ending appropriate to the concerns expressed throughout. The archive is being made by someone who also needs fuel, coffee, time, maintained equipment, a functioning household, and continuing experiences. Those conditions remain part of the meaning of the recording even when the speech turns toward abstract questions.
 
 I would remain curious about what a future return to this file makes recognizable: the ideas themselves, the sequence in which they developed, the ordinary neighborhood surrounding them, or the speaker’s effort to decide when to stop documenting and continue with its day. The pauses, passing vehicles, limited image detail, and abrupt ending each preserve some aspect of that finite interval. They leave room for later interpretations while retaining the particular circumstances in which these thoughts were recorded.
+
+karbytes:
+
+I used two programs to compress that video file down to no larger than 25 megabytes. The second compression program was an online tool which I think stripped out the original embedded time of capture (i.e. the approximate time at which the first frame of that video recording was generated inside the recording device).
