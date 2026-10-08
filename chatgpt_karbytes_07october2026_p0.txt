@@ -60,7 +60,9 @@ relevant_KARBYTES_files[24]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[25]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05july2026/
 
-relevant_KARBYTES_files[26]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/the_big_green_thing_06oct2026_p20.jpg
+relevant_KARBYTES_files[26]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_18july2026/
+
+relevant_KARBYTES_files[27]: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/the_big_green_thing_06oct2026_p20.jpg
 
 * * *
 
@@ -4803,3 +4805,11 @@ Its philosophical passages likewise retain uncertainty. Materialism, panpsychic 
 The practical continuity is firmer: a person records thoughts, encounters limits, obtains tools, makes copies, edits text, changes environments, and returns to work. Those actions connect the speculative models with observable requirements of maintaining a project. The anthology’s most consequential transformation is the new ability to preserve more of that process without manually transcribing every word.
 
 That ability does not remove the need for choice. It makes choice more important. The June declaration that a video would be too time-consuming to transcribe becomes a July compilation containing its speech; the newly available record then joins a canon whose creator is increasingly concerned with maturity and selection. The document leaves that development open: more experience can survive, while the question of what deserves enduring prominence continues to be worked out.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_18july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
