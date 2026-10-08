@@ -37,3 +37,29 @@ karbytes:
 So aside from having to possibly manually change the site from Private back to Public and possible advertisements being displayed in the margins or between paragraphs of pages of my website, what other changes could I be expected to see as a result of the tier demotion?
 
 ChatGPT:
+
+[Worked for 2m 50s]
+
+Beyond ads and the visibility setting, **the main changes concern uploads, design features, and administrative tools.** Some apply only if you currently use those paid features.
+
+[preformatted_text]
+
+| Area | What changes when Personal becomes Free |
+|---|---|
+| **New file uploads** | If your Free allocation is 1 GB, your current 1.3 GB usage would block new media uploads. Existing files remain. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com) |
+| **Theme and layout** | A theme available on Free can remain. A theme requiring a paid plan, or one you uploaded yourself, may be replaced, changing the site’s appearance. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com) |
+| **Custom CSS and fonts** | CSS entered through the site’s **Additional CSS** editor remains saved but stops being applied. Paid font customization controls also become unavailable. [WordPress.com Support](https://wordpress.com/support/editing-css/?utm_source=chatgpt.com) |
+| **Installed plugins** | Installed plugins are removed along with their data. Features and content supplied through those plugins can disappear. This applies if you have actually installed plugins. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com) |
+| **Custom scripts and embeds** | Free restricts custom JavaScript and arbitrary iframe code. Supported WordPress embeds, such as YouTube embeds, remain available. [WordPress.com Support](https://wordpress.com/support/code/?utm_source=chatgpt.com) |
+| **Traffic statistics** | Free provides access to the last **seven days** of traffic statistics, rather than Personal’s longer historical views. [WordPress.com Support](https://wordpress.com/support/plan-features/?utm_source=chatgpt.com) |
+| **Activity history** | The activity log is limited to the **20 most recent events**, rather than Personal’s 30-day history with filtering. [WordPress.com Support](https://wordpress.com/support/plan-features/personal-plan/?utm_source=chatgpt.com) |
+| **Audio uploads** | Uploading new audio files such as MP3s requires a paid plan, even if you have spare storage. [WordPress.com Support](https://wordpress.com/support/audio/?utm_source=chatgpt.com) |
+| **Support** | You lose Personal’s included 24/7 human support. Support guides, forums, and the support assistant remain available. [WordPress.com Support](https://wordpress.com/support/plan-features/personal-plan/?utm_source=chatgpt.com) |
+
+[end preformatted_text]
+
+Your existing **karbytesforlifeblog.wordpress.com address remains usable**. The domain-related change matters if you also use a custom domain: Free uses the `.wordpress.com` address as the primary address. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com)
+
+For your transcript and directory pages, **ordinary HTML remains supported**, including paragraphs, italics, preformatted text, images, and hyperlinks. Links to GitHub files do not require a paid plan. WordPress staff have also documented inline styling on Free; on that basis, I would expect simple inline monospace formatting to continue working. That is separate from the paid Additional CSS feature described above. [WordPress.com Support](https://wordpress.com/support/code/?utm_source=chatgpt.com)
+
+You can continue creating and editing text posts and pages: Free includes unlimited posts and pages, revision history, hosting, and HTTPS. Exceeding the media allowance blocks new file uploads rather than ordinary text publishing. [WordPress.com Support](https://wordpress.com/support/plan-features/?utm_source=chatgpt.com)
