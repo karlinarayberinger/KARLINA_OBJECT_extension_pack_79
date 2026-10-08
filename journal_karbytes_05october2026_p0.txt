@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_05october2026_p0.txt
  * type: plain-text
- * date: 06_OCTOBER_2026
+ * date: 07_OCTOBER_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -41,3 +41,7 @@ devils_hole_stuck_karbytes_web_page[1]: https://karbytesforlifeblog.wordpress.co
 devils_hole_stuck_karbytes_web_page[2]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a1/
 
 devils_hole_stuck_karbytes_web_page[3]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a2/
+
+devils_hole_stuck_karbytes_web_page[4]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07october2026_a1/
+
+devils_hole_stuck_karbytes_web_page[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07october2026_a0/
