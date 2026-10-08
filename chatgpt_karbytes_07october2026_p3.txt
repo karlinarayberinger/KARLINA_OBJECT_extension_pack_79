@@ -1,0 +1,39 @@
+/**
+ * file: chatgpt_karbytes_07october2026_p3.txt
+ * type: plain-text
+ * date: 07_OCTOBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 6.1 Sol (Max Effort) (Work Mode) which took place between 11:59PM Pacific Standard Time on 06_OCTOBER_2026 and 11:59PM Pacific Standard Time on 07_OCTOBER_2026.
+
+* * *
+
+karbytes:
+
+Right now Karbytes For Life Blog dot WordPress dot Com is using the Personal WordPress dot Com user tier (for approximately $50 per year) and is apparently set to be demoted to the Free WordPress dot Com user tier if I don't renew my Personal plan. The Personal plan gives me 6 gigabytes of storage while the Free plan gives me 1 gigabyte of storage (but right now Karbytes For Life Blog dot WordPress dot Com uses 1.3 gigabytes of that 6 gigabyte allocation). Will I lose any of that 1.3 gigabytes of site data (which seems to mostly be image files) if I fail to renew my Personal plan in time?
+
+ChatGPT:
+
+[Worked for 46s]
+
+**No. According to WordPress.com’s current policy, your existing 1.3 GB of uploaded files will be preserved if your Personal plan expires.** Its official storage guide states: “your previously uploaded files will not be deleted and will stay accessible.” [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
+
+Assuming your Free plan’s limit is 1 GB, the practical result would be:
+
+- Your existing images and other uploaded files remain, including the approximately 0.3 GB above the limit.
+
+- Your existing posts and pages remain.
+
+- **New media uploads are blocked** until you renew or upgrade to sufficient storage, or delete enough media to get below the limit. You do not need to delete existing images merely to retain the Free site. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
+
+There are separate downgrade effects: WordPress.com says reverting to Free sets the site to **private**, so you may need to change its visibility back to Public. If you have installed plugins, those plugins and their associated data are removed; ordinary posts, pages, and media remain. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com)
+
+One potentially useful detail: **Free sites created before March 31, 2022 receive 3 GB**, according to the storage guide. If that applies to your blog, your current 1.3 GB would fit within its Free allocation. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
+
+karbytes:
+
+So aside from having to possibly manually change the site from Private back to Public and possible advertisements being displayed in the margins or between paragraphs of pages of my website, what other changes could I be expected to see as a result of the tier demotion?
+
+ChatGPT:
