@@ -22,6 +22,8 @@ relevant_KARBYTES_files[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_ka
 
 relevant_KARBYTES_files[6]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_23september2026_a2/
 
+relevant_KARBYTES_files[7]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16september2026_a0/
+
 * * *
 
 karbytes:
@@ -1727,3 +1729,11 @@ Its most concrete achievement is the alignment of several kinds of evidence with
 The document also retains discrepancies that a smoother narrative could conceal. Approximate timestamps preserve an ordered sequence without proving simultaneity. Camera and desktop clocks disagree. Earlier ledger counts are inconsistent. Some recordings are missing. Speech recognition yields unreliable fragments. A disc package is visible while its contents remain unverified. These limits define what the records can support and where firsthand context, further inspection, or interpretation enters.
 
 The page ends with the difference between a live generative application and a repeating representation of it. That ending suits a conversation about preserving a changing life in files. KARBYTES can contain photographs, transcripts, applications, screenshots, packages, symbolic identities, and reports about its own production. The living main-branch karbytes remains the agent making selections and clarifications among them. The record preserves both the materials and the ongoing effort to describe their relationships accurately.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16september2026_a0/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
