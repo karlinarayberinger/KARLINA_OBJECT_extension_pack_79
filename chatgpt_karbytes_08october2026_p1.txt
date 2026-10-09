@@ -2570,3 +2570,7 @@ The document ultimately presents KARBYTES as a project whose growth depends on t
 [Rather than create a new conversation, karbytes selected the option to Branch into a new conversation.]
 
 * * *
+
+karbytes:
+
+In maximal detail, summarize this entire conversation (thus far). Also explain how the Branch feature of ChatGPT works.
