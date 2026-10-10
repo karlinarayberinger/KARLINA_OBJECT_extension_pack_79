@@ -1,0 +1,25 @@
+/**
+ * file: chatgpt_karbytes_10october2026_p0.txt
+ * type: plain-text
+ * date: 10_OCTOBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 6.1 Sol (Max Effort) (Work Mode) which took place between 11:59PM Pacific Standard Time on 09_OCTOBER_2026 and 11:59PM Pacific Standard Time on 10_OCTOBER_2026.
+
+* * *
+
+karbytes:
+
+If I use up all of the 6 gigabytes of media storage space allotted to my (paid) Personal WordPress dot Com plan, will I be able to purchase additional storage space without having to also upgrade to a higher-cost WordPress tier?
+
+ChatGPT:
+
+[Worked for 33s]
+
+**Yes.** WordPress.com currently offers a separate **Storage Add-on** for all sites, including those on the Personal plan, so you can purchase more storage without upgrading your plan. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
+
+The available add-ons range from **50 GB to 350 GB of additional storage**, in 50 GB increments. The smallest would bring your existing 6 GB allowance to **56 GB total**. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
+
+To view the price and purchase one, go to your site’s dashboard → **Upgrades → Add-Ons**, select the storage amount, and proceed to checkout. The storage purchase is an additional cost alongside your Personal plan. [WordPress.com Support](https://wordpress.com/support/add-ons/?utm_source=chatgpt.com)
