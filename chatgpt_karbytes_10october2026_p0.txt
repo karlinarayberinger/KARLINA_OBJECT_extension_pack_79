@@ -23,3 +23,21 @@ ChatGPT:
 The available add-ons range from **50 GB to 350 GB of additional storage**, in 50 GB increments. The smallest would bring your existing 6 GB allowance to **56 GB total**. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
 
 To view the price and purchase one, go to your site’s dashboard → **Upgrades → Add-Ons**, select the storage amount, and proceed to checkout. The storage purchase is an additional cost alongside your Personal plan. [WordPress.com Support](https://wordpress.com/support/add-ons/?utm_source=chatgpt.com)
+
+karbytes:
+
+If I allowed my WordPress dot Com websites (Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com) to be demoted from a paid  WordPress dot Com tier to the free WordPress dot Com tier (and I set each of those websites to public instead of private), will all their content remain publicly accessible (even if it exceeds the Free tier storage amount)?
+
+ChatGPT:
+
+[Worked for 1m 6s]
+
+**Yes—for existing standard posts, pages, and uploaded media on both websites.** WordPress.com’s current policy says previously uploaded files remain accessible after a paid plan expires or is canceled, even when they exceed the Free plan’s storage allowance. [WordPress.com Support](https://wordpress.com/support/manage-purchases/cancel-a-purchase/?utm_source=chatgpt.com)
+
+Exceeding that allowance **blocks new media uploads**; it does not require you to delete existing files or prevent visitors from viewing them. Existing audio and video files also continue working in posts and pages. Free storage is normally 1 GB, or 3 GB for sites created before March 31, 2022. [WordPress.com Support](https://wordpress.com/support/manage-purchases/cancel-a-purchase/?utm_source=chatgpt.com)
+
+There are two qualifications:
+
+- **Check that each site is Public after the downgrade completes.** WordPress.com may reset its visibility during the transition. You can restore Public under **Settings → Reading → Site Visibility**. Your existing `.wordpress.com` addresses remain usable, and Free sites display advertisements. [WordPress.com Support](https://wordpress.com/support/privacy-settings/?utm_source=chatgpt.com)
+
+- **Content that depends on installed plugins is an exception.** Reverting to Free removes installed plugins and their data, and WordPress.com says content added through those plugins is lost. Uploaded themes and some paid customizations can also be removed. Consequently, preservation of ordinary posts and media does not guarantee that every paid feature or element will survive unchanged. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com)
