@@ -55,3 +55,7 @@ ChatGPT:
 The documented procedure is to finish the downgrade, then change **Settings → Reading → Site Visibility → Public → Save Changes** for each website. Based on that procedure, I would not rely on setting them Public beforehand to prevent the reset. [wordpress.com](https://wordpress.com/support/privacy-settings/?utm_source=chatgpt.com)
 
 If you need **uninterrupted public access during the transition**, ask WordPress.com support whether they can preserve that status for your two sites. I found no published guarantee that they offer such an exception.
+
+karbytes:
+
+If I allow those websites to be demoted to the free plan after allowing their (annual) paid plans to expire, can I still purchase additional site storage space without moving the websites out of the free tier?
