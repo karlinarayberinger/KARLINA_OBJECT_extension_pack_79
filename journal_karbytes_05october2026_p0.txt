@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_05october2026_p0.txt
  * type: plain-text
- * date: 09_OCTOBER_2026
+ * date: 10_OCTOBER_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -34,24 +34,30 @@ The following web pages of KARBYTES capture the essence of the following KARBYTE
 
 The Aforementioned Devil's Hole Stuck Karbytes Web Pages...
 
-devils_hole_stuck_karbytes_web_page[0]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06october2026_a0/
+devils_hole_stuck_karbytes_web_pages[0]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06october2026_a0/
 
-devils_hole_stuck_karbytes_web_page[1]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a3/
+devils_hole_stuck_karbytes_web_pages[1]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a3/
 
-devils_hole_stuck_karbytes_web_page[2]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a2/
+devils_hole_stuck_karbytes_web_pages[2]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a2/
 
-devils_hole_stuck_karbytes_web_page[3]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a4/
+devils_hole_stuck_karbytes_web_pages[3]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a4/
 
-devils_hole_stuck_karbytes_web_page[4]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a3/
+devils_hole_stuck_karbytes_web_pages[4]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a3/
 
-devils_hole_stuck_karbytes_web_page[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a1/
+devils_hole_stuck_karbytes_web_pages[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a1/
 
-devils_hole_stuck_karbytes_web_page[6]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a2/
+devils_hole_stuck_karbytes_web_pages[6]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a2/
 
-devils_hole_stuck_karbytes_web_page[7]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a1/
+devils_hole_stuck_karbytes_web_pages[7]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a1/
 
-devils_hole_stuck_karbytes_web_page[8]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a2/
+devils_hole_stuck_karbytes_web_pages[8]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a2/
 
-devils_hole_stuck_karbytes_web_page[9]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07october2026_a0/
+devils_hole_stuck_karbytes_web_pages[9]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07october2026_a0/
 
-devils_hole_stuck_karbytes_web_page[10]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a0/
+devils_hole_stuck_karbytes_web_pages[10]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a0/
+
+* * *
+
+// Bonus (Blog Post) Web Pages
+
+karbytes_fall2026_web_pages[0]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10october2026_a0/
