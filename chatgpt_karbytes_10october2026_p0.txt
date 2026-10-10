@@ -41,3 +41,17 @@ There are two qualifications:
 - **Check that each site is Public after the downgrade completes.** WordPress.com may reset its visibility during the transition. You can restore Public under **Settings → Reading → Site Visibility**. Your existing `.wordpress.com` addresses remain usable, and Free sites display advertisements. [WordPress.com Support](https://wordpress.com/support/privacy-settings/?utm_source=chatgpt.com)
 
 - **Content that depends on installed plugins is an exception.** Reverting to Free removes installed plugins and their data, and WordPress.com says content added through those plugins is lost. Uploaded themes and some paid customizations can also be removed. Consequently, preservation of ordinary posts and media does not guarantee that every paid feature or element will survive unchanged. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com)
+
+karbytes:
+
+Is there a way to auto-disable those WordPress dot Com websites from being switched from public to private upon being demoted to the free WordPress dot Com tier?
+
+ChatGPT:
+
+[Worked for 57s]
+
+**I couldn’t find a documented WordPress.com setting that disables that automatic reset.** Its downgrade guide says reverting to Free sets the site to Private so you can review the changes before making it Public again. [WordPress.com Support](https://wordpress.com/support/manage-purchases/downgrade-your-plan/?utm_source=chatgpt.com)
+
+The documented procedure is to finish the downgrade, then change **Settings → Reading → Site Visibility → Public → Save Changes** for each website. Based on that procedure, I would not rely on setting them Public beforehand to prevent the reset. [wordpress.com](https://wordpress.com/support/privacy-settings/?utm_source=chatgpt.com)
+
+If you need **uninterrupted public access during the transition**, ask WordPress.com support whether they can preserve that status for your two sites. I found no published guarantee that they offer such an exception.
