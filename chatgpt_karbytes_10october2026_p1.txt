@@ -1206,6 +1206,8 @@ At the level of language, the monologue expresses frustration, considers violent
 
 I found **MP4 metadata**, but no identifiable photographic EXIF block, XMP block, GPS coordinates, camera make or model, lens information, exposure time, aperture, or ISO value in the inspected metadata.
 
+[preformatted_text]
+
 | Property | Available value |
 |---|---|
 | Filename | `karbytes_thinking_09october2026_p3.mp4` |
@@ -1234,6 +1236,8 @@ I found **MP4 metadata**, but no identifiable photographic EXIF block, XMP block
 | Container encoder | `Lavf60.3.100` |
 | Video encoder | `Lavc60.3.100 libx264` |
 | Track language tags | `eng` |
+
+[end preformatted_text]
 
 The movie and track headers contain matching creation and modification timestamps. In **America/Los_Angeles**, the timestamp corresponds to **October 9, 2026, at 9:20:30 p.m. PDT**. That is consistent with the filename’s date, but metadata alone cannot establish the exact capture moment or location.
 
