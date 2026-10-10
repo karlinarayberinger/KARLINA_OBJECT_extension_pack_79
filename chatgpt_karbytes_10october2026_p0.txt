@@ -69,3 +69,7 @@ ChatGPT:
 Additional storage comes in **50 GB increments**, ranging from **50 GB to 350 GB**. For each website you want to expand, go to its dashboard → **Upgrades → Add-Ons**, choose the storage amount, and review the price at checkout. [WordPress.com Support](https://wordpress.com/support/space-upgrade/?utm_source=chatgpt.com)
 
 You would pay for the storage add-on while retaining the Free plan’s other features and limitations, including WordPress.com advertisements. [WordPress.com Support](https://wordpress.com/support/add-ons/?utm_source=chatgpt.com)
+
+karbytes:
+
+Is there a way for me to remove or prevent advertisements from being displayed in the margins of those websites without upgrading them to the paid plans?
