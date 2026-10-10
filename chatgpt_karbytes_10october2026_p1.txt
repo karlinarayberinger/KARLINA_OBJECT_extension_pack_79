@@ -954,6 +954,8 @@ The language itself is rhetorically forceful. Words including “corrupt brutes,
 
 I found **MP4 container and stream metadata**, but no identifiable photographic EXIF or XMP block, GPS coordinates, camera make/model, lens information, exposure settings, aperture, or ISO value in the inspected metadata.
 
+[preformatted_text]
+
 | Property | Available value |
 |---|---|
 | Filename | `karbytes_thinking_09october2026_p2.mp4` |
@@ -981,6 +983,8 @@ I found **MP4 container and stream metadata**, but no identifiable photographic 
 | Container encoder tag | `Lavf60.3.100` |
 | Video encoder tag | `Lavc60.3.100 libx264` |
 | Track language tags | `eng` |
+
+[end preformatted_text]
 
 The MP4 movie and track headers contain matching creation and modification timestamps. The timestamp corresponds to **October 9, 2026, 9:03:40 p.m. PDT** when expressed in the America/Los_Angeles time zone. That conversion is consistent with the date in the filename, but it does not establish the recording’s location. Embedded timestamps can also describe file creation or processing rather than the exact capture moment.
 
