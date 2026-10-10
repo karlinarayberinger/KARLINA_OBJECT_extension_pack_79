@@ -2285,6 +2285,8 @@ I see no clear change of location or obvious edited transition. The rapid visual
 
 The following timeline records the main visual developments. Times are approximate; repeated minor sways are grouped together.
 
+[preformatted_text]
+
 | Time | Visual progression |
 |---|---|
 | **00:00–00:04** | Close view of the laptop display and input area. A hand is briefly visible below the screen, then withdraws. The camera lifts and shifts, producing some blur. |
@@ -2303,17 +2305,15 @@ The following timeline records the main visual developments. Times are approxima
 | **08:59–09:15** | Additional shifts and short blurred movements bring the screen closer, then restore the wider arrangement. |
 | **09:15–09:56.326** | The laptop and lights remain the subjects. A noticeable jolt occurs around 09:50–09:51. The final frame still shows the bright screen, dark keyboard, two rear lights, and three foreground lights. There is no concluding fade or title. |
 
+[end preformatted_text]
+
 The audio processing recovered an English monologue extending from approximately **00:01.3 to 09:52.2**. The recognition results do not contain a separate conversational response or additional identified speaker. The final roughly four seconds contain low-level signal but no further intelligible speech recognized by either pass. I cannot reliably inventory background sounds, music, breathing, room reverberation, or handling noises without direct listening.
 
 The language moves through several connected concerns. The speaker begins by explaining that video compression is happening during recording and that a previous recording felt rushed. The discussion then considers whether forgiveness and renewed trust are possible after perceived mistreatment. It develops into allegations of manipulation and threats to autonomy, followed by a desire for the website to serve as a record or representative if the speaker cannot speak personally. Later, the speaker considers intellectual purpose, maintaining health and social power, learning, entertainment habits, acting an agreeable role, and the dependence of digital files on infrastructure and administrators. These are statements and beliefs expressed in the recording; the workspace images do not independently establish the allegations.
 
-The avai
+The available evidence supports the following description of the vocal material:
 
-[end preformatted_text[
-
-lable evidence supports the following description of the vocal material:
-
-[preformatted_text[
+[preformatted_text]
 
 | Quality | What I can establish |
 |---|---|
@@ -2324,7 +2324,7 @@ lable evidence supports the following description of the vocal material:
 | **Timbre** | I cannot reliably characterize breathiness, rasp, nasality, resonance, or smoothness through direct perception here. The signal contains periodic voiced structure, but that is insufficient for an honest listener-style timbre description. |
 | **Expressive character** | The wording is serious, distrustful, emphatic, frustrated, self-questioning, and at times defiant. That characterization comes from the language, not an independently heard vocal performance. |
 
-[end preformatted_text[
+[end preformatted_text]
 
 The pauses and repetitions are meaningful features of the reconstruction. “Serious adversity,” “serious risk,” “serious harm,” and “profound suffering” form an accumulating list. “They are complicated” follows “things can get very complicated,” strengthening rather than advancing the preceding statement. Elsewhere, qualifications such as “maybe,” “to some extent,” and “maybe not” temper more expansive claims. The result reads as thought being developed during speech, with alternating assertions, revisions, and digressions.
 
@@ -2446,7 +2446,7 @@ The unresolved adjective occurs around **08:53–08:54**. Recognition attempts p
 
 I found **no embedded EXIF block or useful camera-origin metadata**. The available metadata belongs primarily to the MP4 container and its encoded streams:
 
-[epreformatted_text[
+[preformatted_text[
 
 | Field | Value |
 |---|---|
